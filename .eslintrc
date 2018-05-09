@@ -1,0 +1,87 @@
+{
+    "plugins": [
+        "jsx-a11y",
+        "react"
+    ],
+    "extends": [
+        "standard",
+        "standard-jsx",
+        "plugin:react/recommended"
+    ],
+    "rules": {
+        "indent": [2, 2, { "SwitchCase": 1 }],
+        "quotes": [2, "single"],
+        // To turn off the avoid using debugger rule uncomment this line
+        // "no-debugger": 0,
+        "padded-blocks": 0,
+        "linebreak-style": [2, "unix"],
+        "semi": [2, "always"],
+        "no-console": 0,
+        "no-unused-vars": 0,
+        "no-underscore-dangle": 0,
+        "no-var": 0,
+        "space-before-function-paren": [1, "never"],
+        "block-scoped-var": 1,
+        "consistent-return": 0,
+        "curly": 1,
+        "dot-location": [1, "property"],
+        "eqeqeq": 2,
+        "no-eval": 2,
+        "no-implicit-coercion": 1,
+        "no-implicit-globals": 2,
+        "no-else-return": 0,
+        "no-multi-spaces": [1, "exceptions": { "Property": true }],
+        "no-new-func": 1,
+        "no-proto": 2,
+        "no-undef": 2,
+        "wrap-iife": [1, "any"],
+        "yoda": 2,
+        "no-mixed-requires": 1,
+        "comma-dangle": [1, "only-multiline"],
+        "eol-last": 2,
+        "jsx-quotes": [2, "prefer-double"],
+        "no-trailing-spaces": 1,
+        "prefer-const": 1,
+        "global-require": 0,
+        "react/prop-types": 0,
+        "react/display-name": 0,
+        "react/no-danger": 0,
+        "react/jsx-pascal-case": 2,
+        "react/jsx-space-before-closing": 2,
+        "react/jsx-boolean-value": 0,
+        "react/self-closing-comp": 0,
+        "jsx-a11y/img-has-alt": 2,
+        "jsx-a11y/aria-role": 2,
+        "jsx-a11y/label-has-for": 0,
+        "jsx-a11y/no-onchange": 2,
+        "jsx-a11y/onclick-has-focus": 2,
+        "jsx-a11y/mouse-events-have-key-events": 2
+    },
+    "env": {
+        "es6": true,
+        "browser": true,
+        "amd": true,
+        "jquery": false,
+        "node": true,
+        "mocha": true,
+        "commonjs": true,
+        "shared-node-browser": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true,
+            "impliedStrict": true
+        }
+    },
+    "globals": {
+        "$": true,
+        "jQuery": true,
+        "expect": true,
+        "beforeAll": true,
+        "fetch": true,
+        "mapboxgl": true,
+        "turf": true
+    }
+}

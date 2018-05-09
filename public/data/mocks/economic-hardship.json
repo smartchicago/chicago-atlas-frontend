@@ -1,0 +1,541 @@
+[{
+  "area": "60602",
+  "slug": "60602",
+  "value": "low"
+},{
+  "area": "60606",
+  "slug": "60606",
+  "value": "low"
+},{
+  "area": "60654",
+  "slug": "60654",
+  "value": "low"
+},{
+  "area": "60657",
+  "slug": "60657",
+  "value": "low"
+},{
+  "area": "60613",
+  "slug": "60613",
+  "value": "low"
+},{
+  "area": "60614",
+  "slug": "60614",
+  "value": "low"
+},{
+  "area": "60601",
+  "slug": "60601",
+  "value": "low"
+},{
+  "area": "60661",
+  "slug": "60661",
+  "value": "low"
+},{
+  "area": "60605",
+  "slug": "60605",
+  "value": "low"
+},{
+  "area": "60655",
+  "slug": "60655",
+  "value": "low"
+},{
+  "area": "60642",
+  "slug": "60642",
+  "value": "low"
+},{
+  "area": "60631",
+  "slug": "60631",
+  "value": "low"
+},{
+  "area": "60607",
+  "slug": "60607",
+  "value": "low"
+},{
+  "area": "60611",
+  "slug": "60611",
+  "value": "low"
+},{
+  "area": "60622",
+  "slug": "60622",
+  "value": "high"
+},{
+  "area": "60603",
+  "slug": "60603",
+  "value": "low"
+},{
+  "area": "60610",
+  "slug": "60610",
+  "value": "low"
+},{
+  "area": "60656",
+  "slug": "60656",
+  "value": "low"
+},{
+  "area": "60604",
+  "slug": "60604",
+  "value": "low"
+},{
+  "area": "60640",
+  "slug": "60640",
+  "value": "medium"
+},{
+  "area": "60646",
+  "slug": "60646",
+  "value": "medium"
+},{
+  "area": "60630",
+  "slug": "60630",
+  "value": "medium"
+},{
+  "area": "60660",
+  "slug": "60660",
+  "value": "medium"
+},{
+  "area": "60634",
+  "slug": "60634",
+  "value": "medium"
+},{
+  "area": "60647",
+  "slug": "60647",
+  "value": "medium"
+},{
+  "area": "60618",
+  "slug": "60618",
+  "value": "medium"
+},{
+  "area": "60638",
+  "slug": "60638",
+  "value": "medium"
+},{
+  "area": "60707",
+  "slug": "60707",
+  "value": "medium"
+},{
+  "area": "60643",
+  "slug": "60643",
+  "value": "medium"
+},{
+  "area": "60615",
+  "slug": "60615",
+  "value": "medium"
+},{
+  "area": "60633",
+  "slug": "60633",
+  "value": "medium"
+},{
+  "area": "60652",
+  "slug": "60652",
+  "value": "medium"
+},{
+  "area": "60625",
+  "slug": "60625",
+  "value": "medium"
+},{
+  "area": "60641",
+  "slug": "60641",
+  "value": "medium"
+},{
+  "area": "60616",
+  "slug": "60616",
+  "value": "medium"
+},{
+  "area": "60626",
+  "slug": "60626",
+  "value": "medium"
+},{
+  "area": "60645",
+  "slug": "60645",
+  "value": "medium"
+},{
+  "area": "60659",
+  "slug": "60659",
+  "value": "medium"
+},{
+  "area": "60619",
+  "slug": "60619",
+  "value": "high"
+},{
+  "area": "60620",
+  "slug": "60620",
+  "value": "high"
+},{
+  "area": "60649",
+  "slug": "60649",
+  "value": "high"
+},{
+  "area": "60612",
+  "slug": "60612",
+  "value": "high"
+},{
+  "area": "60617",
+  "slug": "60617",
+  "value": "high"
+},{
+  "area": "60628",
+  "slug": "60628",
+  "value": "high"
+},{
+  "area": "60653",
+  "slug": "60653",
+  "value": "high"
+},{
+  "area": "60608",
+  "slug": "60608",
+  "value": "high"
+},{
+  "area": "60637",
+  "slug": "60637",
+  "value": "high"
+},{
+  "area": "60827",
+  "slug": "60827",
+  "value": "high"
+},{
+  "area": "60644",
+  "slug": "60644",
+  "value": "high"
+},{
+  "area": "60629",
+  "slug": "60629",
+  "value": "high"
+},{
+  "area": "60651",
+  "slug": "60651",
+  "value": "high"
+},{
+  "area": "60639",
+  "slug": "60639",
+  "value": "high"
+},{
+  "area": "60609",
+  "slug": "60609",
+  "value": "high"
+},{
+  "area": "60636",
+  "slug": "60636",
+  "value": "high"
+},{
+  "area": "60624",
+  "slug": "60624",
+  "value": "high"
+},{
+  "area": "60632",
+  "slug": "60632",
+  "value": "high"
+},{
+  "area": "60621",
+  "slug": "60621",
+  "value": "high"
+},{
+  "area": "60623",
+  "slug": "60623",
+  "value": "high"
+},{
+  "area": "Rogers Park",
+  "slug": "rogers-park",
+  "value": "medium"
+},{
+  "area": "West Ridge",
+  "slug": "west-ridge",
+  "value": "medium"
+},{
+  "area": "Uptown",
+  "slug": "uptown",
+  "value": "low"
+},{
+  "area": "Lincoln Square",
+  "slug": "lincoln-square",
+  "value": "low"
+},{
+  "area": "North Center",
+  "slug": "north-center",
+  "value": "low"
+},{
+  "area": "Lakeview",
+  "slug": "lakeview",
+  "value": "low"
+},{
+  "area": "Lincoln Park",
+  "slug": "lincoln-park",
+  "value": "low"
+},{
+  "area": "Near North Side",
+  "slug": "near-north-side",
+  "value": "low"
+},{
+  "area": "Edison Park",
+  "slug": "edison-park",
+  "value": "low"
+},{
+  "area": "Norwood Park",
+  "slug": "norwood-park",
+  "value": "low"
+},{
+  "area": "Jefferson Park",
+  "slug": "jefferson-park",
+  "value": "low"
+},{
+  "area": "Forest Glen",
+  "slug": "Forest Glen",
+  "value": "low"
+},{
+  "area": "North Park",
+  "slug": "north-park",
+  "value": "medium"
+},{
+  "area": "Albany Park",
+  "slug": "albany-park",
+  "value": "medium"
+},{
+  "area": "Portage Park",
+  "slug": "portage-park",
+  "value": "low"
+},{
+  "area": "Irving Park",
+  "slug": "irving-park",
+  "value": "low"
+},{
+  "area": "Dunning",
+  "slug": "dunning",
+  "value": "low"
+},{
+  "area": "Monclare",
+  "slug": "monclare",
+  "value": "medium"
+},{
+  "area": "Belmont Cragin",
+  "slug": "Belmont Cragin",
+  "value": "high"
+},{
+  "area": "Hermosa",
+  "slug": "hermosa",
+  "value": "high"
+},{
+  "area": "Avondale",
+  "slug": "avondale",
+  "value": "medium"
+},{
+  "area": "Logan Square",
+  "slug": "logan-square",
+  "value": "low"
+},{
+  "area": "Humboldt Par",
+  "slug": "humboldt-par",
+  "value": "high"
+},{
+  "area": "West Town",
+  "slug": "west-town",
+  "value": "low"
+},{
+  "area": "Austin",
+  "slug": "austin",
+  "value": "medium"
+},{
+  "area": "West Garfield Par",
+  "slug": "west-garfield-par",
+  "value": "high"
+},{
+  "area": "East Garfield Par",
+  "slug": "east-garfield-par",
+  "value": "high"
+},{
+  "area": "Near West Side",
+  "slug": "near-west-side",
+  "value": "low"
+},{
+  "area": "North Lawndale",
+  "slug": "north-lawndale",
+  "value": "high"
+},{
+  "area": "South Lawndale",
+  "slug": "south-lawndale",
+  "value": "high"
+},{
+  "area": "Lower West Side",
+  "slug": "lower-west-side",
+  "value": "high"
+},{
+  "area": "Loop",
+  "slug": "loop",
+  "value": "low"
+},{
+  "area": "Near South Side",
+  "slug": "near-south-side",
+  "value": "low"
+},{
+  "area": "Armour Square",
+  "slug": "armour-square",
+  "value": "high"
+},{
+  "area": "Douglas",
+  "slug": "douglas",
+  "value": "medium"
+},{
+  "area": "Oakland",
+  "slug": "oakland",
+  "value": "medium"
+},{
+  "area": "Fuller Park",
+  "slug": "fuller-park",
+  "value": "high"
+},{
+  "area": "Grand Boulevard",
+  "slug": "grand-boulevard",
+  "value": "medium"
+},{
+  "area": "Kenwood",
+  "slug": "kenwood",
+  "value": "low"
+},{
+  "area": "Washington Park",
+  "slug": "washington-park",
+  "value": "high"
+},{
+  "area": "Hyde Park",
+  "slug": "high",
+  "value": "low"
+},{
+  "area": "Woodlawn",
+  "slug": "woodlawn",
+  "value": "high"
+},{
+  "area": "South Shore",
+  "slug": "south-shore",
+  "value": "medium"
+},{
+  "area": "Chatham",
+  "slug": "chatham",
+  "value": "medium"
+},{
+  "area": "Avalon Park",
+  "slug": "avalon-park",
+  "value": "medium"
+},{
+  "area": "South Chicago",
+  "slug": "south-chicago",
+  "value": "high"
+},{
+  "area": "Burnside",
+  "slug": "burnside",
+  "value": "high"
+},{
+  "area": "Calumet Heights",
+  "slug": "calumet-heights",
+  "value": "medium"
+},{
+  "area": "Roseland",
+  "slug": "roseland",
+  "value": "medium"
+},{
+  "area": "Pullman",
+  "slug": "pullman",
+  "value": "medium"
+},{
+  "area": "South Deering",
+  "slug": "south-deering",
+  "value": "high"
+},{
+  "area": "East Side",
+  "slug": "east-side",
+  "value": "high"
+},{
+  "area": "West Pullman",
+  "slug": "west-pullman",
+  "value": "medium"
+},{
+  "area": "Riverdale",
+  "slug": "riverdale",
+  "value": "high"
+},{
+  "area": "Hegewisch",
+  "slug": "hegewisch",
+  "value": "low"
+},{
+  "area": "Garfield Ridge",
+  "slug": "garfield-ridge",
+  "value": "medium"
+},{
+  "area": "Archer Heights",
+  "slug": "archer-heights",
+  "value": "high"
+},{
+  "area": "Brighton Park",
+  "slug": "brighton-park",
+  "value": "high"
+},{
+  "area": "McKinley Park",
+  "slug": "mckinley-park",
+  "value": "medium"
+},{
+  "area": "Bridgeport",
+  "slug": "bridgeport",
+  "value": "medium"
+},{
+  "area": "New City",
+  "slug": "new-city",
+  "value": "high"
+},{
+  "area": "West Elsdon",
+  "slug": "west-elsdon",
+  "value": "high"
+},{
+  "area": "Gage Park",
+  "slug": "gage-park",
+  "value": "high"
+},{
+  "area": "Clearing",
+  "slug": "clearing",
+  "value": "medium"
+},{
+  "area": "West Lawn",
+  "slug": "west-lawn",
+  "value": "medium"
+},{
+  "area": "Chicago Lawn",
+  "slug": "chicago-lawn",
+  "value": "high"
+},{
+  "area": "West Englewood",
+  "slug": "west-englewood",
+  "value": "high"
+},{
+  "area": "Englewood",
+  "slug": "englewood",
+  "value": "high"
+},{
+  "area": "Greater Grand Cro",
+  "slug": "greater-grand-cro",
+  "value": "high"
+},{
+  "area": "Ashburn",
+  "slug": "ashburn",
+  "value": "medium"
+},{
+  "area": "Auburn Gresham",
+  "slug": "Auburn Gresham",
+  "value": "medium"
+},{
+  "area": "Beverly",
+  "slug": "beverly",
+  "value": "low"
+},{
+  "area": "Washington Height",
+  "slug": "washington-height",
+  "value": "medium"
+},{
+  "area": "Mount Greenwo",
+  "slug": "mount-greenwo",
+  "value": "low"
+},{
+  "area": "Morgan Park",
+  "slug": "morgan-park",
+  "value": "low"
+},{
+  "area": "O'Hare",
+  "slug": "ohare",
+  "value": "medium"
+},{
+  "area": "Edgewater",
+  "slug": "edgewater",
+  "value": "low"
+}]

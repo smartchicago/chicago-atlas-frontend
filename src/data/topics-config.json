@@ -1,0 +1,2674 @@
+[
+	{
+		"slug": "accidents",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "violent-crime-in-public-spaces",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "number",
+				"symbol": "years"
+			},
+			{
+				"keyName": "maternal-age",
+				"value": "number",
+				"symbol": "years"
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": "years"
+			}
+		]
+	},
+	{
+		"slug": "traffic-crash-fatalities",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "mode",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "active-transportation",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "Alcohol-induced deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "crude-birth-rate",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 1,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 1,000 population"
+			}
+		]
+	},
+	{
+		"slug": "female-population",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "adult-e-cigarette-use",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "federal-poverty-level",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "sexual-identity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "alcohol-related-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "alzheirmers-disease",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "asthma-ed-visits-(0-4-years)",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "asthma-ed-visits-(0-18-years)",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "asthma-ed-visits-(65+-years)",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "avoidable-ed-visits",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "behavioral-health-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "cervical-cancer-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "cancer-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "cervical-cancer-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "violent-crime",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "child-poverty",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "chlamydia",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "chronic-liver-disease-and-cirrhosis-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "chronic-lower-respiratory-disease-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "college-graduation-or-more",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "colorectal-cancer-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "colorectal-cancer-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "coronary-heart-disease-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "crowded-housing",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "dental-care-emergencies",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "school-based-health-services-dental",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "number",
+				"symbol": ""
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "diabetes",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "federal-poverty-level",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "sexual-identity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "diabetes-related-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "diabetes-related-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "diabetes-related-lower-extremity-amputation-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "drug-overdose-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "drug-induced-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "drug-related-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "early-and-adequate-prenatal-care",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "maternal-age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "engagement-in-hiv-care",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Sex",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "female-breast-cancer-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "female-breast-cancer-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "female-population",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "firearm-related-homicides",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "food-stamps-snap",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "foreign-born",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "general-fertility-rate",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 1,000 females aged 15-44"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 1,000 females aged 15-44"
+			}
+		]
+	},
+	{
+		"slug": "gonorrhea",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "grandparents-raising-grandchildren",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "number",
+				"symbol": "?"
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": "?"
+			}
+		]
+	},
+	{
+		"slug": "have-a-disability",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "heart-disease-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "high-school-graduation",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "hispanic-or-latino",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "hiv-prevalence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "hiv-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "hiv-prevalance",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "suspensions",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "hiv-viral-suppression",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "homicides",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "hiv-viral-suppression",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "household-poverty",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "individual-poverty",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "infant-mortality",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 1,000 live births"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 1,000 live births"
+			}
+		]
+	},
+	{
+		"slug": "alcohol-induced-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 1,000 live births"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "alzheimers-disease",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 1,000 live births"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "cancer-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "diabetes-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "diet-related-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "firearm-related-homicides-by-injury-location",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "influenza-and-pneumonia-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	}	,
+	{
+		"slug": "influenza-pneumonia-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "injury-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "cesarean-delivery",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "maternal-age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "lead-poisoning",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 1,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 1,000 population"
+			}
+		]
+	},
+	{
+		"slug": "non-fatal-shootings",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "number",
+				"symbol": "years"
+			},
+			{
+				"keyName": "Gender",
+				"value": "number",
+				"symbol": "years"
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": "years"
+			}
+		]
+	},
+	{
+		"slug": "income-diversity",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "life-expectancy",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "number",
+				"symbol": "years"
+			},
+			{
+				"keyName": "Gender",
+				"value": "number",
+				"symbol": "years"
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": "years"
+			}
+		]
+	},
+	{
+		"slug": "linkage-to-hiv-care",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Sex",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "low-birthweight",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "maternal-age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "lung-cancer-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "lung-cancer-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "schizophrenic-disorder-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "male-population",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "mean-age-at-first-birth",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "number",
+				"symbol": "years"
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": "years"
+			}
+		]
+	},
+	{
+		"slug": "media-household-income",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "number",
+				"symbol": "$"
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": "$"
+			}
+		]
+	},
+	{
+		"slug": "mood-and-depressive-disorder-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "motor-vehicle-crash-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "nephritis-nephrotic-syndrome-and-nephrosis-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "no-health-insurance",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "no-high-school-graduation",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "non-hispanic-african-american-or-black",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "non-hispanic-asian-pacific-islander",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "non-hispanic-white",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "opioid-related-overdose-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "late-stage-female-breast-cancer-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}            
+		]
+	},
+	{
+		"slug": "opioid-overdose",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+            {
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+            {
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "non-hispanic-asian-pacific-islander",
+		"trends-over-time-keys": [
+			{
+				"keyName": "Age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "per-capita-incom",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "number",
+				"symbol": "$"
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": "$"
+			}
+		]
+	},
+	{
+		"slug": "pertussis",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "prenatal-care-in-first-trimester",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "maternal-age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "preterm-births",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "preventable-hospitalizations",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 10,000 population"
+			}
+		]
+	},
+	{
+		"slug": "primary-care-provider",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "federal-poverty-level",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "sexual-identity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "prostate-cancer-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "prostate-cancer-incidence",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "routine-checkup",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "federal-poverty-level",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "sexual-identity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "serious-psychological-distress",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "age",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "Gender",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "federal-poverty-level",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "sexual-identity",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "severe-housing-cost-burden",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+  {
+		"slug": "sexual-assault",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "number",
+				"symbol": ""
+			},
+			{
+				"keyName": "map",
+				"value": "number",
+				"symbol": ""
+			}
+		]
+	},
+
+
+	{
+		"slug": "single-parent-households",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "smoking-during-pregnancy",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "maternal-age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "stroke-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "suicide",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "syphilis",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "teen-birth-rate",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 1,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 1,000 population"
+			}
+		]
+	},
+	{
+		"slug": "child-obesity",
+		"trends-over-time-keys": [
+			{
+				"keyName": "grade",
+				"value": "weight_percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "school-attendance",
+		"trends-over-time-keys": [
+			{
+				"keyName": "grade",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "school-based-health-services---sti-screening",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "number",
+				"symbol": ""
+			},
+			{
+				"keyName": "map",
+				"value": "weight_percent",
+				"symbol": ""
+			}
+		]
+	},
+	{
+		"slug": "tobacco-related-deaths",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "total-fertility-rate",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "age_adj_rate",
+				"symbol": "per 1,000 births"
+			},
+			{
+				"keyName": "map",
+				"value": "age_adj_rate",
+				"symbol": "per 1,000 births"
+			}
+		]
+	},
+	{
+		"slug": "total-population",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "food-access",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "tuberculosis",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "twin-birth-rate",
+		"trends-over-time-keys": [
+			{
+				"keyName": "maternal-race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 1,00 births"
+			},
+			{
+				"keyName": "maternal-age",
+				"value": "crude_rate",
+				"symbol": "per 1,000 births"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 1,000 births"
+			}
+		]
+	},
+	{
+		"slug": "unemployment",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "vacant-housing",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "varicella",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "per 100,000 population"
+			}
+		]
+	},
+	{
+		"slug": "very-low-birthweight",
+		"trends-over-time-keys": [
+			{
+				"keyName": "age",
+				"value": "percent",
+				"symbol": "%"
+			},
+			{
+				"keyName": "map",
+				"value": "percent",
+				"symbol": "%"
+			}
+		]
+	},
+	{
+		"slug": "years-of-potential-life-lost-(ypll)",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "crude_rate",
+				"symbol": "years"
+			},
+			{
+				"keyName": "age",
+				"value": "crude_rate",
+				"symbol": "years"
+			},
+			{
+				"keyName": "Gender",
+				"value": "crude_rate",
+				"symbol": "years"
+			},
+			{
+				"keyName": "map",
+				"value": "crude_rate",
+				"symbol": "years"
+			}
+		]
+	},
+	{
+		"slug": "permanent-supportive-housing",
+		"trends-over-time-keys": [
+			{
+				"keyName": "race-ethnicity",
+				"value": "number",
+				"symbol": ""
+			}
+		]
+	}
+]

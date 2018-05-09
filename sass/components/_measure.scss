@@ -1,0 +1,36 @@
+
+.c-measure {
+  font-size: em(14);
+  margin-bottom: em(15);
+  @include clearfix;
+  color: $color-slate-gray;
+}
+
+.c-measure__title {
+  font-weight: bold;
+  margin-bottom: 0;
+  font-size: $padding-vertical;
+  color: $color-slate-gray;
+}
+
+.c-measure__desc {
+  font-size: $padding-vertical;
+  margin-bottom: 0;
+  color: $color-slate-gray;
+  line-height: 20px;
+}
+
+.c-measure__button {
+  border: 0;
+  background: transparent;
+  float: right;
+  color: $color-coral-red;
+  text-decoration: underline;
+  font-size: 12px;
+  padding: 0;
+}
+
+.c-measure__source {
+  font-style: italic;
+  margin-bottom: 0.5em;
+}

@@ -1,0 +1,47 @@
+
+$panel-head-border: rgba($color-rolling-stone, 0.2);
+
+.c-panel__header {
+  background-color: $color-alabaster;
+  border-bottom: 1px solid $panel-head-border;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.c-panel__title-wrapper {
+  padding-top: $padding-vertical;
+  padding-bottom: $padding-vertical;
+  padding-left: 2em;
+  position: relative;
+
+  &:focus,
+  &:active {
+    outline: none;
+  }
+
+  .fa {
+    @include absolute($padding-vertical null null $padding-vertical);
+    font-size: em(18);
+  }
+}
+
+.c-panel__title {
+  font-size: em(18);
+  font-weight: 400;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+.c-panel__title-wrapper {
+  flex: 1;
+  position: relative;
+}
+
+.c-panel__controls {
+  padding-right: 1em;
+}
+
+.c-panel__content {
+  padding: 1em;
+}

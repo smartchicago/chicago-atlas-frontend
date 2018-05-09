@@ -1,0 +1,17 @@
+.details-heading {
+  margin-bottom: 2em;
+  align-items: center;
+
+  .t-main-title,
+  .t-subtitle {
+    line-height: 1.15;
+    display: block;
+    text-align: center;
+
+    @include at-min($bp-medium) {
+      margin-bottom: 0;
+      text-align: left;
+      padding-right: 1em;
+    }
+  }
+}

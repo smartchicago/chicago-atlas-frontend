@@ -1,0 +1,36 @@
+
+.c-navigation-list {
+  padding-left: 1em;
+  margin-bottom: 0.25em;
+}
+
+.c-navigation-list__title {
+  border-bottom: 4px solid $color-sail;
+  color: $color-astronaut;
+  font-size: 1em;
+  letter-spacing: 0.2px;
+  margin-bottom: 0.5em;
+  padding: 10px 10px 0 5px;
+
+  .fa {
+    color: $color-coral-red;
+    float: right;
+  }
+
+  &:hover,
+  &:focus {
+    outline: none;
+    cursor: pointer;
+    border-bottom: 4px solid $color-astronaut;
+  }
+}
+
+.c-navigation-list__ul--hide {
+  display: none;
+}
+
+.c-navigation-list__link {
+  font-weight: 300;
+  padding: 3px 8px;
+  display: block;
+}

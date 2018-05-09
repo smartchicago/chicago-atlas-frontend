@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Chicago Department of Public Health",
+    "description": "CDPH promotes and improves health by engaging residents, communities and partners in establishing and implementing policies and services that prioritize residents and communities with the greatest need. Our vision is a city of thriving communities where all residents are able to live healthy lives.",
+    "imgLocal": "about/logo_partner_cdph.png",
+    "imgAlt": "Chicago Department of Public Health partner logo",
+    "imageUrl": "https://www.cityofchicago.org/city/en/depts/cdph.html"
+  },
+  {
+    "title": "Otho S.A. Sprague Memorial Institute",
+    "description": "The Otho S. A. Sprague Memorial Institute was founded in 1911 as a non-profit foundation with a mandate to pursue \"the investigation of the cause of disease and the prevention and relief of human suffering in the City of Chicago, County of Cook, State of Illinois.\" Today this philanthropy is managed by a Board of volunteers dedicated to carrying out this same philanthropic goal.",
+    "imgLocal": "about/logo_partner_otho.png",
+    "imgAlt": "Otho S.A. Sprague Memorial Institute partner logo",
+    "imageUrl": "http://www.spragueinstitute.org"
+  },
+  {
+    "title": "Smart Chicago Collaborative",
+    "description": " Smart Chicago is a civic organization devoted to improving lives in Chicago through technology. We work on increasing access to the Internet, improving skills for using the Internet, and developing meaningful products from data that measurably contribute to the quality of life of residents in our region and beyond.",
+    "imgLocal": "about/smart_chicago_collaborative.png",
+    "imgAlt": "Smart Chicago Collaborative partner logo",
+    "imageUrl": "http://www.smartchicagocollaborative.org"
+  },
+  {
+    "title": "Dom & Tom",
+    "description": "Dom & Tom is an end-to-end digital product development agency focused on emerging technologies. From startups to enterprise solutions the apps we produce for our clients support their strategic initiatives first and foremost through open collaboration, forward-thinking user experience, engaging design, and cross-platform development for both web and mobile. Dom & Tom has launched 400+ web projects and 120 native mobile applications with teams located in New York, Chicago, and Los Angeles.",
+    "imgLocal": "about/logo_partner_d&t.png",
+    "imgAlt": "Dom & Tom partner logo",
+    "imageUrl": "http://domandtom.com"
+  }
+]

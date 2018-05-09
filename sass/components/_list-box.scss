@@ -1,0 +1,138 @@
+
+.c-list-box {
+  height: em(800);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  border: 2px solid $color-mercury;
+  will-change: transform;
+}
+
+.c-list-box__inner {
+  margin-bottom: 0;
+  counter-reset: list-counter;
+  background-color: $color-whisper;
+}
+
+.resource-item {
+  cursor: pointer;
+}
+
+.c-list-box__item {
+  border-bottom: 2px solid $color-mercury;
+}
+
+.c-list-box__link {
+  display: block;
+  position: relative;
+  background-color: $color-white;
+  padding: 20px;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    z-index: 1;
+    box-shadow:
+      0 -2px 4px darken($color-mercury, 20),
+      0 2px 4px darken($color-mercury, 20);
+  }
+}
+
+.see-on-map-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.see-on-map-button {
+  border: 1px solid #fd4141;
+  padding: 2px 10px;
+  color: #fd4141;
+  font-size: 12px;
+  margin-right: 16px;
+  cursor: pointer;
+  border-radius: 2px;
+  background-color: transparent;
+}
+
+.item-map-focused {
+  box-shadow: none;
+  background-color: #fff;
+  animation: item-focused-shadow 1.5s 2 reverse;
+}
+
+@keyframes item-focused-shadow {
+  to {
+    box-shadow: 0 -2px 4px #b2b2b2, 0 2px 4px #b2b2b2;
+    background-color: #ccc;
+  }
+}
+
+.c-list-box__header {
+  display: flex;
+}
+
+.c-list-box__title {
+  color: $color-astronaut;
+  font-weight: 600;
+  line-height: 1.5;
+  display: inline-block;
+  flex: 1 1 auto;
+}
+
+.c-list-box__info {
+  .fa {
+    margin-right: 5px;
+    color: $color-charade;
+  }
+}
+
+.c-list-box__icon-list {
+  margin-left: 5px;
+  white-space: nowrap;
+}
+
+.c-list-box__icon {
+  border-radius: 50%;
+  @include size(25px);
+  font-size: em(14);
+  text-align: center;
+  line-height: 25px;
+  color: $color-white;
+  display: inline-block;
+  margin: 0 3px;
+}
+
+.c-list-box--alt {
+  .c-list-box__link {
+    padding-left: 50px;
+
+    &:after {
+      color: $color-coral-red;
+      @include absolute(50% 10px null null);
+      transform: translateY(-50%);
+      @include fa-icon-pseudo("\f105");
+      font-size: 20px;
+    }
+  }
+
+  .c-list-box__inner {
+    list-style: none;
+    counter-reset: custom-counter;
+  }
+
+  .c-list-box__item {
+    counter-increment: custom-counter;
+  }
+
+  .c-list-box__icon {
+    @include absolute(20px null null 10px);
+
+    &:before {
+      content: counter(custom-counter);
+    }
+  }
+
+}
+
+.c-list-box__placeholder {
+  padding: em($spacing-small * 2);
+}

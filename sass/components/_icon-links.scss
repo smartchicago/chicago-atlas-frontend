@@ -1,0 +1,52 @@
+
+// Styles for social share links on hospital details and print/save widget
+
+.c-icon-links {
+  margin: 0;
+  border: 1px solid rgba($color-rolling-stone, 0.2);
+  display: inline-block;
+  box-shadow: 0 2px 0 rgba($color-rolling-stone, 0.2);
+  padding: 0.5em 0;
+
+  li {
+    display: inline-block;
+    font-size: 1.5em;
+    padding: 0 0.65em;
+
+    &:not(:first-child) {
+      border-left: 1px solid rgba($color-rolling-stone, 0.2);
+    }
+  }
+
+  a {
+    color: rgba($color-astronaut, 0.8);
+  }
+
+  button {
+    border: 0;
+    background-color: transparent;
+    color: rgba($color-astronaut, 0.8);
+    padding: 0;
+  }
+
+  &.in-panel {
+    border: 0;
+    padding: 0;
+    box-shadow: none;
+
+    li {
+      border: 0;
+      padding: 0;
+      padding-left: 1em;
+      font-size: 1em;
+      color: $color-san-marino;
+    }
+  }
+
+}
+
+.c-icon-links--floated {
+  @include at-min($bp-medium) {
+    float: right;
+  }
+}

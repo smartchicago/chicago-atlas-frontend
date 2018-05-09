@@ -1,0 +1,57 @@
+
+// based on: https://philipwalton.github.io/solved-by-flexbox/demos/grids/
+
+.grid {
+  display: block;
+  @include at-min($bp-small) {
+    display: flex;
+  }
+}
+
+.grid--from-medium {
+  @include at-min($bp-small) {
+    display: block;
+  }
+  @include at-min($bp-medium) {
+    display: flex;
+  }
+}
+
+.grid__col {
+  // we set shorthand values explicitly because IE bugs:
+  // https://github.com/philipwalton/flexbugs#4-flex-shorthand-declarations-with-unitless-flex-basis-values-are-ignored
+  // https://github.com/philipwalton/flexbugs#6-the-default-flex-value-has-changed
+  flex: 1 1 0%;
+}
+
+.grid--gutters {
+  margin-right: -0.8em;
+  margin-left: -0.8em;
+  margin-bottom: 1em;
+
+  > .grid__col {
+    padding: 1em;
+  }
+}
+
+.grid--wrap {
+  flex-wrap: wrap;
+}
+
+.grid--wide {
+  > .grid__col {
+    padding: 0 3em;
+  }
+}
+
+@for $i from 1 through 12 {
+  .grid__col--#{$i} {
+    flex: 0 0 percentage($i/12);
+  }
+}
+
+@for $i from 1 through 12 {
+  .grid__offset--#{$i} {
+    margin-left: percentage($i/12);
+  }
+}

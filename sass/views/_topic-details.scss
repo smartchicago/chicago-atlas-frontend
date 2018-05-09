@@ -1,0 +1,27 @@
+
+.v-topic {
+  display: flex;
+  @include at-max($bp-medium) {
+    flex-direction: column;
+  }
+}
+
+.v-topic__sidebar {
+  flex: 1;
+  @include at-min($bp-medium) {
+    width: 250px;
+    padding-right: 1em;
+    flex: 0 0 250px;
+  }
+}
+
+.v-topic__content {
+  flex: 1;
+  @include at-max($bp-medium) {
+    order: -1;
+  }
+}
+
+.v-topic__description {
+  padding-top: 15px !important;
+}

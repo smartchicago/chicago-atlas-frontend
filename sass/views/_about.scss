@@ -1,0 +1,102 @@
+
+.v-about {
+  margin-bottom: 1em;
+
+  .p {
+    color: $color-rolling-stone;
+  }
+
+  .t-main-title {
+    margin-bottom: 0;
+  }
+
+  .c-media-card__title {
+    color: $color-astronaut;
+    letter-spacing: 0.25px;
+    font-size: 1.2em;
+  }
+
+  .c-media-card__subtitle {
+    font-size: em(13);
+    color: $color-granny-smith;
+    font-weight: 300;
+  }
+
+  .c-media-card__description {
+    color: $color-charade;
+  }
+}
+
+.v-about__img-container {
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.v-about__h2 {
+  font-size: 28px;
+  color: $color-astronaut;
+  text-shadow: 0 2px 2px $color-tiara;
+  padding-bottom: 0;
+  margin-bottom: 0.5em;
+}
+
+.v-about__hr {
+  margin-bottom: 2em;
+}
+
+.v-about__contact-us-box-container {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+}
+
+.v-about__contact-us-box {
+  align-items: center;
+}
+
+.v-about__contact-us-p {
+  max-width: 400px;
+  font-size: 16px;
+  color: $color-rolling-stone;
+  line-height: 1.5em;
+}
+
+.v-about__about-the-data {
+  background: $color-whisper;
+  padding: 1.5em;
+}
+
+
+.v-about__small {
+  display: inline-block;
+  font-size: 0.75em;
+  color: $color-san-marino;
+  line-height: 1.25em;
+}
+
+.v-about__small-list {
+  color: $color-san-marino;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.v-about__small-p {
+  color: $color-san-marino;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.v-about__small-overflow {
+  color: $color-san-marino;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  font-size: 0.75em;
+  color: $color-san-marino;
+  line-height: 1.25em;
+}
+
+.v-about__list-container ul {
+  margin-left: 15px;
+}

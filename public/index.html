@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chicago Health Atlas</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="https://ajax.googleapis.com" />
+    <link rel="dns-prefetch" href="https://api.tiles.mapbox.com" />
+    <link rel="dns-prefetch" href="https://api.mapbox.com" />
+
+    <!-- Favicon meta tags. Generated with realfavicongenerator.net -->
+    <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="%PUBLIC_URL%/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="%PUBLIC_URL%/images/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="%PUBLIC_URL%/images/favicon/manifest.json">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/images/favicon/favicon.ico">
+    <meta name="msapplication-config" content="%PUBLIC_URL%/images/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#2d333f">
+
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Array.prototype.includes,Array.prototype.find&flags=gated"></script>
+    <script>
+      // Progressively load web fonts and icon font using Typekit's webfontloader lib.
+      window.WebFontConfig = {
+        google: { families: ['Roboto:400,300,700', 'Merriweather:400,700'] },
+        custom: { families: ['FontAwesome'] }
+      };
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" async></script>
+    <%= htmlWebpackPlugin.files.webpackManifest %>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.32.1/mapbox-gl.js" async></script>
+    <script src="https://api.mapbox.com/mapbox.js/plugins/turf/v2.0.2/turf.min.js" async></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      // Register ServiceWorker if available.
+      // This won't work on localhost since sw file is generated on production build only.
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js')
+          .catch(function(err) {
+            console.warn('serviceWorker error:', err);
+          });
+      }
+    </script>
+  </body>
+</html>

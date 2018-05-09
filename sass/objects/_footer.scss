@@ -1,0 +1,33 @@
+
+$footer-color: $color-slate-gray;
+$footer-border: rgba($color-rolling-stone, 0.2);
+
+.main-footer {
+  border-top: 2px solid $footer-border;
+  color: $footer-color;
+  padding-left: 1em;
+  padding-right: 1em;
+  @include at-max($bp-small) {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    line-height: em($spacing-large);
+  }
+  @include at-min($bp-small) {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  @include at-min($bp-small) {
+    line-height: em($spacing-xlarge);
+  }
+}
+
+.main-footer__col {
+  @include at-max($bp-small) {
+    text-align: center;
+  }
+  @include at-min($bp-small) {
+    &:last-child {
+      text-align: right;
+    }
+  }
+}

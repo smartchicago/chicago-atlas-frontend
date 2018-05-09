@@ -1,0 +1,104 @@
+
+// Hide only visually, but have it available for screenreaders: h5bp.com/v
+.u-visuallyhidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  margin: -1px;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  border: 0;
+}
+
+// Extends the .u-visuallyhidden class to allow the element to be focusable
+.u-visuallyhidden.is-focusable:active,
+.u-visuallyhidden.is-focusable:focus {
+  position: static;
+  overflow: visible;
+  clip: auto;
+  margin: 0;
+  width: auto;
+  height: auto;
+}
+
+.u-fw--light { font-weight: 300 !important; }
+.u-fw--normal { font-weight: 400 !important; }
+.u-fw--medium { font-weight: 700 !important; }
+.u-fw--bold { font-weight: 700 !important; }
+
+.u-hidden { display: none !important; }
+
+.u-txt--right { text-align: right !important; }
+.u-txt--center { text-align: center !important; }
+.u-txt--justify  { text-align: justify !important; }
+
+.u-txt--uppercase   { text-transform: uppercase !important; }
+.u-txt--capitalize  { text-transform: capitalize !important; }
+
+.u-color--current { color: currentColor !important; }
+
+// we don't use utility classes for absolute and fixed position since
+// they usually require additional properties (top, left...)
+.u-relative { position: relative !important; }
+.u-static   { position: static !important; }
+
+.u-block        { display: block !important; }
+.u-inline-block { display: inline-block !important; }
+.u-inline       { display: inline !important; }
+
+.u-clearfix { @include clearfix; }
+
+.u-float--left  { float: left !important; }
+.u-float--right { float: right !important; }
+
+// Default body font is sans-serif
+// To override that but keep webfontloader optimization we use this utility
+// class on elements that need to have serif font or by extending component class.
+// Rest of typographic styling is done on component level.
+%u-font--serif {
+  font-family: "Lucida Bright", "Georgia", serif !important;
+
+  @include when-inside(".wf-active") {
+    font-family: "Merriweather", "Lucida Bright", "Georgia", serif !important;
+  }
+}
+
+.u-font--serif {
+  @extend %u-font--serif;
+}
+
+.u-center { margin: 0 auto !important; }
+
+/*
+  COLORS
+ */
+
+.txt-color-charade       { color: $color-charade !important; }
+.txt-color-astronaut     { color: $color-astronaut !important; }
+.txt-color-tiara         { color: $color-tiara !important; }
+.txt-color-mercury       { color: $color-mercury !important; }
+.txt-color-sail          { color: $color-sail !important; }
+.txt-color-coral-red     { color: $color-coral-red !important; }
+.txt-color-rolling-stone { color: $color-rolling-stone !important; }
+.txt-color-gray          { color: $color-slate-gray !important; }
+
+.bg-color-charade    { background-color: $color-charade !important; }
+.bg-color-astronaut  { background-color: $color-astronaut !important; }
+.bg-color-tiara      { background-color: $color-astronaut !important; }
+.bg-color-mercury    { background-color: $color-mercury !important; }
+.bg-color-sail       { background-color: $color-sail !important; }
+.bg-color-coral-red  { background-color: $color-coral-red !important; }
+
+/*
+  SPACING
+ */
+
+.u-mb--none   { margin-bottom: 0 !important; }
+.u-mb--xsmall { margin-bottom: 0.5em !important; }
+.u-mb--small  { margin-bottom: 1em !important; }
+.u-mb--medium { margin-bottom: 2em !important; }
+.u-mb--large  { margin-bottom: em($spacing-xlarge) !important; }
+.u-mb--xlarge { margin-bottom: em($spacing-xlarge * 1.5) !important; }
+
+.u-mt--medium { margin-top: 2em !important; }

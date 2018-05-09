@@ -1,0 +1,157 @@
+
+$header-bg: $color-charade;
+$header-box-shahow: $color-splinder;
+$header-link-divider: rgba(255, 255, 255, 0.1);
+$header-link-hover: rgba($color-splinder, 0.15);
+
+.main-header {
+  align-items: center;
+  background: $color-charade;
+  box-shadow: 0 2px 3px 0 $header-box-shahow;
+  display: flex;
+  height: em($spacing-xlarge);
+  justify-content: space-between;
+  position: relative;
+  z-index: 100;
+}
+
+.main-header__logo {
+  margin-left: 1em;
+  line-height: 1;
+  max-width: 240px;
+
+  &:focus {
+    outline: 0;
+  }
+
+  img {
+    max-height: 40px;
+  }
+
+}
+
+.main-header__menu {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  user-select: none;
+  margin-right: 1em;
+  @include size(em($spacing-base * 8));
+
+  @include at-min($bp-tweak) {
+    display: none;
+  }
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+.main-header__navbar {
+
+  display: none;
+
+  &.visible {
+    display: block;
+  }
+
+  ul {
+    z-index: 1;
+
+    @include at-max($bp-tweak) {
+      background: $color-charade;
+      box-shadow: 0 2px 3px 0 $header-box-shahow;
+      @include absolute(em($spacing-xlarge) 0 null 0);
+    }
+  }
+
+  @include at-min($bp-tweak) {
+    display: inline-block;
+    margin-right: 1em;
+
+    ul {
+      margin-bottom: 0;
+    }
+
+  }
+
+}
+
+.main-header__nav-link {
+  color: $color-alabaster;
+  font-weight: 300;
+  padding: 1em;
+  letter-spacing: 0.4px;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+
+  @include at-max($bp-tweak) {
+    border-top: 1px solid $header-link-divider;
+    display: block;
+    text-align: right;
+
+    &:hover {
+      background: $header-link-hover;
+      color: $color-white;
+    }
+  }
+}
+
+.main-header__nav-item {
+  @include at-max($bp-tweak) {
+    display: block;
+    width: 100%;
+  }
+  @include at-min($bp-tweak) {
+    display: inline-block;
+  }
+  @include at-min($bp-large) {
+    margin-left: 1em;
+  }
+}
+
+.menu-icon__lines {
+  margin: auto;
+  @include absolute(0 0 0 0);
+  height: 3px;
+  width: 80%;
+  background: $color-white;
+  display: inline-block;
+  transition: background 0.3s ease;
+
+  &:before,
+  &:after {
+    content: "";
+    @include absolute(null 0 null 0);
+    @include size(100%);
+    z-index: 1;
+    background: inherit;
+    transform-origin: 50% 50%;
+    transition: top 0.2s 0.2s ease, transform 0.2s ease;
+  }
+
+  &:before { top: em(-10); }
+  &:after { top: em(10); }
+
+  .is-open & {
+    background: transparent;
+
+    &:before,
+    &:after {
+      top: 0;
+      background: $color-white;
+      transition: top 0.3s ease, transform 0.3s 0.3s ease;
+    }
+
+    &:before {
+      transform: rotate3d(0, 0, 1, 45deg);
+    }
+
+    &:after {
+      transform: rotate3d(0, 0, 1, -45deg);
+    }
+  }
+}

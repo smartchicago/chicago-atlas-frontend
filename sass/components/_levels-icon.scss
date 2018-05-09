@@ -1,0 +1,59 @@
+$color-level-low: #009D54;
+$color-level-medium: #F3C130;
+$color-level-high: #FD4141;
+
+
+.c-levels-icon {
+  > span {
+    display: block;
+    margin: 1em 0 0.5em;
+  }
+}
+
+.c-levels-icon__graphic {
+  font-size: em(50);
+  border: 5px solid currentColor;
+  border-radius: 50%;
+  @include size(100px);
+  text-align: center;
+  line-height: 100px;
+  overflow: hidden;
+  position: relative;
+  color: $color-chambray;
+  margin: 0 auto;
+
+  &.eh {    
+    &.very-low, &.low {
+      color: $color-level-low;
+    }
+
+    &.medium,
+    &.moderate {
+      color: $color-level-medium;
+    }
+
+    &.very-high, &.high {
+      color: $color-level-high;
+    }
+  }
+
+  &.coi {
+    &.very-low, &.low {
+      color: $color-level-high;
+    }
+
+    &.medium,
+    &.moderate {
+      color: $color-level-medium;
+    }
+
+    &.very-high, &.high {
+      color: $color-level-low;
+    }
+  }
+
+  .fa {
+    position: relative;
+    top: -5px;
+  }
+}

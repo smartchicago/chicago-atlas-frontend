@@ -1,0 +1,9 @@
+
+.c-placeholder {
+  display: block;
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+  color: $color-granny-smith;
+  border: 1px solid lighten($color-granny-smith, 20);
+}

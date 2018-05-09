@@ -1,0 +1,14 @@
+
+.c-indicator-meta {
+  @include at-max($bp-small) {
+    display: flex;
+  }
+}
+
+.c-indicator-meta__img {
+  display: inline-block;
+  vertical-align: middle;
+  @include at-min($bp-small) {
+    margin-right: 1em;
+  }
+}

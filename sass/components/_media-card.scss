@@ -1,0 +1,45 @@
+
+.c-media-card__img {
+  margin-bottom: 1.5em;
+  width: 100%;
+}
+
+.c-media-card__subtitle {
+  font-size: em(18);
+}
+
+.c-media-card--flex {
+  display: flex;
+  flex-direction: column;
+
+  .c-media-card {
+    padding: 0 2em;
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 auto;
+  }
+
+  .c-media-card__description {
+    flex: 1 0 auto;
+  }
+
+}
+
+.c-media-card--homepage {
+  .c-media-card__title {
+    padding-bottom: 0.5em;
+    margin-left: -1em;
+    margin-right: -1em;
+    color: $color-san-marino;
+    border-bottom: 1px solid $color-tiara;
+    font-size: em(24);
+    letter-spacing: -1px;
+    font-weight: 400;
+    text-align: center;
+  }
+
+  .c-media-card__link {
+    text-align: center;
+  }
+}
+

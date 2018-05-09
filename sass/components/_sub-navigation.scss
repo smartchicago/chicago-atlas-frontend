@@ -1,0 +1,143 @@
+
+.c-sub-nav {
+  background: $color-whisper;
+  overflow: hidden;
+
+  *:focus,
+  *:active {
+    outline: none;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  .fa-minus,
+  .fa-plus {
+    margin-right: 6px;
+    font-size: 10px;
+  }
+
+  @include at-max($bp-tweak) {
+    .mobile-hidden {
+      display: none;
+    }
+  }
+
+}
+
+.c-sub-nav__dropdown {
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 100%;
+  @include at-min($bp-tweak) {
+    height: 100%;
+    height: calc(100% - #{em($spacing-xlarge)});
+  }
+}
+
+.c-sub-nav__box {
+  background: $color-whisper;
+  color: $color-bali-hai;
+}
+
+.c-sub-nav__list-container {
+  background: $color-whisper;
+  display: none;
+}
+
+.open +  .c-sub-nav__list-container {
+  z-index: 1;
+  display: block;
+  padding-left: 1em;
+}
+
+.c-sub-nav__link {
+  color: $color-river-bed;
+  text-decoration: none;
+  z-index: 1;
+  position: relative;
+  display: block;
+
+  &:after {
+    background-color: $color-white;
+  }
+
+  &.link-active {
+    @include at-min($bp-tweak) {
+      font-weight: bold;
+      text-decoration: none;
+      color: $color-coral-red;
+    }
+  }
+
+  &.link-active:after {
+    @include at-min($bp-tweak) {
+      background-color: $color-coral-red;
+      height: 2px;
+    }
+  }
+}
+
+@include at-min($bp-tweak) {
+  .c-sub-nav__link-item {
+    position: relative;
+
+    &:before {
+      z-index: 0;
+      content: "";
+      @include absolute(0 0 0 null);
+      width: 200%;
+      background-color: $color-mystic;
+    }
+
+    &:first-child {
+      &:before {
+        box-shadow: inset 0 2px 2px -1px rgba(0, 0, 0, 0.5);
+      }
+    }
+  }
+}
+
+.c-sub-nav__top-level {
+  color: $color-slate-gray;
+}
+
+.c-sub-nav__header {
+  padding: 1em;
+  cursor: pointer;
+  display: flex;
+}
+
+.c-sub-nav__mobile {
+  width: 100%;
+  padding: em(4) 0;
+
+  .fa {
+    margin-top: 3px;
+  }
+
+  @include at-min($bp-tweak) {
+    display: none;
+  }
+}
+
+.c-sub-nav__search {
+  flex: 1 1 auto;
+  margin-bottom: 0;
+  margin-right: 10px;
+  @include at-min($bp-tweak) {
+    margin-right: 0;
+  }
+}
+
+.c-sub-nav__close {
+  border: 0;
+  background: transparent;
+  margin: 0;
+  flex: 0 0 auto;
+  padding-right: 0;
+  padding-left: 0;
+  font-size: em(14);
+}

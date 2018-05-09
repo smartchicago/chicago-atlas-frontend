@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+build/public
+*.log
+src/css/*.css
+src/css/*.css.map
+.eslintcache
+.cache

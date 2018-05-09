@@ -1,0 +1,36 @@
+
+.c-loader {
+  position: relative;
+}
+
+.is-loading {
+  line-height: 1;
+
+  &.has-overlay {
+    &:before {
+      content: "";
+      display: block;
+      @include absolute(0 0 0 0);
+      background-color: $color-astronaut;
+      opacity: 0.4;
+      z-index: 1;
+    }
+  }
+}
+
+.c-loader__icon {
+  @include absolute(50% null null 50%);
+  transform: translate3d(-50%, -50%, 0) scale(0);
+  font-size: 2em;
+  font-size: calc(1em + 2vw);
+  z-index: 2;
+  transition: all 0.3s ease;
+  opacity: 0;
+  visibility: hidden;
+
+  .is-loading & {
+    opacity: 1;
+    transform: translate3d(-50%, -50%, 0) scale(1);
+    visibility: visible;
+  }
+}

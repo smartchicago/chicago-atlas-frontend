@@ -1,0 +1,28 @@
+
+/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ *
+ *  NOTE 1: Unused modules are commented out from import but kept in source for reference and possible use.
+ *  NOTE 2: If doing version upgrade, be aware that impored code has changes:
+ *    - indentations are changed to compile with styleguide
+ *    - vendor prefixes are removed as well as mixin for core class
+ *    - font path is adjusted for directory structure
+ *    - core class is changed to levrage webfontloader
+ *    - only woff, woff2 and ttf formats are used @font-face declaration and kept in source
+ *
+ */
+
+@import "variables";
+@import "mixins";
+@import "path";
+@import "core";
+//@import "larger";
+//@import "fixed-width";
+@import "list";
+//@import "bordered-pulled";
+@import "animated";
+//@import "rotated-flipped";
+//@import "stacked";
+@import "icons";
+//@import "screen-reader"; // utility module contains same class named .u-visibilityhidden

@@ -1,0 +1,33 @@
+
+.categories-filter__checkboxes {
+  display: none !important;
+  @include at-min($bp-large) {
+    display: flex !important;
+  }
+}
+
+.hospitals-filter__checkboxes {
+  display: none !important;
+  @include at-min($bp-large) {
+    display: block !important;
+  }
+}
+
+.categories-filter__select {
+  @include at-min($bp-large) {
+    display: none !important;
+  }
+}
+
+.categories-filter {
+
+  @include at-min($bp-large) {
+    .grid__col:first-child {
+      flex: 0 0 percentage(4/12);
+    }
+
+    .grid__col:last-child {
+      flex: 0 0 percentage(8/12);
+    }
+  }
+}

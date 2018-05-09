@@ -1,0 +1,36 @@
+
+.c-chart-trends-tooltip {
+  background: $color-white;
+  box-shadow: 0 1px 4px 0 rgba(70, 80, 99, 0.5);
+  border-radius: 5px;
+  padding: 10px 20px;
+  max-width: 250px;
+}
+
+.c-chart-trends-tooltip__title {
+  color: $color-charade;
+  font-weight: 700;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid rgba($color-san-marino, 0.25);
+}
+
+.c-chart-trends-tooltip__content {
+  font-size: em(13);
+  padding-bottom: 1em;
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid rgba($color-san-marino, 0.25);
+}
+
+.c-chart-trends-tooltip__color-box {
+  @include size(10px);
+  display: inline-block;
+  margin-right: 5px;
+  border-radius: 50%;
+}
+
+.c-chart-trends-tooltip__footer {
+  color: $color-charade;
+  font-weight: 700;
+  margin-bottom: 0;
+}

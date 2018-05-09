@@ -1,0 +1,16 @@
+[{
+  "title": "About Chicago Health Atlas",
+  "description": "We believe data should be accurate, transparent and easy to understand. Here you will find health-related data that you can review, explore and compare over time and across communities. Our hope is that you can use this data to both better understand health in Chicago and identify opportunities to improve health and well-being.",
+  "link_url": "/about",
+  "link_name": "Learn More"
+}, {
+  "title": "Healthy Chicago 2.0",
+  "description": "Healthy Chicago 2.0 is an action plan created by hundreds of residents, health care providers, government agencies, community and social service organizations, foundations and public health experts. We are working together as a city to make sure that all Chicagoans have acess to resources, opportunities and environments that maximize their health and well-being.",
+  "link_url": "/healthy-chicago",
+  "link_name": "Learn More"
+}, {
+  "title": "Health Resources",
+  "description": "Communities require access to resources in order to thrive. Through a partnership with MAPSCorps and their youth scientists, the Chicago Health Atlas maps over 22,500 health and human services, businesses, and other resources. You can use this data about community assets to see how services are distributed across the City.",
+  "link_url": "/resources",
+  "link_name": "Find Resources Near You"
+}]

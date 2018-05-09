@@ -1,0 +1,108 @@
+
+html {
+  // Set base font size
+  font-size: percentage($base-font-size / 16);
+}
+
+body {
+  // Default stack for system fonts w/o Roboto to prevent render-blocking on non-Android devices
+  // Reference: https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/
+  font-family: -apple-system, BlinkMacSystemFont, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 100%;
+  line-height: $base-line-height;
+  // Text rendering stuff
+  font-kerning: normal;
+  text-size-adjust: 100%;
+  font-feature-settings: "liga", "kern";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+
+  @include when-inside(".wf-active") {
+    font-family: "Roboto", sans-serif;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: em(20);
+  margin-bottom: 1em;
+  color: $title-color;
+}
+
+p,
+ol,
+ul {
+  margin-bottom: em($base-font-size);
+  color: $paragraph-color;
+}
+
+ol > li {
+  list-style-position: inside;
+}
+
+ul > li {
+  list-style: none;
+}
+
+a {
+  color: $color-coral-red;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+
+  &.link-active {
+    text-decoration: underline;
+  }
+}
+
+small {
+  font-size: 88%;
+  line-height: 1.3;
+}
+
+.t-main-title {
+  font-size: em(36);
+  text-shadow: 0 2px 1px $title-shadow;
+  font-weight: 400;
+}
+
+.t-subtitle {
+  font-size: em(28);
+  text-shadow: 0 2px 1px $title-shadow;
+  font-weight: 400;
+}
+
+.t-minor-title {
+  font-size: 1em;
+  margin-bottom: 1.5em;
+  color: $color-river-bed;
+}
+
+.t-main-title,
+.t-subtitle {
+  @extend %u-font--serif;
+}
+
+.t-columns {
+  column-count: 2;
+  column-width: em(350); // magic number for optimal paragraph width
+  column-gap: em(36);
+  break-inside: avoid;
+
+  li {
+    break-inside: avoid;
+  }
+}
+
+.t-separator {
+  border: 0;
+  border-bottom: 2px dotted $color-cadet-blue;
+  margin-bottom: 1.5em;
+}

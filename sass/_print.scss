@@ -1,0 +1,258 @@
+
+// http://bafs.github.io/Gutenberg/
+
+$spacing: 1.5rem;
+$current-color: #000;
+
+.print-only {
+  display: none;
+}
+
+@media print {
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    // color: #000 !important;
+    /* Black prints faster: http://www.sanbeiji.com/archives/953 */
+    box-shadow: none !important;
+    text-shadow: none !important;
+    border-color: $current-color !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  html {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    padding: 2.54cm 1.8cm;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0 auto;
+    text-rendering: optimizeLegibility;
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+  /*
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
+  a[href^="#"]:after,
+  a[href^="javascript:"]:after {
+    content: "";
+  }
+
+  a {
+    &,
+    &:visited {
+      text-decoration: underline;
+      word-wrap: break-word;
+    }
+  }
+
+  pre {
+    white-space: pre-wrap !important;
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+  /*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
+  thead {
+    display: table-header-group;
+  }
+
+  img,
+  figure,
+  hr,
+  table,
+  tr,
+  li,
+  ul,
+  ol,
+  a {
+    page-break-inside: avoid;
+  }
+
+  p,
+  blockquote,
+  table,
+  ul,
+  ol,
+  dl {
+    margin-bottom: $spacing;
+    margin-top: 0;
+  }
+
+  p,
+  ul,
+  ol {
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a,
+  p,
+  h2,
+  h3,
+  h4 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    line-height: 1.2;
+    margin-bottom: $spacing / 2;
+    margin-top: 0;
+  }
+
+  // Avoid breaking before a paragraph if header before
+  h1 + p,
+  h2 + p,
+  h3 + p {
+    page-break-before: avoid;
+  }
+
+  // Avoid to break inside an image
+  img {
+    page-break-after: auto;
+    page-break-before: auto;
+    page-break-inside: avoid;
+    border: 0;
+    display: block;
+    max-width: 100% !important;
+    vertical-align: middle;
+  }
+
+  hr {
+    border: 0;
+    border-bottom: 2px solid $current-color;
+    height: 0;
+    margin: $spacing * 1.5 0;
+    padding: 0;
+  }
+
+  //
+  // Table
+  //
+  table {
+    border-collapse: collapse;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  table,
+  th,
+  td {
+    border-bottom: 1px solid $current-color !important;
+  }
+
+  .c-table__cell {
+    border-color: $current-color !important;
+  }
+
+  td,
+  th {
+    padding: 8px 16px !important;
+  }
+
+  .main-layout__inner {
+    padding: 0 !important;
+  }
+
+  .main-header,
+  .main-footer,
+  .no-print {
+    display: none !important;
+  }
+
+  .has-loader {
+    min-height: 0 !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .print-section {
+    display: none;
+
+    &.is-printable {
+      display: block;
+    }
+  }
+
+  .fa {
+    display: none !important;
+  }
+
+  .v-topic {
+    display: block;
+  }
+
+  .v-topic__sidebar {
+    display: none !important;
+  }
+
+  .recharts-wrapper {
+    width: 100% !important;
+    height: auto;
+  }
+
+  svg * {
+    // fill: #000 !important;
+  }
+
+  svg line {
+    // stroke: #000 !important;
+  }
+
+  .recharts-bar-rectangle path {
+    // fill: none !important;
+    // stroke: #000 !important;
+  }
+
+  .c-disparities__chart,
+  .chart-container {
+    width: 100% !important;
+    page-break-inside: avoid !important;
+  }
+
+  .c-disparities__chart {
+    h3 {
+      page-break-before: always !important;
+      page-break-after: avoid !important;
+    }
+  }
+
+  .recharts-responsive-container {
+    height: auto !important;
+  }
+
+}

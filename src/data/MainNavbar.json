@@ -1,0 +1,8 @@
+[
+  {"name": "Healthy Chicago 2.0", "link": "/healthy-chicago"},
+  {"name": "Indicators", "link": "/indicators"},
+  {"name": "Community Areas", "link": "/community-areas"},
+  {"name": "Resources", "link": "/resources"},
+  {"name": "About", "link": "/about"},
+  {"name": "Health Atlas API", "link": "https://chicagohealth.herokuapp.com/apidoc", "external": true}
+]

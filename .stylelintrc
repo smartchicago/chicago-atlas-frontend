@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    "stylelint-scss"
+  ],
+  "extends": "stylelint-config-sass-guidelines",
+  "rules": {
+    "string-quotes": "double",
+    "declaration-block-properties-order": ["flexible"],
+    "color-hex-length": null,
+    "color-hex-case": null,
+    "selector-no-qualifying-type": null,
+    "block-opening-brace-space-before": null,
+    "selector-class-pattern": null,
+    "selector-pseudo-element-colon-notation": "single",
+    "selector-list-comma-newline-after": null,
+    "max-nesting-depth": 2
+  }
+}

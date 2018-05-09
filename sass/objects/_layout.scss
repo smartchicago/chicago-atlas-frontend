@@ -1,0 +1,69 @@
+
+.main-layout {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-layout__content {
+  flex: 1 1 auto;
+}
+
+// center content and give it max width
+.main-layout__inner {
+  width: 100%;
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 1em;
+
+  @include at-min($bp-small) {
+    padding: 0 2em;
+  }
+
+  &.main-layout__content,
+  &.main-layout__center {
+    padding-top: em($spacing-large);
+    padding-bottom: em($spacing-large);
+    @include at-min($bp-medium) {
+      padding-top: em($spacing-xlarge);
+      padding-bottom: em($spacing-xlarge);
+    }
+  }
+
+}
+
+.layout--narrow {
+  @include at-min($bp-medium) {
+    padding: 0 em($spacing-large);
+  }
+  @include at-min($bp-large) {
+    padding: 0 em($spacing-xlarge);
+  }
+}
+
+.main-layout__sidebar-wrapper {
+  @include at-min($bp-tweak) {
+    display: flex;
+    min-height: calc(100vh - 122px); // header and footer are 60px height + 1px border each
+  }
+}
+
+.main-layout__sidebar {
+  @include at-min($bp-tweak) {
+    flex: 0 0 $sidebar-width;
+
+    + .main-layout__center {
+      width: calc(100% - #{$sidebar-width});
+      flex: 0 1 auto;
+      margin: 0 auto;
+    }
+
+  }
+}
+
+.main-layout__center {
+  @include at-min($bp-tweak) {
+    flex: 1;
+  }
+}

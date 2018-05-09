@@ -1,0 +1,31 @@
+
+.c-disparities {
+  display: flex;
+  flex-wrap: wrap;
+
+  h3 {
+    color: $color-charade;
+    margin-bottom: 0;
+    font-size: 1em;
+    line-height: 1;
+  }
+
+}
+
+.c-disparities__chart {
+  display: block;
+  width: 100%;
+  position: relative;
+  flex: 1 1 auto;
+  max-width: 100%;
+  margin: 0.5em 0;
+  padding-bottom: 1em;
+
+  &[data-length="2"] {
+    order: 99;
+  }
+}
+
+.c-race-ethnicity__chart {
+  margin: auto;
+}

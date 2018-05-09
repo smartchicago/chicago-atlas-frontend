@@ -1,0 +1,46 @@
+
+.c-checkbox-filter {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 120px;
+
+  label {
+    display: block;
+  }
+
+  input {
+    margin-right: 5px;
+    position: relative;
+  }
+
+}
+
+.c-checkbox-filter__item {
+  display: inline-block;
+  width: 20%;
+  padding: 5px;
+  transform: translateZ(0);
+}
+
+.c-checkbox-filter--alt {
+  display: block;
+  height: auto;
+
+  .c-checkbox-filter__icon {
+    margin-top: -2px;
+  }
+}
+
+
+.c-checkbox-filter__icon {
+  display: inline-block;
+  @include size(20px);
+  text-align: center;
+  line-height: 20px;
+  color: $color-white;
+  border-radius: 50%;
+  margin-right: 5px;
+  font-size: em(12);
+  vertical-align: text-top;
+}

@@ -1,0 +1,42 @@
+
+span.c-list-box-list {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  font-size: 0.93333em;
+  text-align: center;
+  line-height: 25px;
+  color: #fff;
+  display: inline-block;
+  margin: 0 3px;
+}
+
+.c-simple-list {
+  margin-top: 40px;
+  column-width: 50%;
+  column-count: 2;
+
+  @include at-min($bp-small) {
+    column-width: percentage(1/3);
+    column-count: 3;
+  }
+
+  .c-simple-list__title {
+    color: $color-astronaut;
+    margin-bottom: 0.5em;
+    font-size: 1em;
+  }
+
+  .c-simple-list__link {
+    font-weight: 300;
+    display: block;
+    padding: 3px;
+  }
+
+  .c-simple-list__heading ~ li {
+    margin-left: 0.5em;
+  }
+}

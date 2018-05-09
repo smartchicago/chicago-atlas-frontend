@@ -1,0 +1,21 @@
+
+
+.select-filter {
+  @include at-min($bp-large) {
+    padding-right: 1em;
+  }
+}
+
+.select-filter__element {
+  margin-bottom: 1em;
+  @include at-min($bp-small) {
+    width: 50%;
+    padding: 0 0.5em;
+    display: inline-block;
+  }
+  @include at-min($bp-medium) {
+    margin-bottom: 0;
+    padding: 0;
+    padding-right: 1em;
+  }
+}

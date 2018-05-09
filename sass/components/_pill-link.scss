@@ -1,0 +1,15 @@
+
+.c-pill-link {
+  color: $color-white;
+  background-color: $color-coral-red;
+  padding: 5px 10px;
+  border-radius: 99em;
+  display: inline-block;
+  margin: 5px;
+  margin-top: 0;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+}

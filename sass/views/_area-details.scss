@@ -1,0 +1,137 @@
+
+//@TODO: refactor to split into components and objects
+
+.c-area__header {
+  .c-label {
+    display: inline;
+    vertical-align: super;
+    padding: 4px 8px;
+    border-radius: 99em;
+    border-color: $color-sail;
+    color: $color-astronaut;
+    white-space: nowrap;
+
+    .fa {
+      margin-right: 10px;
+    }
+  }
+
+  .t-main-title {
+    display: inline;
+  }
+
+  @include at-max($bp-medium) {
+    .t-main-title {
+      margin-bottom: 0;
+      display: block;
+    }
+
+    .c-label {
+      display: inline-block;
+      margin: 2em auto;
+    }
+
+    .grid__col {
+      text-align: center;
+    }
+  }
+
+}
+
+
+.c-area-meta__links {
+  text-align: center;
+  margin-bottom: 1em;
+
+  p {
+    margin-bottom: 0.5em;
+  }
+
+  @include at-min($bp-medium) {
+    text-align: left;
+  }
+
+}
+
+.c-area-meta__map {
+  width: 100%;
+
+  img {
+    width: 100%;
+  }
+}
+
+.c-area-meta__buttons {
+  button {
+    border: 0;
+    background-color: $color-sail;
+    border-radius: 6px;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+    color: $color-chambray;
+
+    &:hover,
+    &:focus {
+      background-color: darken($color-sail, 10);
+    }
+  }
+  @include at-min($bp-medium) {
+    button {
+      display: inline-block;
+      margin-right: 1em;
+      vertical-align: middle;
+      width: auto;
+      min-width: em(250);
+    }
+  }
+}
+
+.c-area-info__number {
+  font-size: em(50);
+  letter-spacing: -2px;
+  line-height: 1;
+  margin-bottom: 10px;
+
+  p, span {
+    text-transform: uppercase;
+  }
+
+  > span {
+    font-size: em(18);
+    margin-top: 5px;
+  }
+}
+
+.c-area-meta__header {
+  @include at-min($bp-medium) {
+    display: flex;
+  }
+}
+
+.c-area-meta__info {
+  flex: 1;
+}
+
+.c-area-meta__map {
+  flex: 0 0 25%;
+  order: -1;
+  padding: 1em;
+  background-color: $color-alabaster;
+  margin-right: 2em;
+  @include at-min($bp-large) {
+    flex-basis: em(250);
+  }
+}
+
+
+.c-area-info {
+  .grid__col {
+    margin: 2em 0;
+  }
+
+  .grid {
+    align-items: flex-end;
+  }
+}

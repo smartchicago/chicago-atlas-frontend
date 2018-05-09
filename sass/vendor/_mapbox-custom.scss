@@ -1,0 +1,51 @@
+
+// Custom overrides for mapbox component
+
+.mapboxgl-popup {
+  top: -20px;
+
+  .mapboxgl-popup-tip {
+    border-top-color: transparent;
+  }
+}
+
+
+.mapboxgl-popup-content {
+  &.mapboxgl-popup-content {
+    background: rgba($color-white, 0.96);
+    border-radius: 6px;
+    box-shadow: 0 2px 4px 0 rgba(#333, 0.5);
+    padding: 12px 20px;
+    text-align: center;
+
+    h6 {
+      font-size: 16px;
+      font-weight: 400;
+      color: $color-charade;
+      margin: 0;
+      padding: 0;
+    }
+
+    a {
+      font-size: 10px;
+      text-transform: uppercase;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+    .mapboxgl-popup__info {
+      color: $color-rolling-stone;
+      font-family: "Roboto", sans-serif;
+      font-size: 16px;
+      margin: 0;
+      padding: 7px 7px 0;
+    }
+  }
+}
+
+// disable drag cursor on mapboxgl
+
+.mapboxgl-canvas-container.mapboxgl-interactive,
+.mapboxgl-ctrl-nav-compass {
+  cursor: inherit;
+}

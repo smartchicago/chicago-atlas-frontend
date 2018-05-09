@@ -1,0 +1,79 @@
+
+/*
+  COLORS
+ */
+
+$color-white: #fff;
+
+// darks
+$color-charade: #2d333f;
+$color-granny-smith: #909F9F;
+$color-rolling-stone: #727e82;
+$color-slate-gray: #6b7d8f;
+
+// light grays
+$color-alabaster: #fafafa;
+$color-whisper: #f6f7fa;
+$color-mercury: #e5e5e5;
+$color-gallery: #ededed;
+
+// light blues
+$color-mystic: #e6eaee;
+$color-botticeli: #cadbe7;
+$color-cadet-blue: #acb9c5;
+$color-tiara: #c9d3d6;
+$color-bali-hai: #7e95ac;
+$color-jungle-mist: #baccd8;
+$color-sail: #afddf9;
+$color-splinder: #b3c4d6;
+
+// blues
+$color-river-bed: #464f63;
+$color-polo-blue: #83abcc;
+$color-astronaut: #25426f;
+$color-san-marino: #3e6c9a;
+$color-chambray: #355d8a;
+
+// accent
+$color-coral-red: #fd4141;
+
+/*
+  TYPOGRAPHY
+ */
+
+$base-font-size: 15;
+$base-line-height: 22/15; // 1.5
+
+$title-shadow: $color-tiara;
+$title-color: $color-astronaut;
+
+$paragraph-color: $color-charade;
+
+$txt-light: $color-rolling-stone;
+
+/*
+  SPACING
+ */
+
+$max-width: 1250px;
+$sidebar-width: 300px;
+
+$spacing-base: 5;
+
+$spacing-xsmall: $spacing-base;       // 5
+$spacing-small: $spacing-base * 2;    // 10
+$spacing-medium: $spacing-base * 3;   // 15
+$spacing-large: $spacing-base * 6;    // 30
+$spacing-xlarge: $spacing-base * 12;  // 60
+
+$padding-vertical: 14px;
+$padding-horizontal: $padding-vertical * 2;
+
+/*
+  BREAKPOINTS
+ */
+
+$bp-small: 600;     // at-min: table-portrait, at-max: phone
+$bp-medium: 900;    // at-min: tablet-landscape
+$bp-tweak: 1024;    // at-min: laptop
+$bp-large: 1200;    // at-min: desktop

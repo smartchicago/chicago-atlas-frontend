@@ -1,0 +1,54 @@
+
+// https://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/#svg-solution
+
+.c-gender-chart__pie {
+  fill: $color-sail;
+  stroke: $color-san-marino;
+  stroke-width: 32;
+  stroke-dasharray: 0 100;
+  transition: stroke-dasharray 0.3s ease;
+}
+
+.c-gender-chart__svg {
+  transform: rotate(-90deg);
+  border-radius: 50%;
+  display: block;
+  width: 150px;
+}
+
+.c-gender-chart__info {
+  span {
+    display: inline-block;
+    margin: 0 10px;
+    color: $color-rolling-stone;
+  }
+
+  .fa {
+    font-size: em(28);
+  }
+
+  .fa-male {
+    color: $color-san-marino;
+  }
+
+  .fa-female {
+    color: $color-sail;
+  }
+}
+
+.c-gender-chart__wrapper {
+  display: inline-block;
+  position: relative;
+
+  &:before {
+    content: attr(data-name);
+    background: $color-white;
+    @include size(80px);
+    @include absolute(50% 50% null null);
+    transform: translateX(50%) translateY(-50%);
+    z-index: 1;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 80px;
+  }
+}

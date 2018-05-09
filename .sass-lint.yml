@@ -1,0 +1,16 @@
+rules:
+  indentation:
+    - 2
+    -
+      size: 2
+
+
+  quotes:
+    - 2
+    -
+      style: double
+
+  nesting-depth:
+    - 2
+    -
+      max-depth: 4

@@ -1,0 +1,245 @@
+
+$table-head-bg: $color-astronaut;
+$table-head-txt: $color-tiara;
+$table-borders: $color-mercury;
+$table-group-border: $color-sail;
+$table-group-txt: $color-astronaut;
+$table-caret-color: $color-coral-red;
+$table-hover-border: $color-coral-red;
+
+.c-table-tooltip-hover {
+  position: relative;
+}
+
+.c-table-tooltip {
+  top: -20px;
+  background-color: #2d333f;
+  color: #fff;
+  border-radius: 5px;
+  opacity: 0;
+  position: absolute;
+  padding: 10px;
+  transition: opacity 0.5s;
+  right: 10px;
+
+  a {
+    color: #fafafa;
+    font-weight: 300;
+    padding: 1em;
+    letter-spacing: 0.4px;
+    text-decoration: none;
+  }
+}
+
+.c-table-tooltip-hover:hover .c-table-tooltip {
+  opacity: 1;
+}
+
+.c-table {
+  table-layout: fixed;
+  margin-bottom: 2em;
+
+  [role="button"] {
+    cursor: pointer;
+  }
+
+  @include when-inside(".c-panel__content") {
+    @include at-min($bp-large) {
+      max-width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+}
+
+.c-table__head {
+  background-color: $table-head-bg;
+  color: $table-head-txt;
+}
+
+.c-table__cell {
+  vertical-align: middle;
+  border: 1px solid $table-borders;
+  line-height: 1.2;
+  padding: 10px 5px;
+
+  &:not(.c-table__cell--groupname):not(.c-table__cell--head) {
+    text-align: right;
+  }
+
+  @include at-min($bp-small) {
+    padding: $padding-vertical $padding-horizontal;
+  }
+
+  @include when-inside(tbody) {
+    &:nth-child(1):not(.c-table__cell--groupname) {
+      text-align: left;
+    }
+  }
+
+}
+
+// Using pseudo elements to cover default border color with heading color
+// Can't just change border-color property since it bleeds to the edges of tbody element
+.c-table__cell--head {
+  border-top-color: $table-head-bg;
+
+  &:first-child {
+    border-left-color: transparent;
+    position: relative;
+
+    &:before {
+      content: "";
+      @include absolute(-1px 100% 0 null);
+      width: 1px;
+      background: $table-head-bg;
+    }
+  }
+
+  &:last-child {
+    border-left-color: transparent;
+    position: relative;
+
+    &:before {
+      content: "";
+      @include absolute(-1px null 0 100%);
+      width: 1px;
+      background: $table-head-bg;
+    }
+  }
+}
+
+.c-table__cell--groupname {
+  position: relative;
+  box-shadow: inset 0 -4px 0 $table-group-border;
+  color: $color-astronaut;
+  line-height: 1;
+  // make group field smaller by decreasing top padding
+  // for the same value of bottom border to keep whitepace even
+  padding-top: $padding-vertical - 4px;
+  padding-left: $padding-horizontal;
+  border-bottom: 0;
+
+  .fa {
+    // using magic numbers to position and style caret according to design
+    font-size: 18px;
+    @include absolute(8px null null 10px);
+    color: $table-caret-color;
+  }
+
+}
+
+.c-table__group {
+  &.is-collapsed {
+    tr:not(:first-child) {
+      display: none;
+    }
+  }
+}
+
+.table--responsive {
+  @include at-max($bp-small) {
+    margin-bottom: 2em;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    -webkit-overflow-scrolling: touch;
+
+    .c-table {
+      margin-bottom: 0;
+      min-width: em($bp-small);
+    }
+
+    // Ensure the content doesn't wrap
+    th,
+    td {
+      white-space: nowrap;
+    }
+
+  }
+}
+
+.table--responsive-medium {
+  @include at-max($bp-medium) {
+    margin-bottom: 2em;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    -webkit-overflow-scrolling: touch;
+
+    .c-table {
+      margin-bottom: 0;
+      min-width: em($bp-medium);
+    }
+  }
+}
+
+.c-table--indicators {
+  td.c-table__cell:not(.c-table__cell--groupname) {
+    color: $color-rolling-stone;
+    vertical-align: top;
+  }
+}
+
+.c-table-cell__dataset {
+  margin-bottom: 5px;
+  display: flex;
+
+  ~ .c-table-cell__dataset {
+    display: none;
+  }
+
+  &.is-expanded ~ .c-table-cell__dataset {
+    display: flex;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  > * {
+    flex: 1 1 auto;
+    align-self: center;
+  }
+
+  .fa {
+    flex-basis: 10px;
+    cursor: pointer;
+  }
+
+  .fa-chevron-circle-up {
+    color: $color-coral-red;
+  }
+
+  .fa-chevron-circle-down {
+    color: $color-polo-blue;
+  }
+}
+
+.c-table-cell__value {
+  span, small {
+    display: block;
+    text-align: center;
+  }
+
+  small {
+    font-size: 12px;
+    color: $color-polo-blue;
+    line-height: 1;
+  }
+}
+
+.c-table-cell__year {
+  font-weight: 300;
+}
+
+.c-table__change {
+  display: flex;
+
+  > * {
+    flex: 1 1 auto;
+  }
+}

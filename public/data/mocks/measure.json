@@ -1,0 +1,1905 @@
+[{
+	"indicator_slug": "adult-binge-drinking",
+	"indicator_name": "Adult Binge Drinking",
+	"measures": [{
+		"title": "Adult Binge Drinking - Number",
+		"description": "Estimated number of adults who report binge drinking in the past month (men having 5 or more drinks on one occasion, women having 4 or more drinks on one occasion in the past month). This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Adult Binge Drinking - Rate",
+		"description": "Estimated number of adults who report binge drinking in the past month (men having 5 or more drinks on one occasion, women having 4 or more drinks on one occasion in the past month) divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Accidents",
+	"indicator_slug": "accidents",
+	"measures": [{
+		"title": "Accidents - Number",
+		"description": "Number of people who died due to an unintentional injury (ICD-10 codes: V01-X59,Y85-Y86)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Accidents - Rate",
+		"description": "Age-adjusted rate of people who died due to an unintentional injury per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Active transportation",
+	"indicator_slug": "active-transportation",
+	"measures": [{
+		"title": "Active transportation - Number",
+		"description": "Number of workers aged 16 years and over who walk, bike, or take public transportation to commute to work ",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Active transportation - Rate",
+		"description": "Percentage of workers aged 16 years and over who walk, bike, or take public transportation to commute to work among all workers aged 16 years and over",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Overall health status",
+	"indicator_slug": "overall-health-status",
+	"measures": [{
+		"title": "Adult Overall Health Status - Number",
+		"description": "Estimated number of adults (18 years and older) who reported that their overall health is good, very good or excellent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2015)"
+	}, {
+		"title": "Adult Overall Health Status - Rate",
+		"description": "Estimated number of adults (18 years and older) who reported that their overall health is good, very good or excellent divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2015)"
+	}]
+}, {
+	"indicator_name": "Adult e-cigarette use",
+	"indicator_slug": "adult-e-cigarette-use",
+	"measures": [{
+		"title": "Adult E-Cigarette Use - Number",
+		"description": "Estimated number of adults aged 18 years and older who report that they have used electronic cigarettes in the past 30 days. This number is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Adult E-Cigarette Use - Rate",
+		"description": "Estimated number of adults aged 18 years and older who report that they have used electronic cigarettes in the past 30 days divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Adult flu vaccine",
+	"indicator_slug": "adult-flu-vaccine",
+	"measures": [{
+		"title": "Adult flu vaccine - Number",
+		"description": "Estimated number of adults (18 years and older)  who report that they had a flu shot or a flu vaccine that was sprayed in their nose within the past 12 months. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Adult flu vaccine - Rate",
+		"description": "Estimated number of adults (18 years and older) who report that they had a flu shot or a flu vaccine that was sprayed in their nose within the past 12 months divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Adult fruit and vegetable servings",
+	"indicator_slug": "adult-fruit-and-vegetable-servings",
+	"measures": [{
+		"title": "Adult Fruit and Vegetable Servings - Number",
+		"description": "Estimated number of adults (18 years and older) who reported eating five or more servings of fruits and vegetables (combined) daily. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Fruit and Vegetable Servings - Rate",
+		"description": "Estimated number of adults (18 years and older) who reported eating five or more servings of fruits and vegetables (combined) daily divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Adult obesity",
+	"indicator_slug": "adult-obesity",
+	"measures": [{
+		"title": "Adult Obesity - Number",
+		"description": "Estimated number of adults (18 years and older) who reported a height and weight that yield a body mass index of 30 or greater. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Obesity - Rate",
+		"description": "Estimated number of adults (18 years and older) who reported a height and weight that yield a body mass index of 30 or greater divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Adult physical inactivity",
+	"indicator_slug": "adult-physical-inactivity",
+	"measures": [{
+		"title": "Adult Physical Inactivity - Number",
+		"description": "Estimated number of adults (18 years and older) who reported that they did not participate in any physical activities or exercises in the past month. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Physical Inactivity - Rate",
+		"description": "Estimated number of adults (18 years and older) who reported that they did not participate in any physical activities or exercises in the past month divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Adult smoking",
+	"indicator_slug": "adult-smoking",
+	"measures": [{
+		"title": "Adult Smoking - Number",
+		"description": "Estimated number of adults (18 years and older) who report that they've smoked at least 100 cigarettes in their life, and report that they now smoke cigarettes every day or some days. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Smoking - Rate",
+		"description": "Estimated number of adults (18 years and older) who report that they've smoked at least 100 cigarettes in their life and report that they now smoke cigarettes every day or some days divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Adult soda consumption",
+	"indicator_slug": "adult-soda-consumption",
+	"measures": [{
+		"title": "Adult Soda Consumption - Number",
+		"description": "Estimated number of adults (18 years and older) who drank soda or pop or other sweetened drinks like sweetened iced tea, sports drinks, fruit punch or other fruit-flavored drinks at least once per day in the past month. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Adult Soda Consumption - Rate",
+		"description": "Estimated number of adults (18 years and older) who drank soda or pop or other sweetened drinks like sweetened iced tea, sports drinks, fruit punch or other fruit-flavored drinks at least once per day in the past month divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Alcohol induced deaths",
+	"indicator_slug": "alcohol-induced-deaths",
+	"measures": [{
+		"title": "Alcohol induced deaths - Number",
+		"description": "Number of people who died due to dependent and nondependent use of alcohol or accidental poisoning by alcohol, excluding unintentional injuries, homicides, other causes indirectly related to alcohol use, and fetal alcohol syndrome (ICD-10: F10, G31.2, G62.1, I42.6, K29.2, K70, R78.0, X45, X65, Y15)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Alcohol induced deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to dependent and nondependent use of alcohol or accidental poisoning by alcohol per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Alcohol-Related Hospitalizations",
+	"indicator_slug": "alcohol-related-hospitalizations",
+	"measures": [{
+		"title": "Alcohol-Related Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges due to alcohol-related disease, injury or conditions (ICD-9-CM codes: 2910, 2911, 2912, 2913, 2914, 2915, 2918, 2919, 3575, 4255, 5710, 5711, 5712, 5713, 29181, 29182, 29189, 30300, 30301, 30302, 30303, 30390, 30391, 30392, 30393, 30500, 30501, 30502, 30503, 53530, 53531 and E8600)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Alcohol-Related Hospitalizations - Rate",
+		"description": "Age-adjusted rate of alcohol-related hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Alzheimers disease",
+	"indicator_slug": "alzheimers-disease",
+	"measures": [{
+		"title": "Alzheimer’s disease - Number",
+		"description": "Number of people who died due to Alzheimer's disease (ICD-10 code: G30)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Alzheimer’s disease - Rate",
+		"description": "Age-adjusted rate of people who died due to Alzheimer's disease per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Annual dental cleaning",
+	"indicator_slug": "annual-dental-cleaning",
+	"measures": [{
+		"title": "Annual Dental Cleaning - Number",
+		"description": "Estimated number of adults (18 years and older) who report that they've had their teeth cleaned by a dentist or hygienist in the past year. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Annual Dental Cleaning - Rate",
+		"description": "Estimated number of adults (18 years and older) who report that they've had their teeth cleaned by a dentist or hygienist in the past year divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Asthma ED visits (Age 0-4 years)",
+	"indicator_slug": "asthma-ed-visits-(0-4-years)",
+	"measures": [{
+		"title": "Asthma ED Visits (0-4 Years) - Number",
+		"description": "Number of emergency department (ED) visits among children under the age of 5 years, due to asthma (ICD-9-CM code: 493)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010  Census."
+	}, {
+		"title": "Asthma ED Visits (0-4 Years) - Rate",
+		"description": "Age-adjusted rate of asthma emergency department (ED) visits among children age 0-4 divided by the total population during a specified year expressed as visits per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Asthma ED visits (Age 0-18 years)",
+	"indicator_slug": "asthma-ed-visits-(0-18-years)",
+	"measures": [{
+		"title": "Asthma ED Visits (0-18 Years) - Number",
+		"description": "Number of emergency department (ED) visits among children aged under 18 years for asthma (ICD-9-CM code: 493)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Asthma ED Visits (0-18 Years) - Rate",
+		"description": "Age-adjusted rate of asthma emergency department (ED) visits among children aged under 18 years per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Asthma ED visits (Age 5-64 years)",
+	"indicator_slug": "asthma-ed-visits-age-5-64-years",
+	"measures": []
+}, {
+	"indicator_name": "Asthma ED visits (Age 65+ years)",
+	"indicator_slug": "asthma-ed-visits-(65+-years)",
+	"measures": [{
+		"title": "Asthma ED Visits (65+ Years) - Number",
+		"description": "Number of emergency department (ED) visits among those aged 65 years and older for asthma (ICD-9-CM code: 493)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Asthma ED Visits (65+ Years) - Rate",
+		"description": "Age-adjusted rate of asthma emergency department (ED) visits among people aged 65 years and older per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Asthma",
+	"indicator_slug": "asthma",
+	"measures": [{
+		"title": "Adult Asthma - Number",
+		"description": "Estimated number of adults (18 years and older) who reported that a doctor, nurse or other health professional has diagnosed them with asthma, and they currently have asthma. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Asthma - Rate",
+		"description": "Estimated number of adults (18 years and older) who reported that a doctor, nurse or other health professional has diagnosed them with asthma, and they currently have asthma divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Avoidable ED Visits",
+	"indicator_slug": "avoidable-ed-visits",
+	"measures": [{
+		"title": "Avoidable ED Visits - Number",
+		"description": "Number of emergency department (ED) discharges, excluding discharges to Veterans Administration hospitals, that are non-urgent or primary care treatable (ICD-9-CM codes: 1105, 1120, 112, 1121, 1122, 1123, 1128, 11282, 11284, 11285, 11289, 1129, 133, 1330, 1338, 1339, 372, 3720, 37200, 37201, 37202, 37204, 37205, 37210, 3721, 37211, 37212, 37213, 37214, 37215, 3722, 37220, 37221, 37222, 3723, 37230, 37231, 37239, 37203, 37333, 382, 38200, 3820, 38201, 3821, 3822, 3823, 3824, 3829, 38302, 460, 462, 4650, 465, 4658, 4659, 4660, 466, 4720, 472, 4721, 4722, 4730, 473, 4731, 4732, 4733, 4738, 4739, 4740, 47400, 474, 47401, 47402, 4741, 47410, 47411, 47412, 4742, 4748, 4749, 595, 5950, 5951, 5952, 5953, 5954, 5958, 59581, 59582, 59589, 5959, 5990, 616, 6160, 6161, 6288, 6988, 6989, 7051, 7242, 7245, 7247, 7248, 7840, V67, V670, V6700, V6701, V6709, V671, V672, V673, V674, V675, V6751, V6759, V676, V679, V68, V680, V6801, V6809, V681, V682, V688, V6881, V6889, V689)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Avoidable ED Visits - Rate",
+		"description": "Age-adjusted rate of avoidable emergency department (ED) discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Behavioral Health Hospitalizations",
+	"indicator_slug": "behavioral-health-hospitalizations",
+	"measures": [{
+		"title": "Behavioral Health Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges, excluding discharges to Veterans Administration hospitals, with a primary diagnosis code of: substance use disorder (includes due to: alcohol, amphetamines, cannabis, cocaine, drug induced mental disorders, hallucinogens, opioids, sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates, and other) and mental disorders (adjustment disorders, anxiety disorders, attention-deficit, conduct, and disruptive behavior disorders, disorders usually diagnosed in infancy, childhood, or adolescence, impulse control disorders, mood disorders, personality disorders, schizophrenia and other psychotic disorders, suicide and intentional self-inflicted injury, screening and history of mental health and substance abuse codes, miscellaneous disorders). (ICD-9-CM codes:  https://www.hcup-us.ahrq.gov/reports/statbriefs/sb191-Hospitalization-Mental-Substance-Use-Disorders-2012.pdf)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Behavioral Health Hospitalizations - Rate",
+		"description": "Age-adjusted rate of behavioral health hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Breast cancer screening",
+	"indicator_slug": "breast-cancer-screening",
+	"measures": [{
+		"title": "Breast Cancer Screening - Number",
+		"description": "Estimated number of women aged 50-74 years who reported having a mammogram in the past two years. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Breast Cancer Screening - Rate",
+		"description": "Estimated number of women aged 50-74 years who reported having a mammogram in the past two years divided by the estimated number of women aged 50-74 years, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Bullying",
+	"indicator_slug": "bullying",
+	"measures": [{
+		"title": "Bullying - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report being bullied on school property in the past 12 months. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Bullying - Rate",
+		"description": "Estimated number of CPS high school students who report being bullied on school property in the past 12 months divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Cancer deaths",
+	"indicator_slug": "cancer-deaths",
+	"measures": [{
+		"title": "Cancer deaths- Number",
+		"description": "Number of people who died due to all cancer causes (ICD-10 codes: C00-C97)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Cancer deaths - Rate",
+		"description": "Age-adjusted rate of  people who died due to cancer per 100,000 population.",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Cervical cancer deaths",
+	"indicator_slug": "cervical-cancer-deaths",
+	"measures": [{
+		"title": "Cervical cancer deaths- Number",
+		"description": "Number of female deaths due to cancer of the uterine cervix (ICD-10 code: C53)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Cervical cancer deaths - Rate",
+		"description": "Age-adjusted rate of female deaths due to cancer of the uterine cervix per 100,000 females",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Cervical cancer screening",
+	"indicator_slug": "cervical-cancer-screening",
+	"measures": [{
+		"title": "Cervical Cancer Screening - Number",
+		"description": "Estimated number of women aged 21-65 years who have not had a hysterectomy and who report having a Pap test within the past 3 years. This number is weighted to represent the population from which the Healthy Chicago Survey sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Cervical Cancer Screening - Rate",
+		"description": "Estimated number of women aged 21-65 years who have not had a hysterectomy and who report having a Pap test within the past 3 years, divided by the estimated number of women aged 21-65 years, expressed as a percent. This percent is weighted to represent the population from which the Healthy Chicago Survey sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Child Obesity",
+	"indicator_slug": "child-obesity",
+	"measures": [{
+		"title": "Child Obesity - Rate",
+		"description": "Percentage of Chicago Public School students with valid data elements on the Illinois Child Health Examination form whose BMI is equal to or greater than the 95th percentile on the CDC BMI-for-age growth charts (for either girls or boys) adjusted for non-response through logistic regression",
+		"source": "Chicago Public Schools IMPACT SIM, a web-based student information management system operated and maintained by CPS."
+	}]
+}, {
+	"indicator_name": "Child Opportunity Index",
+	"indicator_slug": "child-opportunity-index",
+	"measures": [{
+		"title": "Child Opportunity Index - Number",
+		"description": "The Child Opportunity Index (COI) consists of 19 indicators combined into three component indices: Economic, Health and Environment, and Education. The component indices are then combined into a composite index and the city is divided into quintiles with index scores assigned to levels Very Low, Low, Moderate, High, Very High.",
+		"source": "diversitydatakids.org (Brandeis University) and the Kirwan Institute for the Study of Race and Ethnicity (Ohio State University)"
+	}]
+}, {
+	"indicator_name": "Child Poverty",
+	"indicator_slug": "child-poverty",
+	"measures": [{
+		"title": "Child Poverty - Number",
+		"description": "Number of people less than 18 years of age living below the poverty threshold",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}, {
+		"title": "Child Poverty - Rate",
+		"description": "Percentage of people less than 18 years of age living below the poverty threshold among total population less than 18 years of age",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}]
+}, {
+	"indicator_name": "Children aged 19-35 months who receive the recommended doses of DTaP, polio, MMR, Hib, hepatitis B, varicella and PCV vaccines",
+	"indicator_slug": "children-aged-19-35-months-who-receive-the-recommended-doses-of-dtap-polio-mmr-hib-hepatitis-b-varicella-and-pcv-vaccines",
+	"measures": [{
+		"title": "Children aged 19-35 months with up-to-date immunizations - Rate",
+		"description": "Weighted percentage of children aged 19-35 months completing the combined 7 vaccine series (4:3:1:3*:3:1): 4 or more doses of DTaP, 3 or more doses of Polio, 1 or more doses of MMR, Hib full series (3 or 4 doses, depending on product type received), 3 or more doses of HepB, 1 or more doses of Varicella, and 4 or more doses of PCV (In 2013 data, referred to as 4:3:1:4:3:1:4-FS)",
+		"source": "Centers for Disease Control and Prevention (CDC) ",
+		"url": "https://www.cdc.gov/vaccines/imz-managers/coverage/nis/child/tech-notes.html"
+	}]
+}, {
+	"indicator_name": "Chronic liver disease and cirrhosis deaths",
+	"indicator_slug": "chronic-liver-disease-and-cirrhosis-deaths",
+	"measures": [{
+		"title": "Chronic liver disease and cirrhosis deaths - Number",
+		"description": "Number of people who died due to liver disease and cirrhosis (ICD-10: K70 or K73–K74)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Chronic liver disease and cirrhosis deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to liver disease and cirrhosis per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Chronic lower respiratory disease deaths",
+	"indicator_slug": "chronic-lower-respiratory-disease-deaths",
+	"measures": [{
+		"title": "Chronic lower respiratory disease deaths - Number",
+		"description": "Number of people who died due to chronic lower respiratory disease (ICD-10 codes: J40-J44)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Chronic lower respiratory disease deaths- Rate",
+		"description": "Age-adjusted rate of people who died due to chronic lower respiratory disease per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Colorectal cancer deaths",
+	"indicator_slug": "colorectal-cancer-deaths",
+	"measures": [{
+		"title": "Colorectal cancer deaths - Number",
+		"description": "Number of people who died due to colorectal cancer (ICD-10 codes: C18-C21, C26.0)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Colorectal cancer deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to colorectal cancer per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Colorectal Cancer Incidence",
+	"indicator_slug": "colorectal-cancer-incidence",
+	"measures": [{
+		"title": "Colorectal Cancer Incidence - Number",
+		"description": "Number of people diagnosed with invasive colorectal cancer (SEER site recode: 21041-21052) during a specific 5-year time period. Coding changes for 2010: SEER site recode ICD-O-3/WHO 2008 is used for cases diagnosed 2010 and later, based on ICD-O-3 updated for Hematopoietic codes based on WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues (2008).",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry"
+	}, {
+		"title": "Colorectal Cancer Incidence - Rate",
+		"description": "Age-adjusted rate of diagnosed incident cases of invasive colorectal cancer per 100,000 population.",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry; US Census Bureau, 2010  Census; Intercensal years (2004-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2013, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Colorectal cancer screening",
+	"indicator_slug": "colorectal-cancer-screening",
+	"measures": [{
+		"title": "Colorectal Cancer Screening - Number",
+		"description": "Estimated number of adults aged 50-75 who reported having a colonoscopy in the past 10 years, or a sigmoidoscopy in the past 5 years with a blood stool test in the past 3 years, or a blood stool test in the past year. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2006-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Colorectal Cancer Screening - Rate",
+		"description": "Estimated number of adults aged 50-75 who reported having a colonoscopy in the past 10 years, or a sigmoidoscopy in the past 5 years with a blood stool test in the past 3 years, or a blood stool test in the past year divided by the estimated number of adults aged 50-75, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2006-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Coronary heart disease deaths",
+	"indicator_slug": "coronary-heart-disease-deaths",
+	"measures": [{
+		"title": "Coronary heart disease deaths - Number",
+		"description": "Number of people who died due to coronary heart disease (ICD-10 codes: I20-I25)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Coronary heart disease deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to coronary heart disease per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Crude birth rate",
+	"indicator_slug": "crude-birth-rate",
+	"measures": [{
+		"title": "Births - Number",
+		"description": "Number of births to Chicago residents regardless of the city or state in which they occur",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Births - Rate",
+		"description": "Rate of births per 1,000 population",
+		"source": "Illinois Department of Public Health, Vital Statistics; US Census Bureau 2000 and 2010 population and populations for 2001-2009 were interpolated"
+	}]
+}, {
+	"indicator_name": "Dental care emergencies",
+	"indicator_slug": "dental-care-emergencies",
+	"measures": [{
+		"title": "Dental Care Emergencies - Number",
+		"description": "Number of emergency department (ED) visits, excluding discharges to Veterans Administration hospitals, for dental causes (ICD-9-CM codes: 521, 522, 523, 525, 528, 529, 526.4, 526.5)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Dental Care Emergencies - Rate",
+		"description": "Age-adjusted rate of dental care emergency department (ED) visits, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Diabetes deaths",
+	"indicator_slug": "diabetes-deaths",
+	"measures": [{
+		"title": "Diabetes deaths - Number",
+		"description": "Number of people who died due to diabetes (ICD-10 codes: E10-E14 ) ",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Diabetes deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to diabetes per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Diabetes related deaths",
+	"indicator_slug": "diabetes-related-deaths",
+	"measures": [{
+		"title": "Diabetes related deaths - Number",
+		"description": "Number of people for whom diabetes was a primary or secondary cause of death (ICD-10 codes:  E10-E14 as underlying or multiple cause of death) ",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Diabetes related deaths - Rate",
+		"description": "Age-adjusted rate of people for whom diabetes is a primary or secondary cause per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Diabetes Related Hospitalizations",
+	"indicator_slug": "diabetes-related-hospitalizations",
+	"measures": [{
+		"title": "Diabetes Related Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges, excluding discharges to Veterans Administration hospitals, due to diabetes mellitus with or without related complications (ICD-9-CM code: 250)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Diabetes Related Hospitalizations - Rate",
+		"description": "Age-adjusted rate of diabetes-related hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Diabetes-related lower extremity amputation hospitalizations",
+	"indicator_slug": "diabetes-related-lower-extremity-amputation-hospitalizations",
+	"measures": [{
+		"title": "Diabetes Related Lower Extremity Amputation Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges, excluding discharges to Veterans Administration hospitals, with any listed diagnosis for diabetes and any listed procedure code for lower extremity amputation (ICD-9-CM codes 250 with 841.0, 841.2, 841.3, 841.4, 841.5, 841.6, 841.7, 841.8, 841.9), excluding visits with any listed diagnosis for traumatic amputation of the lower extremity (ICD-9-CM = 895.0, 895.1, 896.0, 896.1, 896.2, 896.3, 897.0, 897.2, 897.3, 897.5, 897.6, 897.7)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Diabetes Related Lower Extremity Amputation Hospitalizations - Rate",
+		"description": "Age-adjusted rate of diabetes-related lower extremity amputation hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Diabetes",
+	"indicator_slug": "diabetes",
+	"measures": [{
+		"title": "Adult Diabetes - Number",
+		"description": "Estimated number of adults (18 years and older) who reported that a doctor, nurse or other health professional has diagnosed them with diabetes (excludes pre-diabetes or diabetes only during pregnancy). This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Diabetes - Rate",
+		"description": "Estimated number of adults (18 years and older) who reported that a doctor, nurse or other health professional has diagnosed them with diabetes (excludes pre-diabetes or diabetes only during pregnancy) divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Diet related deaths",
+	"indicator_slug": "diet-related-deaths",
+	"measures": [{
+		"title": "Diet related deaths - Number",
+		"description": "Number of people who died due to nutrition-related chronic diseases (ICD-10 codes:C19, C20, C64, C73, E41, E43, E45, E46, I10, I64, I71,N19, R64, B789, C159, C160, C169, C180, C184, C187,C189,C220, C221,C229, C250,C254,C259, C509, C541, C679,D530, D539, D649, E102,E105, E106, E107, E109, E111, E112, E114, E115, E119, E140,E144, E145, E147, E148,E149, E639, E660, E662, E668, E669 ,E780, E785, E782, I213, I214, I219, I248, I249, I250, I251, I252,I255, I258, I259, I500, I610,I611, I613,I614,I615, I19, I620, I629, I630, I632, I633, I634,I635,I638, I639,I672, I679,I691, I672, I679, I691, I693, I694,I698, I702, I709, I723, I729,I739, I741, I745, I748, I749, M819, N180, N188,N189) ",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Diet related deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to nutrition-related chronic diseases per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Drug induced deaths",
+	"indicator_slug": "drug-induced-deaths",
+	"measures": [{
+		"title": "Drug induced deaths - Number",
+		"description": "Number of people who died due to poisoning and medical conditions caused by use of legal or illegal drugs or deaths from poisoning due to medically prescribed and other drugs. It excludes unintentional injuries, homicides, and other causes indirectly related to drug use, as well as newborn deaths due to the mother’s drug use (ICD-10 codes:  D52.1, D59.0, D59.2, D61.1, D64.2, E06.4, E16.0, E23.1, E24.2, E27.3, E66.1, F11.0-F11.5, F11.7-F11.9, F12.0-F12.5, F12.7-F12.9, F13.0-F13.5, F13.7-F13.9, F14.0-F14.5, F14.7-F14.9, F15.0-F15.5, F15.7-F15.9, F16.0-F16.5, F16.7-F16.9, F17.0, F17.3-F17.5, F17.7-F17.9, F18.0-F18.5, F18.7-F18.9, F19. 0-F19.5, F19.7-F19.9, G21.1, G24.0, G25.1, G25.4, G25.6, G44.4, 62.0, G72.0, I95.2, J70.2-J70.4, L10.5, L27.0, L27.1, M10.2, M32.0, M80.4, M81.4, M83.5, M87.1, R78.1-R78.5, X40-X44, X60-X64, X85, Y10-Y14)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Drug induced deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to poisoning and medical conditions caused by use of legal or illegal drugs or from poisoning due to medically prescribed and other drugs per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Drug overdose deaths",
+	"indicator_slug": "drug-overdose-deaths",
+	"measures": [{
+		"title": "Drug overdose deaths - Number",
+		"description": "Number of people who died due to drug overdose (ICD-10 codes: X40–X44, X60–X64, X85, Y10–Y14)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Drug overdose deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to drug overdose per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Drug-Related Hospitalizations",
+	"indicator_slug": "drug-related-hospitalizations",
+	"measures": [{
+		"title": "Drug-Related Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges, excluding discharges to Veterans Administration hospitals, due to drug abuse, adverse reactions to drugs, or other drug-related consequences (ICD-9-CM codes: 305[.20-.23], 304[.00-.93], 292.0, 305[.30-.33], 305[.40-.43], 305[.50-.53], 305[.60-.63], 305[.70-.73], 305[.80-.83], 305[.90-.93], 648[.30-.34], [.30-.34], 760.72, 760.73, 760.75, 779.5, 965[.00-.09], 967[.0-.9], 969.4, 969.6, 969[.70-.79], 970.81 or first listed valid cause-of-injury code: E850.0, E850.1, E850.2, E851, E852[.0-.9], E853.2, E854.1, 854.2, E950.1, E950.2, E980.1, E980.2.  Records with a first-listed ICD-9-CM code of E930-E949 are excluded)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Drug-Related Hospitalizations - Rate",
+		"description": "Age-adjusted rate of drug-related hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Early Childhood Education",
+	"indicator_slug": "early-childhood-education",
+	"measures": [{
+		"title": "Early Childhood Education - Rate",
+		"description": "Percentage of eligible 3 and 4 year olds in early childhood education programs",
+		"source": "City of Chicago Department of Family and Support Services (DFSS)"
+	}]
+}, {
+	"indicator_name": "Early Intervention Services",
+	"indicator_slug": "early-intervention-services",
+	"measures": [{
+		"title": "Early Intervention Services - Number",
+		"description": "Number of infants and toddlers aged birth to 3 years with an ISFP (Individualized Family Service Plan) for early intervention services",
+		"source": "Illinois Department of Human Services Bureau of Early Intervention"
+	}, {
+		"title": "Early Intervention Services - Rate",
+		"description": "Percentage of infants and toddlers aged birth to 3 years with an ISFP (Individualized Family Service Plan) among all children aged birth to 3 years",
+		"source": "Illinois Department of Human Services Bureau of Early Intervention; US Census Bureau, 2010  Census"
+	}]
+}, {
+	"indicator_name": "Economic Hardship",
+	"indicator_slug": "economic-hardship",
+	"measures": [{
+		"title": "Economic Hardship - Number",
+		"description": "Hardship Score is calculated using the following six social and economic indicators: (1) Dependency - Percent of population under or over 64 years of age. (2) Crowded Housing - Percent of occupied housing with more than one person per room. (3) Poverty - Percent of people living below federal poverty line. (4) Per Capita Income. (5) Unemployment - Percent of people in labor force over 16 years of age that are unemployed. (6) No High School Diploma - Percent of people over 25 years of age without high school diploma. For each of the six indicators at the community area level/zip code, values are standardized. A sum of the standardized values comprises the Hardship Score at the community area/zip code level.",
+		"source": "US Census Bureau, American Community Survey 2015 5-year estimates and 2010 5-year estimates"
+	}]
+}, {
+	"indicator_name": "Engagement in HIV Care",
+	"indicator_slug": "engagement-in-hiv-care",
+	"measures": [{
+		"title": "Engagement in HIV Care - Number",
+		"description": "Number of people living with HIV who had at least one medical visit",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}, {
+		"title": "Engagement in HIV Care - Rate",
+		"description": "Percentage of people living with HIV who had at least one medical visit among all people living with HIV",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}]
+}, {
+	"indicator_name": "Female breast cancer deaths",
+	"indicator_slug": "female-breast-cancer-deaths",
+	"measures": [{
+		"title": "Female breast cancer deaths - Number",
+		"description": "Number of female deaths due to breast cancer (ICD-10 code: C50)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Female breast cancer deaths - Rate",
+		"description": "Age-adjusted rate of female deaths due to breast cancer per 100,000 females",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Firearm related homicides",
+	"indicator_slug": "firearm-related-homicides",
+	"measures": [{
+		"title": "Firearm related homicides - Number",
+		"description": "Number of people who died due to firearm related homicide (ICD-10 codes: X93-X95,U014)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Firearm related homicides - Rate",
+		"description": "Age-adjusted rate of people who died due to firearm related homicide per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Food Access",
+	"indicator_slug": "food-access",
+	"measures": [{
+		"title": "Food Access - Number",
+		"description": "Number of people with low income and living more than ½ mile from the nearest supermarket, supercenter, or large grocery store. Low income is defined as annual family income at or below 200 percent of the Federal poverty threshold for family size. 2013 data are based on 2010 supermarket data and income is based on 2006-2010 American Community Survey (ACS) data. 2015 data are based on 2015 supermarket data and 2010-2014 ACS data.",
+		"source": "United States Department of Agriculture (USDA) Food Access Research Atlas ",
+		"url": "https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/"
+	}, {
+		"title": "Food Access - Rate",
+		"description": "Percentage of people with low income and living more than ½ mile from the nearest supermarket, supercenter, or large grocery store among the total population",
+		"source": "United States Department of Agriculture (USDA) Food Access Research Atlas",
+		"url": "https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/"
+	}]
+}, {
+	"indicator_name": "Firearm-related homicides by injury location",
+	"indicator_slug": "firearm-related-homicides-by-injury-location",
+	"measures": [{
+		"title": "Gun-related deaths by injury location- Number",
+		"description": "Number of firearm-related homicide deaths by injury location",
+		"source": "Illinois Department of Public Health, Vital Statistics 2010-2014"
+	}, {
+		"title": "Gun-related deaths by injury location - Rate",
+		"description": "Rate of firearm-related homicides per 100,000 population",
+		"source": "Illinois Department of Public Health, Vital Statistics 2010-2014;  US Census Bureau 2010 population"
+	}]
+}, {
+	"indicator_name": "Food stamps/SNAP",
+	"indicator_slug": "food-stamps-snap",
+	"measures": [{
+		"title": "Food stamps - Number",
+		"description": "Number of households receiving food stamps/SNAP",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups "
+	}, {
+		"title": "Food stamps - Rate ",
+		"description": "Percentage of households receiving food stamps/SNAP among total households",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}]
+}, {
+	"indicator_name": "Foreign-born",
+	"indicator_slug": "foreign-born",
+	"measures": [{
+		"title": "Foreign-born - Number",
+		"description": "Anyone who is not a U.S. citizen at birth. This includes those who have become U.S. citizens through naturalization. Everyone else constitutes the native-born population, composed of anyone who is a U.S. citizen at birth, including people born in the United States, in Puerto Rico, in a U.S. Island Area (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands), or abroad to a U.S. citizen parent or parents.",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Foreign-born- Rate ",
+		"description": "Percentage of foreign-born people among the total population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Grandparents raising grandchildren",
+	"indicator_slug": "grandparents-raising-grandchildren",
+	"measures": [{
+		"title": "Grandparents raising grandchildren  - Number",
+		"description": "Number of grandparents with primary responsibility for grandchildren under 18 years of age living with them",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Have a Disability",
+	"indicator_slug": "have-a-disability",
+	"measures": [{
+		"title": "Have a disability - Number",
+		"description": "Number of people with limitations in areas of functioning (vision, hearing, mobility, and cognitive functioning) and self-care",
+		"source": "US Census Bureau:  American Community Survey, 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}, {
+		"title": "Have a disability - Rate ",
+		"description": "Percentage of people with limitations in functioning (vision, hearing, mobility, and cognitive functioning) and self-care among the total civilian noninstitutionalized population",
+		"source": "US Census Bureau:  American Community Survey, 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}]
+}, {
+	"indicator_name": "General fertility rate",
+	"indicator_slug": "general-fertility-rate",
+	"measures": [{
+		"title": "General fertility rate - Number",
+		"description": "Number of live births to mothers aged 15-44 years",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "General fertility rate - Rate",
+		"description": "Rate of births to mothers aged 15-44 years per 1,000 population of females aged 15-44 years",
+		"source": "Illinois Department of Public Health, Vital Statistics; US Census Bureau 2000 and 2010 population and populations for 2001-2009 were interpolated"
+	}]
+}, {
+	"indicator_name": "Health care satisfaction",
+	"indicator_slug": "health-care-satisfaction",
+	"measures": [{
+		"title": "Health Care Satisfaction - Number",
+		"description": "Estimated number of adults aged 18 years and older who report that they were very satisfied with the health care they received in the past year. Those who reported receiving no health care in the past year are excluded. This number is weighted to represent the population from which the Healthy Chicago Survey sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Health Care Satisfaction - Rate",
+		"description": "Estimated number of adults aged 18 years and older who report that they were very satisfied with the health care they received in the past year, divided by the estimated number of adults aged 18+ who have accessed some health care in the past year, expressed as a percent. This percent is weighted to represent the population from which the Healthy Chicago Survey sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Healthy Homes",
+	"indicator_slug": "healthy-homes",
+	"measures": []
+}, {
+	"indicator_name": "Hepatitis C treatment",
+	"indicator_slug": "hepatitis-c-treatment",
+	"measures": []
+}, {
+	"indicator_name": "High school graduation",
+	"indicator_slug": "high-school-graduation",
+	"measures": [{
+		"title": "High school graduation - Number",
+		"description": "Number of adults aged 25 years and older with a high school diploma or equivalency",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "High school graduation - Rate",
+		"description": "Percentage of adults aged 25 years and older with a high school diploma or equivalency among all adults aged 25 years and older",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Heart disease deaths",
+	"indicator_slug": "heart-disease-deaths",
+	"measures": [{
+		"title": "Heart disease deaths - Number",
+		"description": "Number of people who died due to heart disease (ICD-10 codes: I00-I09, I11, I13, I20-I51)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Heart disease deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to heart disease per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Hispanic or Latino",
+	"indicator_slug": "hispanic-or-latino",
+	"measures": [{
+		"title": "Latino population - Number",
+		"description": "Estimated Hispanic or Latino population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Latino population - Rate ",
+		"description": "Percentage of Latinos among total population. Note: (1) Percent overall  = # Hispanic or Latino or black/ total pop. (2) Percent by age group = # Hispanic or Latino in age group/ total # Hispanic or Latino. (3) Percent by community area = # Hispanic or Latino in community area / total pop. in community area",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "HIV Incidence",
+	"indicator_slug": "hiv-incidence",
+	"measures": [{
+		"title": "HIV Incidence - Number",
+		"description": "Number of people newly diagnosed with HIV",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}, {
+		"title": "HIV Incidence - Rate",
+		"description": "Rate of people newly diagnosed with HIV per 100,000 population",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}]
+}, {
+	"indicator_name": "HIV Prevalence",
+	"indicator_slug": "hiv-prevalence",
+	"measures": [{
+		"title": "HIV Prevalence - Number",
+		"description": "Number of people living with HIV",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}, {
+		"title": "HIV Prevalence - Rate",
+		"description": "Rate of people living with HIV per 100,000 population",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}]
+}, {
+	"indicator_name": "HIV Viral Suppression",
+	"indicator_slug": "hiv-viral-suppression",
+	"measures": [{
+		"title": "HIV Viral Suppression - Number",
+		"description": "Number of people living with HIV with a viral load  result less than 200 copies per ml during year of interest",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}, {
+		"title": "HIV Viral Suppression - Rate",
+		"description": "Percentage of people living with HIV that had a viral load result of 200 copies per ml or less among the total number of people living with HIV",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}]
+}, {
+	"indicator_name": "Homicides",
+	"indicator_slug": "homicides",
+	"measures": [{
+		"title": "homicides - Number",
+		"description": "Number of people who died due to homicide (ICD-10 codes: X85-Y09,Y87.1)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "homicides - Rate",
+		"description": "Age-adjusted rate of people who died due to homicide per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Household poverty",
+	"indicator_slug": "household-poverty",
+	"measures": [{
+		"title": "Household poverty - Number",
+		"description": "Number of households living below the poverty threshold",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}, {
+		"title": "Household poverty - Rate ",
+		"description": "Percentage of households living below the poverty threshold among all households",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}]
+}, {
+	"indicator_name": "HPV vaccination",
+	"indicator_slug": "hpv-vaccination",
+	"measures": [{
+		"title": "Immunization coverage HPV vaccination - Rate",
+		"description": "Weighted percentage of adolescents aged 13-17 years who received 3 or more doses of HPV vaccine among all adolescents aged 13-17",
+		"source": "Centers for Disease Control and Prevention (CDC)",
+		"url": "https://www.cdc.gov/vaccines/imz-managers/coverage/nis/teen/tech-notes.html"
+	}]
+}, {
+	"indicator_name": "Hypertension",
+	"indicator_slug": "hypertension",
+	"measures": [{
+		"title": "Adult Hypertension - Number",
+		"description": "Estimated number of adults (18 years and older) who reported that a doctor, nurse or other health professional has diagnosed them with high blood pressure (excludes borderline high, pre-hypertensive or hypertension diagnosed only during pregnancy) . This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Hypertension - Rate",
+		"description": "Estimated number of adults (18 years and older) who reported that a doctor, nurse or other health professional has diagnosed them with high blood pressure (excludes borderline high, pre-hypertensive or hypertension diagnosed only during pregnancy)  divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Individual poverty",
+	"indicator_slug": "individual-poverty",
+	"measures": [{
+		"title": "Individual poverty - Number",
+		"description": "Number of people living below the poverty threshold",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}, {
+		"title": "Individual poverty - Rate ",
+		"description": "Percentage of people living below the poverty threshold among the total population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}]
+}, {
+	"indicator_name": "Income Diversity",
+	"indicator_slug": "income-diversity",
+	"measures": [{
+		"title": "Income Inequality - Rate",
+		"description": "Uses the Gini-Simpson formula to measure how economically diverse a population is by calculating the probability that two people picked at random will be from a different household income category: less than $35,000, $35,000-$99,999 or $100,000 and greater.  The higher the number the greater the economic diversity.",
+		"source": "U.S. Census, American Community Survey 5-Year DP03 tables"
+	}]
+}, {
+	"indicator_name": "Influenza and pneumonia deaths",
+	"indicator_slug": "influenza-and-pneumonia-deaths",
+	"measures": [{
+		"title": "Influenza and pneumonia deaths - Number",
+		"description": "Number of people who died due to influenza or pneumonia (ICD-10 codes: J09-J18)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Influenza and pneumonia deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to influenza or pneumonia per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Injury deaths",
+	"indicator_slug": "injury-deaths",
+	"measures": [{
+		"title": "Injury deaths - Number",
+		"description": "Number of people who died due to any injury (ICD-10 codes: U01-U03, V01-Y36, Y85-Y87, Y89)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Injury deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to any injury per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Late Stage Female Breast Cancer Incidence",
+	"indicator_slug": "late-stage-female-breast-cancer-incidence",
+	"measures": [{
+		"title": "Late Stage Female Breast Cancer - Number",
+		"description": "Number of women diagnosed with invasive late stage female breast cancer (SEER site recode: 26000, behavior code 3; stage of disease code regional (2) or distant metastases/systemic disease (3)) during a specific 5-year time period. Coding changes for 2010: SEER site recode ICD-O-3/WHO 2008 is used for cases diagnosed 2010 and later, based on ICD-O-3 updated for Hematopoietic codes based on WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues (2008).",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry"
+	}, {
+		"title": "Late Stage Female Breast Cancer - Rate",
+		"description": "Age-adjusted rate of diagnosed incident cases of invasive late stage female breast cancer per 100,000 population",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry; US Census Bureau, 2010  Census; Intercensal years (2004-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2013, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Lead poisoning",
+	"indicator_slug": "lead-poisoning",
+	"measures": [{
+		"title": "Lead poisoning - Number",
+		"description": "Number of children aged 0-2 years (unless otherwise noted) with peak annual venous blood lead level 6 mcg/dL or higher",
+		"source": "CDPH blood lead surveillance records"
+	}, {
+		"title": "Lead poisoning - Rate",
+		"description": "Rate of children with peak annual venous blood lead level 6 mcg/dL or higher per 1,000 children receiving any blood lead screening test",
+		"source": "CDPH blood lead surveillance records"
+	}]
+}, {
+	"indicator_name": "Leading causes of death",
+	"indicator_slug": "leading-causes-of-death",
+	"measures": []
+}, {
+	"indicator_name": "Life Expectancy",
+	"indicator_slug": "life-expectancy",
+	"measures": [{
+		"title": "Life Expectancy - Number",
+		"description": "Two years' of data were combined to allow for small area calculations. Abridged life tables were calculated for 1989-1990, 1999-2000, 2009-2010, 2010-2011, 2011-2012, 2012-2013 and 2013-2014. For simplicity, we refer to these years as 1990, 2000, 2010, 2011, 2012, 2013, and 2014 but it should be noted that all analyses are based on two-year averages centered on January 1 of the second of these years. Where age-specific death counts equaled zero, 0.5 was substituted to allow for stable calculations. Life expectancy was calculated using the Chiang Methodology, using age-specific death rates for ages 0-1, 1-4, 5-9, and in subsequent 5-year age groups to age 85, with an open-ended interval beginning at age 85.",
+		"source": "Illinois Department of Public Health, Death Certificate Files 1989-2014; US Census 1990, 2000, 2010"
+	}]
+}, {
+	"indicator_name": "Linkage to HIV Care",
+	"indicator_slug": "linkage-to-hiv-care",
+	"measures": [{
+		"title": "Linkage to HIV Care - Number",
+		"description": "Number of newly diagnosed people who are linked to HIV medical care within 3 months of diagnosis",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}, {
+		"title": "Linkage to HIV Care - Rate",
+		"description": "Percentage of newly diagnosed people who are linked to HIV medical care within 3 months of diagnosis among all newly diagnosed people",
+		"source": "Chicago enhanced HIV/AIDS Reporting System (eHARS) (as of 9/30/2016)"
+	}]
+}, {
+	"indicator_name": "Limited English proficiency",
+	"indicator_slug": "limited-english-proficiency",
+	"measures": [{
+		"title": "Limited English proficiency  - Number",
+		"description": "Number of foreign-born people over 5 years of age who speak English less than ‘very well’",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Limited English proficiency - Rate ",
+		"description": "Percentage of population aged 5 years or older who speak English less than very well among the total population aged 5 years or older",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Lung cancer deaths",
+	"indicator_slug": "Lung cancer deaths",
+	"measures": [{
+		"title": "Lung cancer deaths - Number",
+		"description": "Number of people who died due to lung cancer (ICD-10 code: C34)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Lung cancer deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to lung cancer per 100,000 population.",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Lung Cancer Incidence",
+	"indicator_slug": "lung-cancer-incidence",
+	"measures": [{
+		"title": "Lung Cancer Incidence - Number",
+		"description": "Number of people diagnosed with invasive lung cancer (SEER site recode: 22030) during a specific 5-year time period. Coding changes for 2010: SEER site recode ICD-O-3/WHO 2008 is used for cases diagnosed 2010 and later, based on ICD-O-3 updated for Hematopoietic codes based on WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues (2008).",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry"
+	}, {
+		"title": "Lung Cancer Incidence - Rate",
+		"description": "Age-adjusted rate of diagnosed incident cases of invasive lung cancer per 100,000 population",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry; US Census Bureau, 2010 Census; Intercensal years (2004-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2013, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Mood and Depressive Disorder Hospitalizations",
+	"indicator_slug": "mood-and-depressive-disorder-hospitalizations",
+	"measures": [{
+		"title": "Mood and Depressive Disorder Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges, excluding discharges to Veterans Administration hospitals, due to mood disorders including bipolar and manic depressive disorders (ICD-9-CM codes: 29600, 29601, 29602, 29603, 29604, 29605, 29606, 29610, 29611, 29612, 29613, 29614, 29615, 29616, 29640, 29641, 29642, 29643, 29644, 2964, 29646, 29650, 29651, 29652, 29653, 29654, 29655, 29656, 29660, 29661, , 29662, 29663, 29664, 29665, 29666, 2967, 29680, 29681, 29682, 29689, 29690, 29699, 29383, 29620, 29621, 29622, 29623, 29624, 29625, 29626, 29630, 29631, 29632, 29633, 29634, 29635, 29636, 3004, 311)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Mood and Depressive Disorder Hospitalizations - Rate",
+		"description": "Age-adjusted rate of mood and depressive disorder hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Motor vehicle crash deaths",
+	"indicator_slug": "motor-vehicle-crash-deaths",
+	"measures": [{
+		"title": "Motor vehicle crash deaths - Number",
+		"description": "Number of people who died due to a motor vehicle crash (ICD-10 codes: V02-V04, V090-V092, V12-V14, V190-V192,V194-V196, V20-V79, V803-V805, V810-V811, V820-V821, V83-V86, V870-V878, V880-V888, V890, V892)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Motor vehicle crash deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to a motor vehicle crash per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Neighborhood safety",
+	"indicator_slug": "neighborhood-safety",
+	"measures": [{
+		"title": "Neighborhood Safety - Number",
+		"description": "Estimated number of adults aged 18 years and older who report that they feel safe in their neighborhood 'all of the time' or 'most of the time'. This number is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Neighborhood Safety - Rate",
+		"description": "Estimated number of adults aged 18 years and older who report that they feel safe in their neighborhood 'all of the time' or 'most of the time' divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Nephritis nephrotic syndrome and nephrosis deaths",
+	"indicator_slug": "nephritis-nephrotic-syndrome-and-nephrosis-deaths",
+	"measures": [{
+		"title": "Nephritis, nephrotic syndrome, and nephrosis deaths - Number",
+		"description": "Number of people who died due to kidney disease, including nephritis, nephrotic syndrome and nephrosis (ICD-10 codes: N00-N07,N17-N19,N25-N27)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Nephritis nephrotic syndrome and nephrosis deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to  nephritis, nephrotic syndrome and nephrosis per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "No health insurance",
+	"indicator_slug": "no-health-insurance",
+	"measures": [{
+		"title": "No health insurance - Number",
+		"description": "Number of people with no health insurance coverage",
+		"source": "US Census Bureau:  American Community Survey 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}, {
+		"title": "No health insurance - Rate ",
+		"description": "Percentage of people with no health insurance coverage among the total civilian noninstitutionalized population",
+		"source": "US Census Bureau:  American Community Survey 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}]
+}, {
+	"indicator_name": "No high school graduation",
+	"indicator_slug": "no-high-school-graduation",
+	"measures": [{
+		"title": "High school graduation - Number",
+		"description": "Number of adults aged 25 years and older without a high school diploma or GED",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "High school graduation - Rate ",
+		"description": "Percentage of adults aged 25 years and older without a high school diploma or equivalency among all adults aged 25 years and older ",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Non-fatal shootings",
+	"indicator_slug": "non-fatal-shootings",
+	"measures": [{
+		"title": "Non-fatal shootings - Number",
+		"description": "Number of non-fatal shootings",
+		"source": "Chicago Police Department Research and Development Division"
+	}]
+}, {
+	"indicator_name": "Non-Hispanic African American or Black",
+	"indicator_slug": "non-hispanic-african-american-or-black",
+	"measures": [{
+		"title": "Non-Hispanic African American or Black population - Number ",
+		"description": "Estimated Non-Hispanic African American or Black population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Non-Hispanic African American or Black population - Rate ",
+		"description": "Percentage of Non-Hispanic African American or Black among total population Note: Percent overall  = # non-Hispanic African American or black over total pop., Percent by age group = # non-Hispanic African American or black in age group over  total # non-Hispanic African American or black. , Percent by community area = # non-Hispanic African American or black in community area over total pop. in community area",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Non-Hispanic Asian or Pacific Islander",
+	"indicator_slug": "non-hispanic-asian-or-pacific-islander",
+	"measures": [{
+		"title": "Non-Hispanic Asian or Pacific Islander population - Number",
+		"description": "Estimated Non-Hispanic Asian or Native Hawaiian and Other Pacific Islander",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Non-Hispanic Asian or Pacific Islander population - Rate ",
+		"description": "Percentage of Non-Hispanic Asian or Pacific Islander among total population Note: Percent overall  = #  Non-Hispanic Asian or Pacific Islander over total pop., Percent by age group = #  Non-Hispanic Asian or Pacific Islander in age group over  total #  Non-Hispanic Asian or Pacific Islander , Percent by community area = #  Non-Hispanic Asian or Pacific Islander in community area over  total pop. in community area",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Non-Hispanic White",
+	"indicator_slug": "non-hispanic-white",
+	"measures": [{
+		"title": "Non-Hispanic White population - Number",
+		"description": "Estimated Non-Hispanic White population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Non-Hispanic White population - Rate ",
+		"description": "Percentage of Non-Hispanic White among total population Note: Percent overall = # non-Hispanic white over total pop., Percent by age group = # non-Hispanic white in age group over total # non-Hispanic white.  , Percent by community area = # non-Hispanic white in community area over total pop. in community area",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Overall health status - excellent, very good, good",
+	"indicator_slug": "overall-health-status-excellent-very-good-good",
+	"measures": [{
+		"title": "Adult Overall Health Status - Number",
+		"description": "Estimated number of adults aged 18 years and older who reported that their overall health is good, very good or excellent. This number is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Adult Overall Health Status - Rate",
+		"description": "Estimated number of adults aged 18 years and older who reported that their overall health is good, very good or excellent divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+
+}, {
+	"indicator_name": "Opioid Related Overdose Deaths",
+	"indicator_slug": "opioid-related-overdose-deaths",
+	"measures": [{
+		"title": "Opioid-related overdose deaths  - Number",
+		"description": "Number of people who died from an opioid-related drug overdose",
+		"source": "Cook County Medical Examiner's Office"
+	}, {
+		"title": "Opioid-related overdose deaths  - Rate",
+		"description": "Age-adjusted rate of opioid-related overdose deaths per 100,000 population",
+		"source": "Cook County Medical Examiner's Office; US Census Bureau, 2010 and 2000 census"
+	}]
+}, {
+	"indicator_name": "Permanent supportive housing",
+	"indicator_slug": "permanent-supportive-housing",
+	"measures": [{
+		"title": "Permanent supportive housing - Number",
+		"description": "Number of permanent supportive housing units. Permanent supportive housing is a program that helps eligible people find a permanent home along with access to needed services.",
+		"source": "City of Chicago Department of Family and Support Services (DFSS)"
+	}]
+}, {
+	"indicator_name": "Pertussis",
+	"indicator_slug": "pertussis",
+	"measures": [{
+		"title": "Pertussis - Number",
+		"description": "Number of people diagnosed with pertussis (confirmed and probable cases only based on CSTE case definition) ",
+		"source": "Illinois Department of Public Health, Illinois National Electronic Disease Surveillance System."
+	}, {
+		"title": "Pertussis - Rate",
+		"description": "Rate of people diagnosed with pertussis per 100,000 population.",
+		"source": "Illinois Department of Public Health, Illinois National Electronic Disease Surveillance System; US Census Bureau, 2010  Census; For 2010-2015 2010 Census population was used. "
+	}]
+}, {
+	"indicator_name": "Post secondary programs",
+	"indicator_slug": "post-secondary-programs",
+	"measures": []
+}, {
+	"indicator_name": "Prescription opiate misuse",
+	"indicator_slug": "prescription-opiate-misuse",
+	"measures": [{
+		"title": "Prescription Opiate Misuse - Number",
+		"description": "Estimated number of adults aged 18 and older who have taken a higher dose of a prescription pain medication than what was prescribed to them, or to have taken prescription pain medication that was not prescribed to them in the past 12 months. This number is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Prescription Opiate Misuse - Rate",
+		"description": "Estimated number of adults aged 18 and older who have taken a higher dose of a prescription pain medication than what was prescribed to them, or to have taken prescription pain medication that was not prescribed to them in the past 12 months divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Preterm births",
+	"indicator_slug": "preterm-births",
+	"measures": [{
+		"title": "Premature - Number",
+		"description": "Number of births with valid gestational age less than 37 weeks",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Premature - Rate",
+		"description": "Percentage of births with less than 37 weeks gestation among all births with valid gestational age",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Preventable Hospitalizations",
+	"indicator_slug": "preventable-hospitalizations",
+	"measures": [{
+		"title": "Preventable Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges, excluding discharges to Veterans Administration hospitals, among adults aged 18 years and older for any of the following conditions: diabetes with short-term complications, diabetes with long-term complications, uncontrolled diabetes without complications, diabetes with lower-extremity amputation, chronic obstructive pulmonary disease, asthma, hypertension, heart failure, dehydration, bacterial pneumonia, or urinary tract infection",
+		"url": "http://www.qualityindicators.ahrq.gov/Modules/PQI_TechSpec_ICD09_v60.aspx",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Preventable Hospitalizations - Rate",
+		"description": "Age-adjusted rate of preventable hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "Primary care provider",
+	"indicator_slug": "primary-care-provider",
+	"measures": [{
+		"title": "Primary Care Provider - Number ",
+		"description": "Estimated number of adults (18 years and older) who report that they have at least one person they think of as their personal doctor or health care provider. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Primary Care Provider - Rate",
+		"description": "Estimated number of adults (18 years and older) who report that they have at least one person they think of as their personal doctor or health care provider divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Prostate cancer deaths",
+	"indicator_slug": "prostate-cancer-deaths",
+	"measures": [{
+		"title": "Prostate cancer deaths - Number",
+		"description": "Number of male deaths due to prostate cancer (ICD-10 code: C61)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Prostate cancer deaths - Rate",
+		"description": "Age-adjusted rate of male deaths due to prostate cancer per 100,000  males",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Prostate Cancer Incidence",
+	"indicator_slug": "prostate-cancer-incidence",
+	"measures": [{
+		"title": "Prostate Cancer Incidence - Number",
+		"description": "Number of people diagnosed with invasive prostate cancer (SEER site recode: 28010) during a specific 5-year time period. Coding changes for 2010: SEER site recode ICD-O-3/WHO 2008 is used for cases diagnosed 2010 and later, based on ICD-O-3 updated for Hematopoietic codes based on WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues (2008).",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry"
+	}, {
+		"title": "Prostate Cancer Incidence - Rate",
+		"description": "Age-adjusted rate of diagnosed incident cases of invasive prostate cancer per 100,000 population",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry; US Census Bureau, 2010  Census; Intercensal years (2004-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2013, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Received needed care",
+	"indicator_slug": "received-needed-care",
+	"measures": [{
+		"title": "Received Needed Care - Number",
+		"description": "Estimated number of adults aged 18 years and older who report that it is 'usually' or 'always' easy to get the care, tests or treatment they needed through their health plan. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey "
+	}, {
+		"title": "Received Needed Care - Rate",
+		"description": "Estimated number of adults aged 18 years and older who report that it is 'usually' or 'always' easy to get the care, tests or treatment they needed through their health plan, divided by the estimated number of adults aged 18+ who report that they have some type of health care coverage and needed care, tests or treatment in the past 12 months, expressed as a percent. This percent is weighted to represent the population from which the Healthy Chicago Survey sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Routine checkup",
+	"indicator_slug": "routine-checkup",
+	"measures": [{
+		"title": "Routine Checkup - Number",
+		"description": "Estimated number of adults (18 years and older) who visited a doctor or health care provider for a routine checkup in the past year. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}, {
+		"title": "Routine Checkup - Rate",
+		"description": "Estimated number of adults (18 years and older) who visited a doctor or health care provider for a routine checkup in the past year divided by the estimated number of adults, expressed as a percent. This number is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago. Data from the Behavioral Risk Factor Surveillance System was collected and weighted using a different methodology than the Healthy Chicago Survey. Caution should be used when interpreting trends.",
+		"source": "Illinois Department of Public Health, Behavioral Risk Factor Surveillance System (2000-2009); Chicago Department of Public Health, Healthy Chicago Survey (2014-2016)"
+	}]
+}, {
+	"indicator_name": "Savings and assets",
+	"indicator_slug": "savings-and-assets",
+	"measures": []
+}, {
+	"indicator_name": "Schizophrenic Disorder Hospitalizations",
+	"indicator_slug": "schizophrenic-disorder-hospitalizations",
+	"measures": [{
+		"title": "Schizophrenic Disorder Hospitalizations - Number",
+		"description": "Number of inpatient hospitalization discharges, excluding discharges to Veterans Administration hospitals, due to schizophrenia or other psychotic disorders (ICD-9-CM codes: 29381, 29382, 29500, 29501, 29502, 29503, 29504, 29505, 29510, 29511, 29512, 29513, 29514, 29515, 29520, 29521, 29522, 29523, 29524, 29525, 29530, 29531, 29532, 29533, 29534, 29535, 29540, 29541, 29542, 29543, 29544, 29545, 29550, 29551, 29552, 29553, 29554, 29555, 29560, 29561, 29562, 29563, 29564, 29565, 29570, 29571, 29572, 29573, 29574, 29575, 29580, 29581, 29582, 29583, 29584, 29585, 29590, 29591, 29592, 29593, 29594, 29595, 2970, 2971, 2972, 2973, 2978, 2979, 2980, 2981, 2982, 2983, 2984, 2988, or 2989)",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health"
+	}, {
+		"title": "Schizophrenic Disorder Hospitalizations - Rate",
+		"description": "Age-adjusted rate of schizophrenic disorder hospitalization discharges, excluding discharges to Veterans Administration hospitals, per 10,000 population",
+		"source": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health; US Census Bureau, 2010 and 2000  Census."
+	}]
+}, {
+	"indicator_name": "School Attendance",
+	"indicator_slug": "school-attendance",
+	"measures": [{
+		"title": "School Attendance — Rate",
+		"description": "The sum of the number of days in which students were marked present. A student may be marked as follows for each day: 1. Present for 300 minutes: 1.0 in the numerator; 2. Present for a 150 to 299 minutes: 0.5 in the numerator;3. Present for homebound instruction: 0.5 in the numerator;4. Present for 0 to 149 minutes(includes all absence reasons): 0 in the numerator divided by the sum of the number of days that students were“ in membership” at the school.Students are considered to be in membership if: 1. The student is enrolled in the school; 2. School is in session that day; and 3. The student is scheduled to attend school that day",
+		"source": "Chicago Public Schools"
+	}]
+}, {
+	"indicator_name": "School based health services - dental",
+	"indicator_slug": "aschool-based-health-services-dental",
+	"measures": [{
+		"title": "School based health services - dental— Number",
+		"description": "Number of students participating in the school based oral health program",
+		"source": "Chicago Department of Public Health"
+	}]
+}, {
+	"indicator_name": "School based health services - STI screening",
+	"indicator_slug": "school-based-health-services-sti-screening",
+	"measures": [{
+		"title": "School based health services - STI screening - Number",
+		"description": "Number of students participating in the school based STI screening program",
+		"source": "Chicago Department of Public Health"
+	}]
+}, {
+	"indicator_name": "School based health services - vision",
+	"indicator_slug": "school-based-health-services-vision",
+	"measures": [{
+		"title": "School based health services-Vision - Number",
+		"description": "Number of students participating in the school based vision program",
+		"source": "Chicago Department of Public Health"
+	}]
+}, {
+	"indicator_name": "School fights",
+	"indicator_slug": "school-fights",
+	"measures": [{
+		"title": "School fights - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report being in a physical fight on school property in the past 12 months. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "School fights - Rate",
+		"description": "Estimated number of CPS high school students who report being in a physical fight on school property in the past 12 months divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "School safety",
+	"indicator_slug": "school-safety",
+	"measures": [{
+		"title": "School safety - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report not go to school on one or more of the past 30 days because they felt they would be unsafe at school or on their way to or from school. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "School safety - Rate",
+		"description": "Estimated number of CPS high school students who report not go to school on one or more of the past 30 days because they felt they would be unsafe at school or on their way to or from school divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Seniors living alone",
+	"indicator_slug": "seniors-living-alone",
+	"measures": [{
+		"title": "Seniors living alone  - Number",
+		"description": "Number of people aged 65 years and older who are the sole occupants of their home",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Serious psychological distress",
+	"indicator_slug": "serious-psychological-distress",
+	"measures": [{
+		"title": "Serious Psychological Distress - Number",
+		"description": "Estimated number of adults aged 18 years and older who reported serious psychological distress based on how often they felt nervous, hopeless, restless or fidgety, depressed, worthless, or that everything was an effort in the past 30 days (Kessler 6 Score). This number is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Serious Psychological Distress - Rate",
+		"description": "Estimated number of adults aged 18 years and older who reported serious psychological distress based on how often they felt nervous, hopeless, restless or fidgety, depressed, worthless, or that everything was an effort in the past 30 days (Kessler 6 Score) divided by the estimated number of adults, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults aged 18 years and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Serious traffic crash injuries",
+	"indicator_slug": "serious-traffic-crash-injuries",
+	"measures": [{
+		"title": "Number of Serious traffic crash injuries (excluding highways) in Chicago- Number",
+		"description": "Number of people who died or sustained an incapacitating injury due to traffic crashes in Chicago (excluding highways) regardless of address of residence. An incapacitating injury is any non-fatal injury which prevents the injured person from walking, driving, or normally continuing the activities he/she was capable of performing before the injury occurred. It includes severe lacerations, broken limbs, skull or chest injuries, and abdominal injuries.",
+		"source": "Illinois Department of Transportation"
+	}]
+}, {
+	"indicator_name": "Severe housing cost burden",
+	"indicator_slug": "severe-housing-cost-burden",
+	"measures": [{
+		"title": "Severe housing cost burden - Number",
+		"description": "Number of households who spend 35% or more of their income on housing costs",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Severe housing cost burden - Rate",
+		"description": "PPercentage of households who spend 35% or more of their income on housing costs among all households",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Single parent households",
+	"indicator_slug": "single-parent-households",
+	"measures": [{
+		"title": "Single parent households - Number",
+		"description": "Households with children aged under 18 years who live with their own single parent either in a family or subfamily. Single-parent families may include cohabiting couples and do not include children living with married stepparents. ",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Single parent households - Rate ",
+		"description": "Percentage of households with children aged under 18 years who live with their own single parent among all households",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Sexual Assault",
+	"indicator_slug": "sexual-assault",
+	"measures": [{
+		"title": "Sexual Assault - Number",
+		"description": "Number of reported offenses with groupings of specific IUCR codes that indicate sexual assault",
+		"source": "Chicago Police Department Research and Development Division"
+	}]
+}, {
+	"indicator_name": "Stroke deaths",
+	"indicator_slug": "stroke-deaths",
+	"measures": [{
+		"title": "Stroke deaths - Number",
+		"description": "Number of people who died due to stroke (ICD-10 codes: I60-I69)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Stroke deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to stroke per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Suicide",
+	"indicator_slug": "suicide",
+	"measures": [{
+		"title": "Suicide - Number",
+		"description": "Number of people who died due to suicide (ICD-10 codes: *U03, X60-X84, Y87.0)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Suicide - Rate",
+		"description": "Age-adjusted rate of people who died due to suicide per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Suspensions",
+	"indicator_slug": "suspensions",
+	"measures": [{
+		"title": "Suspensions - Number",
+		"description": "Number of unduplicated students in district managed schools receiving an out of school suspension (OSS) between 7/1 and 6/30 of the respective school year",
+		"source": "Chicago Public Schools",
+		"url": "http://cps.edu/SchoolData/Pages/SchoolData.aspx"
+	}, {
+		"title": "Suspensions - Rate",
+		"description": "Percentage of unduplicated students in district managed schools receiving an out of school suspension (OSS) between 7/1 and 6/30 of the respective school year among the total enrollment of district managed schools",
+		"source": "Chicago Public Schools",
+		"url": "http://cps.edu/SchoolData/Pages/SchoolData.aspx"
+	}]
+}, {
+	"indicator_name": "Teen birth rate",
+	"indicator_slug": "teen-birth-rate",
+	"measures": [{
+		"title": "Teen births - Number",
+		"description": "Number of births where the mother is aged 15-19 years at time of delivery",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Teen births - Rate",
+		"description": "Births to females aged 15-19 years per 1,000 population of females aged 15-19 years",
+		"source": "Illinois Department of Public Health, Vital Statistics; US Census Bureau 2000 and 2010 population and populations for 2001-2009 were interpolated"
+	}]
+}, {
+	"indicator_name": "Tobacco related deaths",
+	"indicator_slug": "tobacco-related-deaths",
+	"measures": [{
+		"title": "Tobacco related deaths - Number",
+		"description": "Number of people who died due to diseases related to tobacco use or exposure (ICD-10 codes: C00, C01-C16, C18-C20, C22,C25, C32-C34, C53, C65-C67, C92.0, I00-I09, I26-I28, I30-I51, I70-I74,I77-I78,E10-E14, A16-A19, J10-J18, J40-J44)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "Tobacco related deaths - Rate",
+		"description": "Age-adjusted rate of people who died due to diseases related to tobacco use or exposure per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 and 2000 Census; Intercensal years (2001-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2014, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Tuberculosis",
+	"indicator_slug": "tuberculosis",
+	"measures": [{
+		"title": "Tuberculosis - Number",
+		"description": "Number of people diagnosed with active tuberculosis disease",
+		"source": "Illinois National Electronic Disease Surveillance System"
+	}, {
+		"title": "Tuberculosis - Rate",
+		"description": "Rate of people diagnosed with active tuberculosis disease per 100,000 population",
+		"source": "Illinois National Electronic Disease Surveillance System; US Census Bureau, 2010  Census; For years between 2010-2015, 2010 Census population data was used."
+	}]
+}, {
+	"indicator_name": "Twin birth rate",
+	"indicator_slug": "twin-birth-rate",
+	"measures": [{
+		"title": "Twin Births  - Number",
+		"description": "Number of births where two babies were born at the same time",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Twin Births - Rate",
+		"description": "Rate of twin births per 1,000 births",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Violent crime in public spaces",
+	"indicator_slug": "violent-crime-in-public-spaces",
+	"measures": [{
+		"title": "Violent Crime in public spaces - Number",
+		"description": "Number of reported crimes involving a firearm with an outdoor location, excluding domestic incidents",
+		"source": "Chicago Police Department Research and Development Division"
+	}]
+}, {
+	"indicator_name": "Violent crime",
+	"indicator_slug": "violent-crime",
+	"measures": [{
+		"title": "Violent Crime - Number",
+		"description": "Number of reported crime incidents relating to violence, including homicide, criminal sexual assault, robbery, aggravated assault, and aggravated battery (IL Uniform Crime Reporting (IUCR) codes: 0110, 0130,  0141, 0142,  0261, 0262, 0263, 0264, 0265, 0266, 0271, 0272, 0273, 0274, 0275, 0281, 0291, 1753, 1754,  0312, 0313, 031A, 031B, 0320, 0325, 0326, 0330, 0331, 0334, 0337, 033A, 033B, 0340,  051A, 051B, 0520, 0530, 0550, 0551, 0552, 0553, 0555, 0556, 0557, 0558,  041A, 041B, 0420, 0430, 0450, 0451, 0452, 0453, 0461, 0462, 0479, 0480, 0481, 0482, 0483,  0485, 0488, 0489, 0490, 0491, 0492, 0493, 0495, 0496, 0497, 0498, 0510)",
+		"source": "Chicago Data Portal"
+	}, {
+		"title": "Violent Crime - Rate",
+		"description": "Rate of reported violent crime incidents per 100,000 population.",
+		"source": "Chicago Data Portal; US Census Bureau,  2010  Census"
+	}]
+}, {
+	"indicator_name": "Youth binge drinking",
+	"indicator_slug": "youth-binge-drinking",
+	"measures": [{
+		"title": "Youth Binge Drinking - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report binge drinking in the past month (5 or more drinks of alcohol in a row) on one or more of the past 30 days. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth Binge Drinking - Rate",
+		"description": "Estimated number of CPS high school students who report binge drinking in the past month (5 or more drinks of alcohol in a row) on one or more of the past 30 days divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Youth condom use",
+	"indicator_slug": "youth-condom-use",
+	"measures": [{
+		"title": "Youth Condom Use - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report having had sexual intercourse in the past 3 months who reported using a condom at last sex. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth Condom Use - Rate",
+		"description": "Estimated number of CPS high school students who report having had sexual intercourse in the past 3 months who reported using a condom at last sex divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Youth depression",
+	"indicator_slug": "youth-depression",
+	"measures": [{
+		"title": "Youth depression - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report feeling so sad or hopeless almost every day for two weeks or more in a row that they stopped doing some usual activities during the past 12 months. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth depression - Rate",
+		"description": "Estimated number of CPS high school students who report feeling so sad or hopeless almost every day for two weeks or more in a row that they stopped doing some usual activities during the past 12 months divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Youth fruit and vegetable servings",
+	"indicator_slug": "youth-fruit-and-vegetable-servings",
+	"measures": [{
+		"title": "Youth fruit and vegetable servings - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report eating fruits and vegetables five or more times per day during the past seven days. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth fruit and vegetable servings - Rate",
+		"description": "Estimated number of CPS high school students who report eating fruits and vegetables five or more times per day during the past seven days divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Youth physical activity",
+	"indicator_slug": "youth-physical-activity",
+	"measures": [{
+		"title": "Youth physical activity - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report being physically active for 60+ minutes for 7 of the past 7 days. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth physical activity - Rate",
+		"description": "Estimated number of CPS high school students who report being physically active for 60+ minutes for 7 of the past 7 days divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Youth smoking",
+	"indicator_slug": "youth-smoking",
+	"measures": [{
+		"title": "Youth smoking - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report smoking cigarettes on one or more of the past 30 days. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth smoking - Rate",
+		"description": "Estimated number of CPS high school students who report smoking cigarettes on one or more of the past 30 days divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Youth soda consumption",
+	"indicator_slug": "youth-soda-consumption",
+	"measures": [{
+		"title": "Youth soda consumption - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who report consuming one or more servings of soda or pop daily for the past 7 days. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth soda consumption - Rate",
+		"description": "Estimated number of CPS high school students who report consuming one or more servings of soda or pop daily for the past 7 days divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Youth suicide attempts",
+	"indicator_slug": "youth-suicide-attempts",
+	"measures": [{
+		"title": "Youth suicide attempts - Number",
+		"description": "Estimated number of Chicago Public Schools (CPS) high school students who reported attempting suicide at least once in the past 12 months. This number is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}, {
+		"title": "Youth suicide attempts - Rate",
+		"description": "Estimated number of CPS high school students who reported attempting suicide at least once in the past 12 months divided by the estimated number of high school students, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the enrolled student body of CPS high school students.",
+		"source": "Centers for Disease Control and Prevention, Youth Risk Behavior Surveillance Survey"
+	}]
+}, {
+	"indicator_name": "Smoking during pregnancy",
+	"indicator_slug": "smoking-during-pregnancy",
+	"measures": [{
+		"title": "smoking during pregnancy - Number",
+		"description": "Number of births where the mother reported smoking any cigarettes during pregnancy",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "smoking during pregnancy - Rate",
+		"description": "Percentage of births where mother smoked any cigarettes during pregnancy among all births",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Social cohesion",
+	"indicator_slug": "social-cohesion",
+	"measures": []
+}, {
+	"indicator_name": "College graduation or more",
+	"indicator_slug": "college-graduation-or-more",
+	"measures": [{
+		"title": "College graduation or more - Number",
+		"description": "Number of adults aged 25 years and older with a college degree or higher",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "College graduation or more - Rate",
+		"description": "Percentage of adults aged 25 years and older with a college degree or higher among all adults aged 25 years and older",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Per capita Income",
+	"indicator_slug": "per-capita-income",
+	"measures": [{
+		"title": "Per capita income - Number",
+		"description": "Per capita income is the mean income computed for every man, woman, and child in a particular group including those living in group quarters. It is derived by dividing the aggregate inflation adjusted income of a particular group by the total population in that group. This measure is rounded to the nearest whole dollar. (https://www.census.gov/quickfacts/meta/long_INC910215.htm)",
+		"source": "UUS Census Bureau:  American Community Survey 2010  5-year estimates , 2015  5-year estimates, 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Early and adequate prenatal care",
+	"indicator_slug": "early-and-adequate-prenatal-care",
+	"measures": [{
+		"title": "Early and adequate prenatal care - Number",
+		"description": "Number of births where the mother received adequate prenatal care by the Adequacy of Prenatal Care Utilization Index (APNCU). The APNCU uses two elements obtained from the birth certificate-when prenatal care began and the number of prenatal visits from when prenatal care began until delivery. The final APNCU measure combines these two dimensions into a single summary score. Adequate prenatal care is defined as a score of 80% or greater.",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Early and adequate prenatal care - Rate ",
+		"description": "Percentage of births where mother received adequate prenatal care by the Adequacy of Prenatal Care Utilization Index (APNCU) among all births",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Prenatal care in first trimester",
+	"indicator_slug": "prenatal-care-in-first-trimester",
+	"measures": [{
+		"title": "Prenatal care in first trimester - Number",
+		"description": "Number of mothers with documented entry into prenatal care in the first trimester of her pregnancy",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Prenatal care in first trimester - Rate ",
+		"description": "Percentage of births with entry into prenatal care in the first trimester among all births with valid values for prenatal care entry",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Infant mortality",
+	"indicator_slug": "infant-mortality",
+	"measures": [{
+		"title": "Infant deaths  - Number",
+		"description": "Number of infant (aged under one year) deaths",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Infant deaths  - Rate",
+		"description": "Rate of infant deaths per 1,000 live births",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "YPLL",
+	"indicator_slug": "ypll",
+	"measures": [{
+		"title": "YPLL - Number",
+		"description": "Sum of life-years lost among people dying from any cause before age 75  (ICD-10 codes:  All causes of death)",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}, {
+		"title": "YPLL - Rate",
+		"description": "Sum of life-years lost among people who died before age 75 expressed as years of productive life lost per 100,000 population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files"
+	}]
+}, {
+	"indicator_name": "Syphilis",
+	"indicator_slug": "syphilis",
+	"measures": [{
+		"title": "Syphilis - Number",
+		"description": "Number of people diagnosed with primary and secondary syphilis",
+		"source": "CDC, CDPH STD *MIS;"
+	}, {
+		"title": "Syphilis - Rate",
+		"description": "Rate of people diagnosed with primary and secondary syphilis per 100,000 population",
+		"source": "CDC, CDPH STD*MIS; US Census Bureau, 2010  Census"
+	}]
+}, {
+	"indicator_name": "TANF",
+	"indicator_slug": "tanf",
+	"measures": []
+}, {
+	"indicator_name": "Cancer Incidence",
+	"indicator_slug": "cancer-incidence",
+	"measures": [{
+		"title": "Cancer Incidence - Number",
+		"description": "Number of  diagnosed incident cases of all cancer types during a specific 5-year time period. Coding changes for 2010: SEER site recode ICD-O-3/WHO 2008 is used for cases diagnosed 2010 and later, based on ICD-O-3 updated for Hematopoietic codes based on WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues (2008).",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry"
+	}, {
+		"title": "Cancer Incidence - Rate",
+		"description": "Age-adjusted rate of diagnosed incident cases of all cancer types per 100,000 population.",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry; US Census Bureau, 2010  Census; Intercensal years (2004-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2013, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Female Breast Cancer Incidence",
+	"indicator_slug": "female-breast-cancer-incidence",
+	"measures": [{
+		"title": "Female Breast Cancer Incidence - Number",
+		"description": "Number of diagnosed incident cases of invasive and in situ female breast cancer (SEER site recode: 26000, behavior codes 2 and 3) during a specific 5-year time period. Coding changes for 2010: SEER site recode ICD-O-3/WHO 2008 is used for cases diagnosed 2010 and later, based on ICD-O-3 updated for Hematopoietic codes based on WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues (2008).",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry"
+	}, {
+		"title": "Female Breast Cancer Incidence - Rate",
+		"description": "Age-adjusted rate of diagnosed incident cases of invasive and in situ female breast cancer per 100,000 population",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry; US Census Bureau, 2010  Census; Intercensal years (2004-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2013, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Female Population",
+	"indicator_slug": "female-population",
+	"measures": [{
+		"title": "Female Population - Number",
+		"description": "Estimated Female population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Female Population - Rate",
+		"description": "Percentage of females among total population Note: (1) Percent overall(all race - ethnicities) = #females / total pop.(2) Percent by age group = #females in age group / total# females.(3) Percent by community area = #females in community area / total pop.in community area ",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Male population",
+	"indicator_slug": "male-population",
+	"measures": [{
+		"title": "Male population - Number",
+		"description": "Estimated male population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Male population - Rate ",
+		"description": "Percentage of males among total population. Note:  (1) Percent overall (all race-ethnicities) = # males / total pop. (2) Percent by age group = # males in age group/ total # males. (3) Percent by community area = # males in community area / total pop. in community area",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Cervical Cancer Incidence",
+	"indicator_slug": "cervical-cancer-incidence",
+	"measures": [{
+		"title": "Cervical Cancer Incidence - Number",
+		"description": "Number of people diagnosed with invasive cervical cancer (SEER site recode: 27010) during a specific 5-year time period. Coding changes for 2010: SEER site recode ICD-O-3/WHO 2008 is used for cases diagnosed 2010 and later, based on ICD-O-3 updated for Hematopoietic codes based on WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues (2008).",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry"
+	}, {
+		"title": "Cervical Cancer Incidence - Rate",
+		"description": "Age-adjusted rate of diagnosed incident cases of invasive cervical cancer per 100,000 population",
+		"source": "Illinois Department of Public Health, Illinois Cancer Registry; US Census Bureau, 2010  Census; Intercensal years (2004-2009) estimated through linear interpolation by the Office of Epidemiology, Chicago Department of Public Health; For 2011-2013, 2010 Census population was used."
+	}]
+}, {
+	"indicator_name": "Behavioral health treatment",
+	"indicator_slug": "behavioral-health-treatment",
+	"measures": [{
+		"title": "Behavioral health treatment - Number",
+		"description": "Estimated number of adults (18 years and older) who reported serious psychological distress and reported that they are currently taking medicine or receiving treatment from a doctor or other health professional for any mental health condition or emotional problem",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}, {
+		"title": "Behavioral health treatment - Rate ",
+		"description": "Estimated number of adults (18 years and older) who reported serious psychological distress and reported that they are currently taking medicine or receiving treatment from a doctor or other health professional for any mental health condition or emotional problem divided by the estimated number of adults who reported serious psychological distress, expressed as a percent. This percent is weighted to represent the population from which the sample was drawn, the household population of adults 18 years of age and older who reside in the City of Chicago.",
+		"source": "Chicago Department of Public Health, Healthy Chicago Survey"
+	}]
+}, {
+	"indicator_name": "Cesarean delivery",
+	"indicator_slug": "cesarean-delivery",
+	"measures": [{
+		"title": "Cesearean delivery among low risk - Number",
+		"description": "Number of cesarean delivery births among full-term, singleton, vertex presentation births where the mother had no prior cesarean",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Cesearean delivery among low risk - Rate ",
+		"description": "Percentage of cesarean delivery births among all full-term, singleton, vertex presentation births where the mother had no prior cesarean",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Low birthweight",
+	"indicator_slug": "low-birthweight",
+	"measures": [{
+		"title": "Low birth weight - Number",
+		"description": "Number of births with birthweight less than 2500 grams",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Low birth weight - Rate ",
+		"description": "Percentage of births with a birthweight less than 2500 grams among all births",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Mean age at first birth",
+	"indicator_slug": "mean-age-at-first-birth",
+	"measures": [{
+		"title": "Mean age at first birth - Number",
+		"description": "The arithmetic average of a mother's age at first birth (first child born alive)",
+		"source": ""
+	}, {
+		"title": "Mean age at first birth - Rate ",
+		"description": "",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}]
+}, {
+	"indicator_name": "Median household income",
+	"indicator_slug": "median-household-income",
+	"measures": [{
+		"title": "Median household income - Number",
+		"description": "Median household income in the past 12 months (in inflation-adjusted dollars). The median income divides the income distribution into two equal groups, one having incomes above the median, and other having incomes below the median.",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago and race groups"
+	}]
+}, {
+	"indicator_name": "Chlamydia",
+	"indicator_slug": "chlamydia",
+	"measures": [{
+		"title": "Chlamydia - Number",
+		"description": "Number of people diagnosed with chlamydia",
+		"source": "Illinois Department of Public Health, National Electronic Disease Surveillance System"
+	}, {
+		"title": "Chlamydia - Rate",
+		"description": "Rate of people diagnosed with chlamydia per 100,000 population",
+		"source": "Illinois Department of Public Health, National Electronic Disease Surveillance System; US Census Bureau, 2010 Census"
+	}]
+}, {
+	"indicator_name": "Gonorrhea",
+	"indicator_slug": "gonorrhea",
+	"measures": [{
+		"title": "Gonorrhea - Number",
+		"description": "Number of people diagnosed with gonorrhea",
+		"source": "Illinois Department of Public Health, National Electronic Disease Surveillance System"
+	}, {
+		"title": "Gonorrhea - Rate",
+		"description": "Rate of people diagnosed with gonorrhea per 100,000 population",
+		"source": "Illinois Department of Public Health, National Electronic Disease Surveillance System; US Census Bureau, 2010  Census;"
+	}]
+}, {
+	"indicator_name": "Crowded Housing",
+	"indicator_slug": "crowded-housing",
+	"measures": [{
+		"title": "Crowded Housing - Number",
+		"description": "Number of occupied housing units with more than 1 person per room",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Crowded Housing - Rate ",
+		"description": "Percentage of occupied housing units with more than one person per room among all occupied housing units",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Total population",
+	"indicator_slug": "total-population",
+	"measures": [{
+		"title": "Total population - Number",
+		"description": "Total population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Total population - Rate",
+		"description": "Percentage of total population",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Traffic crash fatalities",
+	"indicator_slug": "traffic-crash-fatalities",
+	"measures": [{
+		"title": "Traffic crash fatalities - Number",
+		"description": "Number of people who died due to traffic crashes (excluding highways) in Chicago regardless of their place of residence",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files and Illinois Department of Transportation, Crash Files (2010-2014)"
+	}, {
+		"title": "Traffic crash fatalities - Rate",
+		"description": "Age-adjusted rate of people who died due to traffic crashes (excluding highways) in Chicago per 100,000 Chicago population",
+		"source": "Illinois Department of Public Health, Division of Vital Records, Death Certificate Data Files; US Census Bureau, 2010 Census"
+	}]
+}, {
+	"indicator_name": "Unemployment",
+	"indicator_slug": "unemployment",
+	"measures": [{
+		"title": "Unemployment - Number",
+		"description": "Number of adults aged 16 years and over in the civilian labor force who were unemployed",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Unemployment - Rate",
+		"description": "Percentage of adults aged 16 years and over in the civilian labor force who were unemployed among the total population of adults aged 16 years and over in the civilian labor force",
+		"source": "Illinois Department of Public Health, Vital Statistics; US Census Bureau 2000 and 2010 population and populations for 2001-2009 were interpolated"
+	}]
+}, {
+	"indicator_name": "Vacant housing",
+	"indicator_slug": "vacant-housing",
+	"measures": [{
+		"title": "Vacant housing - Number",
+		"description": "Number of vacant housing units",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}, {
+		"title": "Vacant housing - Rate",
+		"description": "Percentage of vacant housing units among total housing units",
+		"source": "US Census Bureau:  American Community Survey 2010  5-year estimates (census and community area), 2015  5-year estimates (census and community area), 2010-2015 1-year estimates for Chicago"
+	}]
+}, {
+	"indicator_name": "Varicella",
+	"indicator_slug": "varicella",
+	"measures": [{
+		"title": "varicella - Number",
+		"description": "Number of people diagnosed with varicella (confirmed and probable cases only based on CSTE case definition)",
+		"source": "Illinois Department of Public Health, Illinois National Electronic Disease Surveillance System."
+	}, {
+		"title": "varicella - Rate",
+		"description": "Rate of people diagnosed with varicella per 100,000 population",
+		"source": "Illinois Department of Public Health, Illinois National Electronic Disease Surveillance System; US Census Bureau, 2010  Census; For 2010-2015 2010 Census population was used. "
+	}]
+}, {
+	"indicator_name": "Very low birthweight",
+	"indicator_slug": "very-low-birthweight",
+	"measures": [{
+		"title": "Very Low birth weight - Number",
+		"description": "Number of births with a birthweights less than 1500 grams",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Very Low birth weight - Rate",
+		"description": "Percentage of births with a birthweight less than 1500 grams among all births",
+		"source": "Illinois Department of Public Health, Vital Statistics "
+	}]
+}, {
+	"indicator_name": "Trauma-informed city",
+	"indicator_slug": "trauma-informed-city",
+	"measures": []
+}, {
+	"indicator_name": "Total Fertility Rate",
+	"indicator_slug": "total-fertility-rate",
+	"measures": [{
+		"title": "Total Fertility Rate - Number",
+		"description": "Number of births to women aged 10-49 years",
+		"source": "Illinois Department of Public Health, Vital Statistics"
+	}, {
+		"title": "Total Fertility Rate - Rate",
+		"description": "The sum of age-specific birth rates for age groups 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49 multiplied by 5 per 1,000 births",
+		"source": "Illinois Department of Public Health, Vital Statistics; US Census Bureau 2000 and 2010 population and populations for 2001-2009 were interpolated"
+	}]
+}]

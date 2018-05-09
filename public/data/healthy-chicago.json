@@ -1,0 +1,1682 @@
+{
+  "headings": [
+    "Indicator",
+    "Citywide Baseline (Most Recent Years)",
+    "Priority Population",
+    "Priority Population Baseline (Most Recent Year)",
+    "2020 Target and Change from Baseline",
+    "Datasource"
+  ],
+  "data": [{
+    "group": "Overarching",
+    "id": "overarching",
+    "rows": [{
+      "indicator": "Overall Health Status",
+      "indicator_slug": "overall-health-status",
+      "description": "Percentage of adults who report their health as Good, Very Good or Excellent",
+      "citywide_baseline": [{
+        "value": "81.6%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "81.6%",
+        "beep": false,
+        "year": "2013-2014"
+      }],
+      "target": {
+        "value": "85.7%",
+        "beep": false,
+        "change": "5% +"
+      },
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      }
+    }, {
+      "indicator": "Life Expectancy",
+      "indicator_slug": "life-expectancy",
+      "description": "Life expectancy at birth in years",
+      "citywide_baseline": [{
+        "value": "77.8",
+        "beep": false,
+        "year": "2012"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "77.8",
+        "beep": false,
+        "year": "2012"
+      }],
+      "target": {
+        "value": "79.4",
+        "beep": false,
+        "change": "2% +"
+      },
+      "source": {
+        "title": "Death Data, Division of Vital Records, Illinois Department of Public Health",
+        "url": "http://www.dph.illinois.gov/topics-services/birth-death-other-records"
+      }
+    }, {
+      "indicator": "Preventable Hospitalizations",
+      "indicator_slug": "preventable-hospitalizations",
+      "citywide_baseline": [{
+        "value": "172.3",
+        "beep": true,
+        "year": "2011"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "172.3",
+        "beep": true,
+        "year": "2011"
+      }],
+      "target": {
+        "value": "163.7",
+        "beep": true,
+        "change": "5% -"
+      },
+      "source": {
+        "title": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health",
+        "url": "http://www.dph.illinois.gov/topics-services/prevention-wellness/patient-safety-quality/discharge-data"
+      }
+    }, {
+      "indicator": "Child obesity",
+      "indicator_slug": "child-obesity",
+      "description": "Percentage of Chicago Public School kindergartners who are obese",
+      "citywide_baseline": [{
+        "value": "19.1%",
+        "beep": false,
+        "year": "2012-2013"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "19.1%",
+        "beep": false,
+        "year": "2012-2013"
+      }],
+      "target": {
+        "value": "18.2%",
+        "beep": false,
+        "change": "5% -"
+      },
+      "source": {
+        "title": "Chicago Public Schools",
+        "url": "http://cps.edu/Pages/home.aspx"
+      }
+    }, {
+      "indicator": "Adult obesity",
+      "indicator_slug": "adult-obesity",
+      "description": "Percentage of adults who are obese",
+      "citywide_baseline": [{
+        "value": "28.8%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "28.8%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "target": {
+        "value": "27.4%",
+        "beep": false,
+        "change": "5% -"
+      },
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      }
+    }, {
+      "indicator": "Discrimination",
+      "indicator_slug": "discrimination",
+      "description": "Percentage of adults who report ever experiencing discrimination, been prevented from doing something or been hassled or made to feel inferior because of their race, ethnicity or color",
+      "citywide_baseline": [],
+      "priority_population": null,
+      "priority_baseline": [],
+      "target": {},
+      "note": "Data available 2016",
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      }
+    }, {
+      "indicator": "Economic Hardship",
+      "indicator_slug": "economic-hardship",
+      "description": "Population living in communities experiencing high economic hardship",
+      "citywide_baseline": [{
+        "value": "835,249",
+        "beep": false,
+        "year": "2014"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "835,249",
+        "beep": false,
+        "year": "2014"
+      }],
+      "target": {
+        "value": "793,487",
+        "beep": false,
+        "change": "5% -"
+      },
+      "source": {
+        "title": "American Community Survey 2010-2014, US Census Bureau",
+        "url": "http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml"
+      }
+    }, {
+      "indicator": "Child Opportunity",
+      "indicator_slug": "child-opportunity",
+      "description": "Number of children (0-17 years) living in communities with low or very low child opportunity",
+      "citywide_baseline": [{
+        "value": "297,352",
+        "beep": false,
+        "year": "2014"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "297,352",
+        "beep": false,
+        "year": "2014"
+      }],
+      "target": {
+        "value": "282,484",
+        "beep": false,
+        "change": "5% -"
+      },
+      "source": {
+        "title": "diversitydatakids.org; Kirwan Institute for the Study of Race and Ethnicity",
+        "url": "http://www.diversitydatakids.org/"
+      }
+    }, {
+      "indicator": "Trauma-Informed City",
+      "indicator_slug": "trauma-informed-city",
+      "description": "City agencies and community-based organizations are trained and understand the impact that violence and trauma has on individuals and communities.",
+      "citywide_baseline": [],
+      "priority_population": null,
+      "priority_baseline": [],
+      "target": {},
+      "note": "Data and metric forthcoming"
+    }]
+  }, {
+    "group": "Access",
+    "id": "access",
+    "rows": [{
+      "indicator": "Primary Care Provider",
+      "indicator_slug": "primary-care-provider",
+      "description": "Percentage of adults who have a personal doctor or health care provider",
+      "citywide_baseline": [{
+        "value": "80.8%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "priority_population": "Hispanic",
+      "priority_baseline": [{
+        "value": "68.4%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "target": {
+        "value": "75.2%",
+        "beep": false,
+        "change": "10% +"
+      },
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      }
+    }, {
+      "indicator": "No Health Insurance",
+      "indicator_slug": "no-health-insurance",
+      "description": "Percentage of population without health insurance",
+      "citywide_baseline": [{
+        "value": "18.7%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "priority_population": "Hispanic",
+      "priority_baseline": [{
+        "value": "28.1%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "target": {
+        "value": "22.5%",
+        "beep": false,
+        "change": "20% +"
+      },
+      "source": {
+        "title": "American Community Survey 2010-2014, US Census Bureau",
+        "url": "http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml"
+      }
+    }, {
+      "indicator": "Dental Care Emergencies",
+      "indicator_slug": "dental-care-emergencies",
+      "description": "Rate of dental-related emergency department visits",
+      "citywide_baseline": [{
+        "value": "39",
+        "beep": true,
+        "year": "2011"
+      }],
+      "priority_population": "High hardship communities",
+      "priority_baseline": [{
+        "value": "53.8",
+        "beep": true,
+        "year": "2011"
+      }],
+      "target": {
+        "value": "51.1",
+        "beep": true,
+        "change": "5% -"
+      },
+      "source": {
+        "title": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health",
+        "url": "http://www.dph.illinois.gov/topics-services/prevention-wellness/patient-safety-quality/discharge-data"
+      }
+    }, {
+      "indicator": "Health Care Satisfaction",
+      "indicator_slug": "health-care-satisfaction",
+      "description": "Percentage of adults who were satisfied with the health care they received",
+      "citywide_baseline": [],
+      "priority_population": null,
+      "priority_baseline": [],
+      "target": {},
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      },
+      "note": "Data available 2016"
+    }, {
+      "indicator": "Routine Checkup",
+      "indicator_slug": "routine-checkup",
+      "description": "Percentage of adults who visited a doctor or health care provider for a routine checkup in the past year",
+      "citywide_baseline": [{
+        "value": "76.8%",
+        "beep": false,
+        "year": "2014"
+      }],
+      "priority_population": "Citywide",
+      "priority_baseline": [{
+        "value": "76.8%",
+        "beep": false,
+        "year": "2014",
+        "increase": true
+      }],
+      "target": {
+        "value": "80.6%",
+        "beep": true,
+        "change": "5% +"
+      },
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      }
+    }, {
+      "indicator": "Received Needed Care",
+      "indicator_slug": "received-needed-care",
+      "description": "Percentage of adults who report it is “usually” or “always” easy to get the care, tests, or treatment they needed through their health plan",
+      "citywide_baseline": [],
+      "priority_population": null,
+      "priority_baseline": [],
+      "target": {},
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      },
+      "note": "Data available 2016"
+    }, {
+      "indicator": "Annual Dental Cleanings",
+      "indicator_slug": "annual-dental-cleanings",
+      "description": "Percentage of adults who report having had their teeth cleaned by a dentist or dental hygienist in the past year",
+      "citywide_baseline": [],
+      "priority_population": null,
+      "priority_baseline": [],
+      "target": {},
+      "source": {
+        "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+        "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+      },
+      "note": "Data available 2016"
+    }]
+  }, {
+    "group": "Built Environment, Economic Development, Housing",
+    "id": "built_environment",
+    "rows": [{
+        "indicator": "Housing Cost Burden",
+        "indicator_slug": "housing-cost-burden",
+        "description": "Percentage of households whose housing costs are at least 35% of household income",
+        "citywide_baseline": [{
+          "value": "38.7%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "38.7%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "36.8%",
+          "beep": false,
+          "change": "5% -"
+        },
+        "source": {
+          "title": "American Community Survey 2010-2014, US Census Bureau",
+          "url": "http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml"
+        }
+      }, {
+        "indicator": "Permanent Supportive Housing",
+        "indicator_slug": "permanent-supportive-housing",
+        "description": "Number of permanent supportive housing units",
+        "citywide_baseline": [{
+          "value": "6,946",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "6,946",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "7,293",
+          "beep": false,
+          "change": "5% +"
+        },
+        "source": {
+          "title": "Department of Family & Support Services, City of Chicago",
+          "url": "http://www.cityofchicago.org/city/en/depts/fss.html"
+        }
+      }, {
+        "indicator": "Healthy Homes",
+        "indicator_slug": "healthy-homes",
+        "description": "Adoption of model of healthy homes codes",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {},
+        "note": "Data and metric forthcoming"
+      }, {
+        "indicator": "Lead Poisoning",
+        "indicator_slug": "lead-poisoning",
+        "description": "Percentage of children less than 3 years of age with elevated blood lead levels (> 6 mcg/dL)",
+        "citywide_baseline": [{
+          "value": "3.4%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Very low child opportunities communities",
+        "priority_baseline": [{
+          "value": "5.7%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "37%",
+          "beep": false,
+          "change": "35% -"
+        },
+        "source": {
+          "title": "Lead Poisoning Prevention, Chicago Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/environmental-health-protection/lead-poisoning-prevention/childhood-surveillance"
+        }
+      }, {
+        "indicator": "Unemployment",
+        "indicator_slug": "unemployment",
+        "description": "Percentage of civilian labor force who are unemployed",
+        "citywide_baseline": [{
+          "value": "8.4%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "8.4%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "7.6%",
+          "beep": false,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "US Department of Labor; Bureau of Labor Statistics",
+          "url": "http://www.bls.gov/"
+        }
+      }, {
+        "indicator": "Savings & Assets",
+        "indicator_slug": "savings-assets",
+        "description": "Asset development through capital, such as savings, financial securities (stocks and bonds), property ownership, as well as education, job training and access to credit.",
+        "note": "Data and metric forthcoming",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {}
+      }, {
+        "indicator": "Active transportation",
+        "indicator_slug": "active-transportation",
+        "description": "Percentage of workers who walk, bike, or take public transportation as their primary mode of getting to work",
+        "citywide_baseline": [{
+          "value": "37%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "37%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "40.7%",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "American Community Survey 2010-2014, US Census Bureau",
+          "url": "http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml"
+        }
+      }, {
+        "indicator": "Neighborhood Safety",
+        "indicator_slug": "neighborhood-safety",
+        "description": "Percentage of adults who feel safe in their neighborhood “all” or “most” of the time",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        },
+        "note": "Data available 2016"
+      }, {
+        "indicator": "Traffic Crash Injuries",
+        "indicator_slug": "traffic-crash-injuries",
+        "description": "Number of serious injuries resulting from traffic crashes (all roadway users)",
+        "citywide_baseline": [{
+          "value": "2,213",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "2,213",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "1,452",
+          "beep": false,
+          "change": "34% -"
+        },
+        "source": {
+          "title": "Illinois Department of Transportation",
+          "url": "http://www.idot.illinois.gov/"
+        }
+      }
+
+    ]
+  }, {
+    "group": "Education",
+    "id": "education",
+    "rows": [{
+        "indicator": "Early Childhood Education",
+        "indicator_slug": "early-childhood-education",
+        "description": "Percentage of eligible 3 to 5 year olds in early childhood education",
+        "citywide_baseline": [{
+          "value": "45.0%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "45.0%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "54.0%",
+          "beep": false,
+          "change": "20% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "School Attendance",
+        "indicator_slug": "school-attendance",
+        "description": "Percentage of school days attended by Chicago Public School students",
+        "citywide_baseline": [{
+          "value": "93.0%",
+          "beep": false,
+          "year": "2013-2014"
+        }],
+        "priority_population": "Homeless students",
+        "priority_baseline": [{
+          "value": "77.0%",
+          "beep": false,
+          "year": "2013-2014"
+        }],
+        "target": {
+          "value": "93.0%",
+          "beep": false,
+          "change": "21% +"
+        },
+        "source": {
+          "title": "Chicago Public Schools",
+          "url": "http://cps.edu/Pages/home.aspx"
+        }
+      }, {
+        "indicator": "Post-secondary Programs",
+        "indicator_slug": "post-secondary-programs",
+        "description": "Percentage of Chicago Public School students who enroll in post-secondary programs (e.g., college, community college, vocational training)",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {
+          "title": "Chicago Public Schools",
+          "url": "http://cps.edu/Pages/home.aspx"
+        },
+        "note": "Data available 2016"
+      }
+    ]
+  }, {
+    "group": "Behavioral Health",
+    "id": "behavorial_health",
+    "rows": [{
+        "indicator": "Serious Psychological Distress",
+        "indicator_slug": "serious-psychological-distress",
+        "description": "Percentage of adults who reported serious psychological distress based on how often they felt nervous, hopeless, restless or fidgety, depressed, worthless, or that everything was an effort in the past 30 days",
+        "citywide_baseline": [{
+          "value": "5.2%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "High poverty communities",
+        "priority_baseline": [{
+          "value": "10.3%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "9.8%",
+          "beep": false,
+          "change": "5% -"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Behavioral Health Treatment",
+        "indicator_slug": "behavioral-health-treatment",
+        "description": "Percentage of adults who experience serious psychological distress and who are currently taking medicine or receiving treatment from a doctor or other health professional for any type of mental health condition or emotional problem",
+        "citywide_baseline": [{
+          "value": "50.3%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Adults with serious psychological distress",
+        "priority_baseline": [{
+          "value": "50.3%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "55.3%",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Suicide Attempts",
+        "indicator_slug": "suicide-attempts",
+        "description": "Percentage of high school students who attempted suicide that resulted in an injury, poisoning, or overdose that had to be treated by a doctor or nurse in the past 12 months",
+        "citywide_baseline": [{
+          "value": "3.5%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "priority_population": "LGBTQ youth",
+        "priority_baseline": [{
+          "value": "11.3%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "10.2%",
+          "beep": false,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "Depression",
+        "indicator_slug": "depression",
+        "description": "Percentage of high school students who reported feeling sad or hopeless almost every day for 2 or more weeks in a row so that they stopped doing some usual activities during the past 12 months",
+        "citywide_baseline": [{
+          "value": "32.5%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "priority_population": "Female adolescents",
+        "priority_baseline": [{
+          "value": "40.7%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "38.7%",
+          "beep": false,
+          "change": "5% -"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "Prescription Opiate Abuse",
+        "indicator_slug": "prescription-opiate-abuse",
+        "description": "Percentage of adults who report in the past 12 months either ever taking prescription pain relievers, such as oxycodone or hydrocodone, at a higher dosage or taking it more often than directed in the prescription, or ever taking a prescription pain reliever that was not prescribed to them",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        },
+        "note": "Data available 2016"
+      }, {
+        "indicator": "Opiate Overdose",
+        "indicator_slug": "opiate-overdose",
+        "description": "Number of ambulance runs in response to suspected opiate overdose",
+        "citywide_baseline": [{
+          "value": "2,506",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "2,506",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "2,005",
+          "beep": false,
+          "change": "20% -"
+        },
+        "source": {
+          "title": "Chicago Fire Department",
+          "url": "http://www.cityofchicago.org/city/en/depts/cfd.html"
+        }
+      }, {
+        "indicator": "Binge Drinking",
+        "indicator_slug": "binge-drinking",
+        "description": "Percentage of adults who report binge drinking in the past month",
+        "citywide_baseline": [{
+          "value": "29.0%",
+          "beep": false,
+          "year": "2011"
+        }],
+        "priority_population": "Non-Hispanic white males",
+        "priority_baseline": [{
+          "value": "45.8%",
+          "beep": false,
+          "year": "2011"
+        }],
+        "target": {
+          "value": "43.5%",
+          "beep": false,
+          "change": "5% -"
+        },
+        "source": {
+          "title": "Behavioral Risk Factor Surveillance System, Illinois Center for Health Statistics, Illinois Department of Public Health",
+          "url": "http://app.idph.state.il.us/brfss/"
+        }
+      }, {
+        "indicator": "Behavioral Health Hospitalizations",
+        "indicator_slug": "behavioral-health-hospitalizations",
+        "description": "Age-adjusted rate of hospitalizations due to behavioral health disorders",
+        "citywide_baseline": [{
+          "value": "226.8",
+          "beep": true,
+          "year": "2011"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "226.8",
+          "beep": true,
+          "year": "2011"
+        }],
+        "target": {
+          "value": "204.1",
+          "beep": true,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/prevention-wellness/patient-safety-quality/discharge-data"
+        }
+      }, {
+        "indicator": "Primary Care Utilization",
+        "indicator_slug": "primary-care-utilization",
+        "description": "Percentage of adults who visited a doctor or health care provider for a routine checkup in the past year",
+        "citywide_baseline": [{
+          "value": "76.8%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Adults with serious psychological distress",
+        "priority_baseline": [{
+          "value": "78.9%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "86.8%",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }
+    ]
+  }, {
+    "group": "Child & Adolescent Health",
+    "indicator_slug": "child_adolescent_health",
+    "rows": [{
+        "indicator": "Infant Mortality",
+        "id": "infant-mortality",
+        "description": "Rate of deaths before age 1",
+        "citywide_baseline": [{
+          "value": "7.8",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "High hardship communities",
+        "priority_baseline": [{
+          "value": "9.7",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "8.7",
+          "beep": true,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Birth Data, Division of Vital Records, Illinois Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/birth-death-other-records/birth-records"
+        }
+      }, {
+        "indicator": "Early Intervention Services",
+        "indicator_slug": "early-intervention-services",
+        "description": "Number of children with developmental delays less than 4 years of age who have a plan for special services",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {
+          "title": "Illinois Department of Healthcare and Family Services",
+          "url": "http://www.illinois.gov/hfs/Pages/default.aspx"
+        },
+        "note": "Data available 2016"
+      },
+      {
+        "indicator": "School-based Health Services - Vision",
+        "indicator_slug": "school-based-health-services-vision",
+        "description": "Number of Chicago Public School students who receive a school-based vision exam",
+        "citywide_baseline": [{
+          "value": "43,878",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "43,878",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "target": {
+          "value": "48,753",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "Adolescent & School Health, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/provdrs/healthychicago/svcs/the_office_of_adolescentandschoolhealth.html"
+        }
+      }, {
+        "indicator": "School-based Health Services - Dental",
+        "indicator_slug": "school-based-health-services-dental",
+        "description": "Number of Chicago Public School students who receive a school-based dental exam",
+        "citywide_baseline": [{
+          "value": "115,238",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "115,238",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "target": {
+          "value": "144,048",
+          "beep": false,
+          "change": "20% +"
+        },
+        "source": {
+          "title": "Adolescent & School Health, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/provdrs/healthychicago/svcs/the_office_of_adolescentandschoolhealth.html"
+        }
+      }, {
+        "indicator": "School-based Health Services - Sex. infections",
+        "indicator_slug": "school-based-health-services-sex-infections",
+        "description": "Number of Chicago Public School students who receive a school-based screening for sexually transmitted infections",
+        "citywide_baseline": [{
+          "value": "6,399",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "6,399",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "target": {
+          "value": "7,039",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Teen Birth Rate",
+        "indicator_slug": "teen-birth-rate",
+        "description": "Rate of births to mothers aged 15-19 years",
+        "citywide_baseline": [{
+          "value": "35.5",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "Very low child opportunity communities",
+        "priority_baseline": [{
+          "value": "57.3",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "51.6",
+          "beep": true,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Birth Data, Division of Vital Records, Illinois Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/birth-death-other-records/birth-records"
+        }
+      }
+    ]
+  }, {
+    "group": "Chronic Disease",
+    "id": "chronic_disease_health",
+    "rows": [{
+        "indicator": "Fruit & Vegetable Servings",
+        "indicator_slug": "fruit-vegetable-servings",
+        "description": "Percentage of high school students who reported consuming five or more fruit and vegetable servings daily in the past week",
+        "citywide_baseline": [{
+          "value": "18.3%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "18.3%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "20.3%",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "Fruit & Vegetable Servings",
+        "indicator_slug": "fruit-vegetable-servings",
+        "description": "Percentage of adults who reported consuming five or more fruit and vegetable servings yesterday",
+        "citywide_baseline": [{
+          "value": "29.2%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "African-Americans",
+        "priority_baseline": [{
+          "value": "18.9%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "20.8%",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      },
+
+      {
+        "indicator": "Soda Consumption - Youth",
+        "indicator_slug": "soda-consumption-youth",
+        "description": "Percentage of high school students who reported consuming one or more can/bottle/glass of soda daily in the past week",
+        "citywide_baseline": [{
+          "value": "23.1%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "23.1%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "21.9%",
+          "beep": false,
+          "change": "5% +"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "Soda Consumption - Adult",
+        "indicator_slug": "soda-consumption-adult",
+        "description": "Percentage of adults who drank soda or pop at least once per day in the past month",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        },
+        "note": "Data available 2016"
+      }, {
+        "indicator": "Physical Activity - Youth",
+        "indicator_slug": "physical-activity-youth",
+        "description": "Percentage of high school students who were physically active at least 60 minutes per day during the last week",
+        "citywide_baseline": [{
+          "value": "19.6%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "19.6%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "20.6%",
+          "beep": false,
+          "change": "5% +"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "Physical Activity - Adult",
+        "indicator_slug": "physical-activity-youth",
+        "description": "Percentage of adults with no leisure time physical activity in the past month",
+        "citywide_baseline": [{
+          "value": "18.3%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "High poverty communities",
+        "priority_baseline": [{
+          "value": "22.7%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "21.6%",
+          "beep": false,
+          "change": "5% -"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Smoking - Youth",
+        "indicator_slug": "smoking-youth",
+        "description": "Percentage of high school students who currently smoke cigarettes",
+        "citywide_baseline": [{
+          "value": "10.7%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "10.7%",
+          "beep": false,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "9.6%",
+          "beep": false,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "smoking-youth",
+        "indicator_slug": "48",
+        "description": "Percentage of adults who currently smoke cigarettes",
+        "citywide_baseline": [{
+          "value": "18.4%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "18.4%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "16.6%",
+          "beep": false,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Smoking - E-cigarettes",
+        "indicator_slug": "smoking-e-cigarettes",
+        "description": "Percentage of adults who currently use electronic cigarettes",
+        "citywide_baseline": [{
+          "value": "3.9%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Adults aged 18-29 years",
+        "priority_baseline": [{
+          "value": "6.3%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "5.7%",
+          "beep": false,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Cancer Screenings",
+        "indicator_slug": "cancer-screenings",
+        "description": "Percentage of women aged 50-74 years reporting having a mammogram in the past 2 years",
+        "citywide_baseline": [{
+          "value": "75.6%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "75.6%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "79.4%",
+          "beep": false,
+          "change": "5% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Cancer Screenings",
+        "indicator_slug": "cancer-screenings",
+        "description": "Percentage of women aged 21-65 years reporting having a Pap test within the past 3 years",
+        "citywide_baseline": [{
+          "value": "82.9%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "82.9%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "87.0%",
+          "beep": false,
+          "change": "5% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "Cancer Screenings",
+        "indicator_slug": "cancer-screenings",
+        "description": "Percent of adults aged 50-75 years reporting having a sigmoidoscopy/colonoscopy in the past 10 years, having a sigmoidoscopy/colonscopy in the past 5 years and a blood stool test in the past 3 years, or having a blood stool test in past year",
+        "citywide_baseline": [{
+          "value": "60.4%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "High poverty communities",
+        "priority_baseline": [{
+          "value": "47.9%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "52.7%",
+          "beep": false,
+          "change": "10% +"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "HPV Vaccination",
+        "indicator_slug": "hpv-vaccination",
+        "description": "Percentage of female adolescents aged 13-17 years who received three or more doses of HPV vaccine",
+        "citywide_baseline": [{
+          "value": "52.6%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "52.6%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "80.0%",
+          "beep": false,
+          "change": "52% +"
+        },
+        "source": {
+          "title": "National Immunization Survey, National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention",
+          "url": "http://www.cdc.gov/nchs/nis.htm"
+        }
+      }, {
+        "indicator": "Breast Cancer Mortality",
+        "indicator_slug": "breast-cancer-mortality",
+        "description": "Age-adjusted rate of female breast cancer deaths",
+        "citywide_baseline": [{
+          "value": "24.9",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "African-American women",
+        "priority_baseline": [{
+          "value": "33.3",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "30.0",
+          "beep": true,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Death Data, Division of Vital Records, Illinois Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/birth-death-other-records"
+        }
+      }, {
+        "indicator": "Asthma Emergency Department Visits",
+        "indicator_slug": "asthma-emergency-department-visits",
+        "description": "Age-adjusted emergency department visit rate due to asthma for the population less than 18 years of age",
+        "citywide_baseline": [{
+          "value": "147.7",
+          "beep": true,
+          "year": "2011"
+        }],
+        "priority_population": "African-Americans",
+        "priority_baseline": [{
+          "value": "280.0",
+          "beep": true,
+          "year": "2011"
+        }],
+        "target": {
+          "value": "252.0",
+          "beep": true,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Discharge Data, Division of Patient Safety and Quality, Illinois Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/prevention-wellness/patient-safety-quality/discharge-data"
+        }
+      }, {
+        "indicator": "Diabetes-related Hospitalizations",
+        "indicator_slug": "diabetes-related-hospitalizations",
+        "description": "Age-adjusted hospitalization rate due to diabetes-related lower extremity amputations",
+        "citywide_baseline": [{
+          "value": "2.0",
+          "beep": true,
+          "year": "2011"
+        }],
+        "priority_population": "African-Americans",
+        "priority_baseline": [{
+          "value": "2.0",
+          "beep": true,
+          "year": "2011"
+        }],
+        "target": {
+          "value": "2.7",
+          "beep": true,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Death Data, Division of Vital Records, Illinois Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/prevention-wellness/patient-safety-quality/discharge-data"
+        }
+      }
+    ]
+  }, {
+    "group": "Infectious Disease",
+    "id": "infectious_disease",
+    "rows": [{
+        "indicator": "Hepatitis C Treatment",
+        "indicator_slug": "hepatitis-c-treatment",
+        "description": "Access and availability to treatment for persons diagnosed with Hepititis C",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {},
+        "note": "Data and metric forthcoming"
+      }, {
+        "indicator": "HIV Incidence",
+        "indicator_slug": "hiv-incidence",
+        "description": "Number of new HIV infections",
+        "citywide_baseline": [{
+          "value": "973",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "African-American men who have sex with men",
+        "priority_baseline": [{
+          "value": "355",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "320",
+          "beep": false,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "HIV Surveillance, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/provdrs/pol_plan_report/svcs/get_sti_hiv_datainchicago.html"
+        }
+      },
+      {
+        "indicator": "Linkage To HIV Care",
+        "indicator_slug": "linkage-to-hiv-care",
+        "description": "Percentage of persons with newly diagnosed HIV infections that are linked to HIV medical care within 90 days of diagnosis",
+        "citywide_baseline": [{
+          "value": "81.5%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "African-Americans",
+        "priority_baseline": [{
+          "value": "78.6%",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "90.0%",
+          "beep": false,
+          "change": "15% +"
+        },
+        "source": {
+          "title": "HIV Surveillance, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/provdrs/pol_plan_report/svcs/get_sti_hiv_datainchicago.html"
+        }
+      }, {
+        "indicator": "Engagement In HIV Care",
+        "indicator_slug": "engagement-in-hiv-care",
+        "description": "Percentage of persons living with HIV that are engaged in HIV medical care",
+        "citywide_baseline": [{
+          "value": "55.0%",
+          "beep": false,
+          "year": "2012"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "55.0%",
+          "beep": false,
+          "year": "2012"
+        }],
+        "target": {
+          "value": "74.3%",
+          "beep": false,
+          "change": "35% +"
+        },
+        "source": {
+          "title": "HIV Surveillance, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/provdrs/pol_plan_report/svcs/get_sti_hiv_datainchicago.html"
+        }
+      }, {
+        "indicator": "HIV Viral Suppression",
+        "indicator_slug": "hiv-viral-suppression",
+        "description": "Percentage of persons living with HIV who have an undetectable viral load",
+        "citywide_baseline": [{
+          "value": "45.0%",
+          "beep": false,
+          "year": "2012"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "45.0%",
+          "beep": false,
+          "year": "2012"
+        }],
+        "target": {
+          "value": "90.0%",
+          "beep": false,
+          "change": "100% +"
+        },
+        "source": {
+          "title": "HIV Surveillance, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/provdrs/pol_plan_report/svcs/get_sti_hiv_datainchicago.html"
+        }
+      }, {
+        "indicator": "Chlamydia",
+        "indicator_slug": "chlamydia",
+        "description": "Rate of reported chlamydia cases",
+        "citywide_baseline": [{
+          "value": "1,013",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "African-American females under 25 years",
+        "priority_baseline": [{
+          "value": "4,567",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "3,425",
+          "beep": true,
+          "change": "25% -"
+        },
+        "source": {
+          "title": "STI Surveillance, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/provdrs/pol_plan_report/svcs/get_sti_hiv_datainchicago.html"
+        }
+      }
+    ]
+  }, {
+    "group": "Violence",
+    "id": "violence",
+    "rows": [{
+        "indicator": "Gun-related Homicides",
+        "indicator_slug": "gun-related-homicides",
+        "description": "Age-adjusted homicide rate as the result of firearm use",
+        "citywide_baseline": [{
+          "value": "10.8",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "African-American males",
+        "priority_baseline": [{
+          "value": "55.4",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "44.3",
+          "beep": true,
+          "change": "20% -"
+        },
+        "source": {
+          "title": "Death Data, Division of Vital Records, Illinois Department of Public Health",
+          "url": "http://www.dph.illinois.gov/topics-services/birth-death-other-records"
+        }
+      }, {
+        "indicator": "Non-fatal Shootings",
+        "indicator_slug": "non-fatal-shootings",
+        "description": "Number of non-fatal shootings reported",
+        "citywide_baseline": [{
+          "value": "2,435",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "2,435",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "1,948",
+          "beep": false,
+          "change": "20% -"
+        },
+        "source": {
+          "title": "Chicago Police Department",
+          "url": "http://home.chicagopolice.org/"
+        }
+      },
+      {
+        "indicator": "Sexual Assault",
+        "indicator_slug": "sexual-assault",
+        "description": "Number of sexual assault crimes reported",
+        "citywide_baseline": [{
+          "value": "2,395",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "2,395",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "2,156",
+          "beep": false,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Chicago Police Department",
+          "url": "http://home.chicagopolice.org/"
+        }
+      }, {
+        "indicator": "Violent Crime In Public Spaces",
+        "indicator_slug": "violent-crime-in-public-spaces",
+        "description": "Number of gun-related violent crimes reported that occurred in public spaces (e.g. street, sidewalk, park, etc)",
+        "citywide_baseline": [{
+          "value": "9,577",
+          "beep": false,
+          "year": "2014"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "9,577",
+          "beep": false,
+          "year": "2014"
+        }],
+        "target": {
+          "value": "7,662",
+          "beep": false,
+          "change": "20% -"
+        },
+        "source": {
+          "title": "Chicago Police Department",
+          "url": "http://home.chicagopolice.org/"
+        }
+      }, {
+        "indicator": "Suspensions",
+        "indicator_slug": "suspensions",
+        "description": "Percentage of Chicago Public School students who received out-of-school suspensions",
+        "citywide_baseline": [{
+          "value": "2.6%",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "2.6%",
+          "beep": false,
+          "year": "2014-2015"
+        }],
+        "target": {
+          "value": "1.3%",
+          "beep": false,
+          "change": "50% -"
+        },
+        "source": {
+          "title": "Chicago Public Schools",
+          "url": "http://cps.edu/Pages/home.aspx"
+        }
+      }, {
+        "indicator": "School Fights",
+        "indicator_slug": "school-fights",
+        "description": "Percentage of high school students who were in a physical fight on school property one or more times during the past 12 months",
+        "citywide_baseline": [{
+          "value": "16.9%",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "16.9%",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "12.7%",
+          "beep": true,
+          "change": "25% -"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "Bullying",
+        "indicator_slug": "bullying",
+        "description": "Percentage of high school students who report being bullied on school property",
+        "citywide_baseline": [{
+          "value": "13.0%",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "LGBTQ youth",
+        "priority_baseline": [{
+          "value": "30.4%",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "27.4%",
+          "beep": true,
+          "change": "10% -"
+        },
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        }
+      }, {
+        "indicator": "School Safety",
+        "indicator_slug": "school-safety",
+        "description": "Percentage of high school students who reported missing school due to safety concerns",
+        "citywide_baseline": [{
+          "value": "12.9%",
+          "beep": true,
+          "year": "2013"
+        }],
+        "priority_population": "Citywide",
+        "priority_baseline": [{
+          "value": "12.9%",
+          "beep": true,
+          "year": "2013"
+        }],
+        "target": {
+          "value": "10.3%",
+          "beep": true,
+          "change": "20% -"
+        },
+        "source": {
+          "title": "Youth Risk Behavioral Surveillance System, Chicago Public Schools",
+          "url": "http://www.cdc.gov/healthyyouth/data/yrbs/index.htm"
+        }
+      }, {
+        "indicator": "Social Cohesion",
+        "indicator_slug": "social-cohesion",
+        "description": "Shared values and trust among neighbors",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        },
+        "note": "Data and metric forthcoming"
+      }, {
+        "indicator": "Discrimination From Criminal Justice System",
+        "indicator_slug": "discrimination-from-criminal-justice-system",
+        "description": "Percentage of adults who report ever experiencing discrimination, been prevented from doing something or been hassled or made to feel inferior from the police or in the courts because of their race, ethnicity or color",
+        "citywide_baseline": [],
+        "priority_population": null,
+        "priority_baseline": [],
+        "target": {},
+        "source": {
+          "title": "Healthy Chicago Survey, Chicago Department of Public Health",
+          "url": "http://www.cityofchicago.org/city/en/depts/cdph/supp_info/clinical_health/healthy-chicago-survey.html"
+        },
+        "note": "Data available 2016"
+      }
+    ]
+  }]
+}

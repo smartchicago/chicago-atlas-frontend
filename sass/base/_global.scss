@@ -1,0 +1,60 @@
+
+* { box-sizing: border-box; }
+
+// Reset
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+dl, dd, ol, ul,
+form, fieldset, legend,
+table, th, td, caption,
+figure,
+hr {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+[id="root"] {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  margin: 0 auto;
+  min-height: 100%;
+  // Remove gray highlight when tapping links in mobile Safari
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a {
+  // kill tap delay for IE10
+  touch-action: manipulation;
+}
+
+// responsive images and videos
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+// override max-width if dimensions are set on element
+img[width],
+img[height] {
+  max-width: none;
+}
+
+label,
+input,
+textarea,
+button,
+select,
+option {
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}

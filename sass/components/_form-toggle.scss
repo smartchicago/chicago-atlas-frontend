@@ -1,0 +1,39 @@
+
+.c-form-toggle {
+  position: relative;
+  display: flex;
+  width: 100%;
+}
+
+.c-form-toggle__input {
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+  pointer-events: none;
+}
+
+.c-form-toggle__label {
+  position: relative;
+  flex: 1 1 auto;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  white-space: nowrap;
+  border: 1px solid $color-mystic;
+  background: linear-gradient(to bottom, $color-white, #f7f7f7);
+
+  &.active {
+    background: linear-gradient(to top, $color-white, #f7f7f7);
+    color: $color-coral-red;
+    font-weight: bold;
+  }
+
+  &:first-child:not(:last-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  &:last-child:not(:first-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+}

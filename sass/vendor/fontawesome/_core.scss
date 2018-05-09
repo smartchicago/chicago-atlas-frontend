@@ -1,0 +1,21 @@
+
+// Base Class Definition
+// -------------------------
+
+.#{$fa-css-prefix} {
+  // until font is loaded, hide icons
+  display: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  font-size: inherit;
+  line-height: 1;
+  text-rendering: auto; // optimizelegibility throws things off #1094
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  @include when-inside(".wf-active") {
+    display: inline-block;
+    font-family: FontAwesome;
+  }
+}

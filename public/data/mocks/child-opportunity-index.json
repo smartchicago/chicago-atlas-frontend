@@ -1,0 +1,309 @@
+[{
+  "area": "Rogers Park",
+  "slug": "rogers-park",
+  "value": "moderate"
+},{
+  "area": "West Ridge",
+  "slug": "west-ridge",
+  "value": "high"
+},{
+  "area": "Uptown",
+  "slug": "uptown",
+  "value": "high"
+},{
+  "area": "Lincoln Square",
+  "slug": "lincoln-square",
+  "value": "very high"
+},{
+  "area": "North Center",
+  "slug": "north-center",
+  "value": "very high"
+},{
+  "area": "Lakeview",
+  "slug": "lakeview",
+  "value": "very high"
+},{
+  "area": "Lincoln Park",
+  "slug": "lincoln-park",
+  "value": "very high"
+},{
+  "area": "Near North Side",
+  "slug": "near-north-side",
+  "value": "very high"
+},{
+  "area": "Edison Park",
+  "slug": "edison-park",
+  "value": "very high"
+},{
+  "area": "Norwood Park",
+  "slug": "norwood-park",
+  "value": "low"
+},{
+  "area": "Jefferson Park",
+  "slug": "jefferson-park",
+  "value": "high"
+},{
+  "area": "Forest Glen",
+  "slug": "Forest Glen",
+  "value": "very high"
+},{
+  "area": "North Park",
+  "slug": "north-park",
+  "value": "very high"
+},{
+  "area": "Albany Park",
+  "slug": "albany-park",
+  "value": "high"
+},{
+  "area": "Portage Park",
+  "slug": "portage-park",
+  "value": "high"
+},{
+  "area": "Irving Park",
+  "slug": "irving-park",
+  "value": "high"
+},{
+  "area": "Dunning",
+  "slug": "dunning",
+  "value": "low"
+},{
+  "area": "Monclare",
+  "slug": "monclare",
+  "value": "moderate"
+},{
+  "area": "Belmont Cragin",
+  "slug": "Belmont Cragin",
+  "value": "low"
+},{
+  "area": "Hermosa",
+  "slug": "hermosa",
+  "value": "low"
+},{
+  "area": "Avondale",
+  "slug": "avondale",
+  "value": "moderate"
+},{
+  "area": "Logan Square",
+  "slug": "logan-square",
+  "value": "high"
+},{
+  "area": "Humboldt Par",
+  "slug": "humboldt-par",
+  "value": "low"
+},{
+  "area": "West Town",
+  "slug": "west-town",
+  "value": "very high"
+},{
+  "area": "Austin",
+  "slug": "austin",
+  "value": "very low"
+},{
+  "area": "West Garfield Par",
+  "slug": "west-garfield-par",
+  "value": "very low"
+},{
+  "area": "East Garfield Par",
+  "slug": "east-garfield-par",
+  "value": "low"
+},{
+  "area": "Near West Side",
+  "slug": "near-west-side",
+  "value": "very high"
+},{
+  "area": "North Lawndale",
+  "slug": "north-lawndale",
+  "value": "very low"
+},{
+  "area": "South Lawndale",
+  "slug": "south-lawndale",
+  "value": "very low"
+},{
+  "area": "Lower West Side",
+  "slug": "lower-west-side",
+  "value": "moderate"
+},{
+  "area": "Loop",
+  "slug": "loop",
+  "value": "very high"
+},{
+  "area": "Near South Side",
+  "slug": "near-south-side",
+  "value": "very high"
+},{
+  "area": "Armour Square",
+  "slug": "armour-square",
+  "value": "high"
+},{
+  "area": "Douglas",
+  "slug": "douglas",
+  "value": "moderate"
+},{
+  "area": "Oakland",
+  "slug": "oakland",
+  "value": "low"
+},{
+  "area": "Fuller Park",
+  "slug": "fuller-park",
+  "value": "very low"
+},{
+  "area": "Grand Boulevard",
+  "slug": "grand-boulevard",
+  "value": "low"
+},{
+  "area": "Kenwood",
+  "slug": "kenwood",
+  "value": "high"
+},{
+  "area": "Washington Park",
+  "slug": "washington-park",
+  "value": "very low"
+},{
+  "area": "Hyde Park",
+  "slug": "hyde-park",
+  "value": "very high"
+},{
+  "area": "Woodlawn",
+  "slug": "woodlawn",
+  "value": "low"
+},{
+  "area": "South Shore",
+  "slug": "south-shore",
+  "value": "moderate"
+},{
+  "area": "Chatham",
+  "slug": "chatham",
+  "value": "moderate"
+},{
+  "area": "Avalon Park",
+  "slug": "avalon-park",
+  "value": "moderate"
+},{
+  "area": "South Chicago",
+  "slug": "south-chicago",
+  "value": "low"
+},{
+  "area": "Burnside",
+  "slug": "burnside",
+  "value": "low"
+},{
+  "area": "Calumet Heights",
+  "slug": "calumet-heights",
+  "value": "moderate"
+},{
+  "area": "Roseland",
+  "slug": "roseland",
+  "value": "low"
+},{
+  "area": "Pullman",
+  "slug": "pullman",
+  "value": "low"
+},{
+  "area": "South Deering",
+  "slug": "south-deering",
+  "value": "very low"
+},{
+  "area": "East Side",
+  "slug": "east-side",
+  "value": "very low"
+},{
+  "area": "West Pullman",
+  "slug": "west-pullman",
+  "value": "very low"
+},{
+  "area": "Riverdale",
+  "slug": "riverdale",
+  "value": "very low"
+},{
+  "area": "Hegewisch",
+  "slug": "hegewisch",
+  "value": "very low"
+},{
+  "area": "Garfield Ridge",
+  "slug": "garfield-ridge",
+  "value": "moderate"
+},{
+  "area": "Archer Heights",
+  "slug": "archer-heights",
+  "value": "very low"
+},{
+  "area": "Brighton Park",
+  "slug": "brighton-park",
+  "value": "very low"
+},{
+  "area": "McKinley Park",
+  "slug": "mckinley-park",
+  "value": "moderate"
+},{
+  "area": "Bridgeport",
+  "slug": "bridgeport",
+  "value": "high"
+},{
+  "area": "New City",
+  "slug": "new-city",
+  "value": "very low"
+},{
+  "area": "West Elsdon",
+  "slug": "west-elsdon",
+  "value": "moderate"
+},{
+  "area": "Gage Park",
+  "slug": "gage-park",
+  "value": "low"
+},{
+  "area": "Clearing",
+  "slug": "clearing",
+  "value": "moderate"
+},{
+  "area": "West Lawn",
+  "slug": "west-lawn",
+  "value": "moderate"
+},{
+  "area": "Chicago Lawn",
+  "slug": "chicago-lawn",
+  "value": "low"
+},{
+  "area": "West Englewood",
+  "slug": "west-englewood",
+  "value": "very low"
+},{
+  "area": "Englewood",
+  "slug": "englewood",
+  "value": "very low"
+},{
+  "area": "Greater Grand Cro",
+  "slug": "greater-grand-cro",
+  "value": "low"
+},{
+  "area": "Ashburn",
+  "slug": "ashburn",
+  "value": "high"
+},{
+  "area": "Auburn Gresham",
+  "slug": "Auburn Gresham",
+  "value": "low"
+},{
+  "area": "Beverly",
+  "slug": "beverly",
+  "value": "very high"
+},{
+  "area": "Washington Height",
+  "slug": "washington-height",
+  "value": "moderate"
+},{
+  "area": "Mount Greenwo",
+  "slug": "mount-greenwo",
+  "value": "very high"
+},{
+  "area": "Morgan Park",
+  "slug": "morgan-park",
+  "value": "high"
+},{
+  "area": "O'Hare",
+  "slug": "ohare",
+  "value": "high"
+},{
+  "area": "Edgewater",
+  "slug": "edgewater",
+  "value": "high"
+}]

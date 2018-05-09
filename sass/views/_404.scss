@@ -1,0 +1,29 @@
+.v-404__img {
+  max-width: em($spacing-xlarge * 10);
+  width: 100%;
+  padding-left: em(60);
+  padding-right: em(60);
+}
+
+.v-404__button {
+  background: $color-coral-red;
+  border-radius: 6px;
+  color: $color-white;
+  display: inline-block;
+  font-weight: 300;
+  margin-bottom: em(40);
+  min-width: 210px;
+  padding: em(12) 1em;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    background: darken($color-coral-red, 20);
+  }
+}
+
+.v-404__image-container {
+  padding: 2em 0;
+  border-top: em(60) solid $color-sail;
+  border-bottom: em(60) solid $color-sail;
+}

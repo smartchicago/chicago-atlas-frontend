@@ -1,0 +1,54 @@
+
+.recharts-surface {
+  width: 95% !important;
+  margin-left: 2% !important;
+}
+
+.recharts-text {
+  font-size: 13px;
+  transform: translateY(10px);
+  fill: $color-charade;
+  @extend %u-font--serif;
+}
+
+.recharts-y-axis {
+  position: relative;
+}
+
+.recharts-reference-line text {
+  fill: $color-charade;
+}
+
+
+.c-disparities__chart {
+  .recharts-bar-rectangle:first-child path,
+  .recharts-bar-labels text:first-child {
+    fill: $color-astronaut;
+  }
+
+  .recharts-bar-rectangle:nth-child(2) path,
+  .recharts-bar-labels text:nth-child(2) {
+    fill: $color-san-marino;
+  }
+
+  .recharts-bar-rectangle:nth-child(3) path,
+  .recharts-bar-labels text:nth-child(3) {
+    fill: $color-polo-blue;
+  }
+
+  .recharts-bar-rectangle:nth-child(4) path,
+  .recharts-bar-labels text:nth-child(4) {
+    fill: $color-botticeli;
+  }
+
+  .recharts-reference-line:first-child line {
+    stroke: $color-sail;
+    stroke-dasharray: 8;
+    stroke-width: 2;
+  }
+
+  .recharts-cartesian-axis-line {
+    stroke: $color-rolling-stone;
+  }
+
+}
